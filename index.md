@@ -166,6 +166,18 @@ _Students:_ Andrew da Silva, Juliete Zanelli, Vivian Negreiros, Ana Paula Croce,
 
 `2019`__Evolvability Working Group__, Centre for Advanced Studies, Norway.
 
+## Scientific Societies
+
+`2011-2019`	Society for the Study of Evolution 
+
+`2017-2019`	European Society for Evolutionary Biology
+
+`2014-2015`	American Association for the Advancement of Science 
+
+`2014-2015` International Mammalian Genomics Society 
+
+`2006-2012`	Sociedade Brasileira de Mastozoologia 
+
 ## Software
 
 `2019` __ml-morph:__ A fast, general and accurate approach for automated landmarking of biological images (Author)
