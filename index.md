@@ -6,8 +6,8 @@ title: Arthur Porto's CV
 Evolutionary Biology, Genetics, and Machine learning.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="agporto@gmail.com">agporto@gmail.com</a>
+| <a href="http://agporto.github.io">Personal website</a>
 </div>
 
 
