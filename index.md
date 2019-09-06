@@ -126,6 +126,16 @@ Marroig, G., L. Shirai, __A. Porto__, F.B. de Oliveira, V. De Conto. 2009. The E
 
 `2014` __Under-represented minority award__, International Mammalian Genomics Society, US
 
+## Expert Reviewer Service
+
+Methods in Ecology and Evolution, Proceedings of the Royal Society B, 	Evolution, Journal of Biogeography, Ecology and Evolution, Journal of Morphology, Journal of Zoology, 	Current Zoology, Revista Argentina de 	Antropología Biológica, Journal of Zoological Systematics and Evolutionary Research, Zoological letters.
+
+## Educational Outreach
+
+`2008-2009`__Itinerant exhibition “The giant cell”__ São Paulo, Brazil.                 			    
+
+Exhibition toured low-income high schools in São Paulo city for two academic years 
+
 ## Institutional Responsabilities
 
 `2018` __Committee member and Organizer__  Macroevolution Seminar Series, University of Oslo, Norway. 
