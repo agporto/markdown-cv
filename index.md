@@ -33,69 +33,38 @@ Universidade Cruzeiro do Sul, Brazil.
 
 ## Education
 
-`2010-2016`
-- __PhD Evolution, Ecology and Population Biology__ 
+`2010-2016`- __PhD Evolution, Ecology and Population Biology__ 
 
 Department of Biology, Washington University in St Louis, US
 
 _Advisor_: Dr. James M. Cheverud
 
-`2006-2009`
-- __Master of Sciences in Genetics and Evolutionary Biology__
+`2006-2009`- __Master of Sciences in Genetics and Evolutionary Biology__
 
 Departamento de Genetica e Biologia Evolutiva, Universidade de Sao Paulo,Brazil
 
 _Advisor_: Dr. Gabriel Marroig 
 
-`2002-2005`
-- __Bachelor of Science in Biology__
+`2002-2005`- __Bachelor of Science in Biology__
 
 Universidade de Sao Paulo, Brazil
 
 
-- Fellow
+## Fellowships and Awards
 
+### Fellowships 
+`2019–2020` 	__Fellow__, Centre for Advanced Studies, Academy for Sciences and Letters, Norway
+`2014–2016` __F31 Predoctoral Fellowship__, National Institutes of Health, NIH- NIDCR , US 	 
+`2006-2008` __Master’s Research Fellowship__, FAPESP, Sao Paulo, Brazil 
+`2004-2005`	__Undergraduate Fellowship__, FAPESP, Sao Paulo, Brazil  
 
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
+### Awards 
+`2018`	__Best talk by Early Career Researcher__, Larwood Meeting, Wales, UK
+`2015` __Initiative to Maximize Student Development (IMSD) Program Award__, US
+`2015`	__Finalist - Best student paper__ of the Journal of Evolutionary Biology, ESEB.
+`2014` __Under-represented minority award__, International Mammalian Genomics Society, US
 
 ## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
 
 
 
