@@ -101,9 +101,23 @@ Marroig, G., L. Shirai, __A. Porto__, F.B. de Oliveira, V. De Conto. 2009. The E
 
 `2014` __Under-represented minority award__, International Mammalian Genomics Society, US
 
+## Professional Workshops 
 
+`2017` __Genetic Analyses Workshop__, GAW20, San Diego, CA, US				    
 
+`2015` __Vertebrate Digitization__, Cornell University, Ithaca, NY, US 	 	
 
+`2014` __Evolutionary Quantitative Genetics__, NimBios, Knoxville, TN, US 	
+
+`2013` __Non-model Genomics Workshop__, Cornell University, Ithaca, NY,US 	
+
+`2004` __Evolutionary Quantitative Genetics__, University of São Paulo, Brazil
+
+## Consortiums/ Working groups
+
+`2019`__Consortium for automated image analyses of bryozoan colonies__ (BryoIMDB)*,  Multinational. __*Founder__
+
+`2019`__Evolvability Working Group__, Centre for Advanced Studies, Norway.
 <!-- ### Footer
 
 Last updated: May 2013 -->
