@@ -106,7 +106,7 @@ _Students:_ Andrew da Silva, Juliete Marcelli Zanelli, Damaris Alegreti, Leila P
 `Various`_Methods in Ecology and Evolution, Proceedings of the Royal Society B, 	Evolution, Journal of Biogeography, Ecology and Evolution, Journal of Morphology, Journal of Zoology, 	Current Zoology, Revista Argentina de 	Antropología Biológica, Journal of Zoological Systematics and Evolutionary Research, Zoological letters_.
 
 ## Educational Outreach
-`2008-2009`__Itinerant exhibition “The giant cell”__, São Paulo, Brazil.<br/>               			    
+`2008-2009`__Itinerant exhibition “The giant cell”__, São Paulo, Brazil.<br/>
 Exhibition toured low-income high schools in São Paulo city for two academic years 
 
 ## Institutional Responsabilities
@@ -129,11 +129,11 @@ _Students:_ Andrew da Silva, Juliete Zanelli, Vivian Negreiros, Ana Paula Croce,
 
 ## Scientific Societies
 
-`2011-2019`	Society for the Study of Evolution <br/>
-`2017-2019`	European Society for Evolutionary Biology <br/>
-`2014-2015`	American Association for the Advancement of Science <br/>
-`2014-2015` International Mammalian Genomics Society <br/
-`2006-2012`	Sociedade Brasileira de Mastozoologia 
+`2011-2019`	_Society for the Study of Evolution_ <br/>
+`2017-2019`	_European Society for Evolutionary Biology_ <br/>
+`2014-2015`	_American Association for the Advancement of Science_ <br/>
+`2014-2015` _International Mammalian Genomics Society_ <br/>
+`2006-2012`	_Sociedade Brasileira de Mastozoologia_ 
 
 ## Software
 
