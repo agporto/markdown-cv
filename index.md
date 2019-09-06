@@ -3,7 +3,9 @@ layout: cv
 title: Arthur Porto's CV
 ---
 # _Arthur Porto_
+
 Centre for Ecological and Evolutionary Synthesis
+
 University of Oslo, Norway
 
 <div id="webaddress">
