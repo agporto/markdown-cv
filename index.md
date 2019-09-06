@@ -3,7 +3,8 @@ layout: cv
 title: Arthur Porto's CV
 ---
 # Arthur Porto
-Evolutionary Biology, Genetics, and Machine learning.
+Centre for Ecological and Evolutionary Synthesis
+University of Oslo, Norway
 
 <div id="webaddress">
 <a href="agporto@gmail.com">agporto@gmail.com</a>
