@@ -10,33 +10,36 @@ Evolutionary Biology, Genetics, and Machine learning.
 | <a href="http://agporto.github.io">Personal website</a>
 </div>
 
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Evolutionary biology, Genetics, Machine-learning
 
+## Academic Appointments
+`2017-Present` __Postdoctoral Fellow in Evolutionary Biology__
+ Centre for Ecological and Evolutionary Synthesis, University of Oslo, Norway.
+`2016-2017` __Assistant Research Scientist__
+South Texas Diabetes and Obesity Institute, University of Texas Rio Grande Valley,US.	
+`2011-2012` __Graduate Teaching Assistant__
+Department of Biology, Washington University in St. Louis,US.
+`2008-2010` __Lecturer in Biological Sciences__
+Universidade Cruzeiro do Sul,Brazil. 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2010-2016`
+__PhD Evolution, Ecology and Population Biology__ 
+Department of Biology, Washington University in St Louis, US
+*Advisor*: Dr. James M. Cheverud
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2006-2009`
+__Master of Sciences in Genetics and Evolutionary Biology__
+Departamento de Genetica e Biologia Evolutiva, Universidade de Sao Paulo,Brazil
+*Advisor*: Dr. Gabriel Marroig 
 
-- Sizar
+`2002 - 2005`
+__Bachelor of Science in Biology__
+Universidade de Sao Paulo, Brazil
 
-`1667 - death`
-__Trinity College, Cambridge__
 
 - Fellow
 
