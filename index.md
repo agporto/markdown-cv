@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Arthur Porto's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Arthur Porto
+Evolutionary Biology, Genetics, and Machine learning.
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
