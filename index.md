@@ -79,7 +79,7 @@ __Porto, A.__, F. B. de Oliveira, L. Shirai, V.de Conto, G. Marroig. 2009. The e
 
 Marroig, G., L. Shirai, __A. Porto__, F.B. de Oliveira, V. De Conto. 2009. The Evolution of modularity in in the mammalian skull II: evolutionary consequences. _Evolutionary Biology_ v.36. p. 136-148. 
 
-## Teaching 
+## Teaching Experience
 ### Undergraduate 
 `2015` 	__Primary instructor__ _General Biology Lab_, Loyola University Chicago, US.
 
@@ -97,7 +97,7 @@ Marroig, G., L. Shirai, __A. Porto__, F.B. de Oliveira, V. De Conto. 2009. The E
 
 ### Graduate
 
-`2010`__Primary instructor (Web)__ _ Topics in Genetics and Evolutionary Biology_, Universidade Cruzeiro do Sul, Brazil.
+`2010`__Primary instructor (Web)__ _Topics in Genetics and Evolutionary Biology_, Universidade Cruzeiro do Sul, Brazil.
 
 ### Mentoring
 
@@ -128,11 +128,11 @@ Marroig, G., L. Shirai, __A. Porto__, F.B. de Oliveira, V. De Conto. 2009. The E
 
 ## Expert Reviewer Service
 
-Methods in Ecology and Evolution, Proceedings of the Royal Society B, 	Evolution, Journal of Biogeography, Ecology and Evolution, Journal of Morphology, Journal of Zoology, 	Current Zoology, Revista Argentina de 	Antropología Biológica, Journal of Zoological Systematics and Evolutionary Research, Zoological letters.
+_Methods in Ecology and Evolution, Proceedings of the Royal Society B, 	Evolution, Journal of Biogeography, Ecology and Evolution, Journal of Morphology, Journal of Zoology, 	Current Zoology, Revista Argentina de 	Antropología Biológica, Journal of Zoological Systematics and Evolutionary Research, Zoological letters_.
 
 ## Educational Outreach
 
-`2008-2009`__Itinerant exhibition “The giant cell”__ São Paulo, Brazil.                 			    
+`2008-2009`__Itinerant exhibition “The giant cell”__, São Paulo, Brazil.                 			    
 
 Exhibition toured low-income high schools in São Paulo city for two academic years 
 
@@ -168,7 +168,7 @@ _Students:_ Andrew da Silva, Juliete Zanelli, Vivian Negreiros, Ana Paula Croce,
 
 `2019` __ml-morph:__ A fast, general and accurate approach for automated landmarking of biological images (Author)
 
-https://github.com/agporto/ml-morph
+_https://github.com/agporto/ml-morph_
 
 
 <!-- ### Footer
