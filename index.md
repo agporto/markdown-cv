@@ -81,27 +81,29 @@ Marroig, G., L. Shirai, __A. Porto__, F.B. de Oliveira, V. De Conto. 2009. The E
 
 ## Teaching Experience
 ### Undergraduate 
-`2015` 	__Primary instructor__ _General Biology Lab_, Loyola University Chicago, US.
+`2015` 	__Primary instructor__, _General Biology Lab_, Loyola University Chicago, US.
 
-`2011-2012`	__Graduate Teaching Assistant__ _Evolution_, Washington University in St Louis, US.
+`2011-2012`	__Graduate Teaching Assistant__, _Evolution_, Washington University in St Louis, US.
 
-`2009-2010` __Primary instructor__ _Genetics I_, Universidade Cruzeiro do Sul, Brazil.
+`2009-2010` __Primary instructor__, _Genetics I_, Universidade Cruzeiro do Sul, Brazil.
 
-`2009-2010` __Primary instructor__ _Paleontology_, Universidade Cruzeiro do Sul, Brazil.
+`2009-2010` __Primary instructor__, _Paleontology_, Universidade Cruzeiro do Sul, Brazil.
 
-`2009` __Primary instructor__ _Genetics II_, Universidade Cruzeiro do Sul, Brazil.
+`2009` __Primary instructor__, _Genetics II_, Universidade Cruzeiro do Sul, Brazil.
 
-`2009` __Primary instructor__ _Genetics for Nursing Practitioners_, Universidade Cruzeiro do Sul, Brazil.
+`2009` __Primary instructor__, _Genetics for Nursing Practitioners_, Universidade Cruzeiro do Sul, Brazil.
 
-`2008-2009` __Primary instructor__ _Evolution_, Universidade Cruzeiro do Sul, Brazil.
+`2008-2009` __Primary instructor__, _Evolution_, Universidade Cruzeiro do Sul, Brazil.
 
 ### Graduate
 
-`2010`__Primary instructor (Web)__ _Topics in Genetics and Evolutionary Biology_, Universidade Cruzeiro do Sul, Brazil.
+`2010`__Primary instructor (Web)__, _Topics in Genetics and Evolutionary Biology_, Universidade Cruzeiro do Sul, Brazil.
 
 ### Mentoring
 
-`2009-2017`Mentored a total of 18 undergraduate students: Andrew da Silva, Juliete Marcelli Zanelli, Damaris Alegreti, Leila Primilla, Vivian Negreiros, Adriana Souza, Camila Santos, Angelica Fiedler, Ana Paula Croce, Jessica Fontes Chaves, Claudia Oliveira, Bruno Vinicius Cerqueira, Heather Caulkins, Katherine Pjevach, Alejandra Guevara, Ryan Schmelter, Sivaram Yeramati, Daphne Zuniga. 
+`2009-2017` __Mentorship of undergraduate students (18 total)__
+
+_Students:_ Andrew da Silva, Juliete Marcelli Zanelli, Damaris Alegreti, Leila Primilla, Vivian Negreiros, Adriana Souza, Camila Santos, Angelica Fiedler, Ana Paula Croce, Jessica Fontes Chaves, Claudia Oliveira, Bruno Vinicius Cerqueira, Heather Caulkins, Katherine Pjevach, Alejandra Guevara, Ryan Schmelter, Sivaram Yeramati, Daphne Zuniga. 
 
 
 ## Fellowships and Awards
@@ -138,11 +140,11 @@ Exhibition toured low-income high schools in São Paulo city for two academic ye
 
 ## Institutional Responsabilities
 
-`2018` __Committee member and Organizer__  Macroevolution Seminar Series, University of Oslo, Norway. 
+`2018` __Committee member and Organizer__, _Macroevolution Seminar Series_, University of Oslo, Norway. 
 
-`2011`	__Committee member and Organizer__ EEPB Seminar Series, Washington University in St Louis, US.
+`2011`	__Committee member and Organizer__, _EEPB Seminar Series_, Washington University in St Louis, US.
 
-`2009–2010` __Member of Undergraduate Thesis Committee__ Universidade Cruzeiro do Sul, Brazil.               	
+`2009–2010` __Member of Undergraduate Thesis Committee__, Universidade Cruzeiro do Sul, Brazil.               	
 
 _Students:_ Andrew da Silva, Juliete Zanelli, Vivian Negreiros, Ana Paula Croce, Claudia Oliveira 
 
