@@ -17,19 +17,19 @@ University of Oslo, Norway
 
 `2017-2020` __Postdoctoral Fellow in Evolutionary Biology__
  
- Centre for Ecological and Evolutionary Synthesis, University of Oslo, Norway.
+ &ensp;Centre for Ecological and Evolutionary Synthesis, University of Oslo, Norway.
  
 `2016-2017` __Assistant Research Scientist__
 
-South Texas Diabetes and Obesity Institute, University of Texas Rio Grande Valley, US.	
+&ensp;South Texas Diabetes and Obesity Institute, University of Texas Rio Grande Valley, US.	
 
 `2011-2012` __Graduate Teaching Assistant__
 
-Department of Biology, Washington University in St. Louis, US.
+&ensp;Department of Biology, Washington University in St. Louis, US.
 
 `2008-2010` __Lecturer in Biological Sciences__
 
-Universidade Cruzeiro do Sul, Brazil. 
+&ensp;Universidade Cruzeiro do Sul, Brazil. 
 
 ## Education
 
