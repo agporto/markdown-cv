@@ -53,15 +53,23 @@ Universidade de Sao Paulo, Brazil
 ## Fellowships and Awards
 
 ### Fellowships 
+
 `2019–2020` 	__Fellow__, Centre for Advanced Studies, Academy for Sciences and Letters, Norway
+
 `2014–2016` __F31 Predoctoral Fellowship__, National Institutes of Health, NIH- NIDCR , US 	 
-`2006-2008` __Master’s Research Fellowship__, FAPESP, Sao Paulo, Brazil 
-`2004-2005`	__Undergraduate Fellowship__, FAPESP, Sao Paulo, Brazil  
+
+`2006-2008` __Master’s Research Fellowship__, FAPESP, Sao Paulo, Brazil
+
+`2004-2005`	__Undergraduate Fellowship__, FAPESP, Sao Paulo, Brazil 
 
 ### Awards 
+
 `2018`	__Best talk by Early Career Researcher__, Larwood Meeting, Wales, UK
+
 `2015` __Initiative to Maximize Student Development (IMSD) Program Award__, US
+
 `2015`	__Finalist - Best student paper__ of the Journal of Evolutionary Biology, ESEB.
+
 `2014` __Under-represented minority award__, International Mammalian Genomics Society, US
 
 ## Publications
