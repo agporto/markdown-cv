@@ -30,24 +30,18 @@ University of Oslo, Norway
 ## Education
 
 `2010-2016` __PhD Evolution, Ecology and Population Biology__ 
-
-Department of Biology, Washington University in St Louis, US
-
-&ensp;_Advisor_: Dr. James M. Cheverud
+<br/>Department of Biology, Washington University in St Louis, US
+<br/>&ensp;_Advisor_: Dr. James M. Cheverud
 
 `2006-2009` __Master of Sciences in Genetics and Evolutionary Biology__
-
-Departamento de Genetica e Biologia Evolutiva, Universidade de Sao Paulo,Brazil
-
-&ensp;_Advisor_: Dr. Gabriel Marroig 
+<br/>Departamento de Genetica e Biologia Evolutiva, Universidade de Sao Paulo,Brazil
+<br/>&ensp;_Advisor_: Dr. Gabriel Marroig 
 
 `2002-2005` __Bachelor of Science in Biology__
-
-Universidade de Sao Paulo, Brazil
+<br/>Universidade de Sao Paulo, Brazil
 
 ## Publications
-
-__Porto, A.__ (2018). Variational Approaches to Evolvability: Short-and Long-Term Perspectives. _Evolutionary Developmental &ensp;Biology: A Reference Guide_, Springer, 1-14.
+__Porto, A.__ (2018). Variational Approaches to Evolvability: Short-and Long-Term Perspectives. _Evolutionary Developmental Biology: A Reference Guide_, Springer, 1-14.
 
 __Porto, A.__, J. M. Peralta, N. B. Blackburn and J. Blangero (2018). Reliability of genomic predictions of complex human phenotypes. _BMC proceedings_ vol. 12(9), p. 51.
 
@@ -77,107 +71,73 @@ Marroig, G., L. Shirai, __A. Porto__, F.B. de Oliveira, V. De Conto. 2009. The E
 
 ## Teaching Experience
 ### Undergraduate 
-`2015` 	__Primary instructor__, _General Biology Lab_, Loyola University Chicago, US.
-
-`2011-2012`	__Graduate Teaching Assistant__, _Evolution_, Washington University in St Louis, US.
-
-`2009-2010` __Primary instructor__, _Genetics I_, Universidade Cruzeiro do Sul, Brazil.
-
-`2009-2010` __Primary instructor__, _Paleontology_, Universidade Cruzeiro do Sul, Brazil.
-
-`2009` __Primary instructor__, _Genetics II_, Universidade Cruzeiro do Sul, Brazil.
-
-`2009` __Primary instructor__, _Genetics for Nursing Practitioners_, Universidade Cruzeiro do Sul, Brazil.
-
+`2015` 	__Primary instructor__, _General Biology Lab_, Loyola University Chicago, US.<br/>
+`2011-2012`	__Graduate Teaching Assistant__, _Evolution_, Washington University in St Louis, US.<br/>
+`2009-2010` __Primary instructor__, _Genetics I_, Universidade Cruzeiro do Sul, Brazil.<br/>
+`2009-2010` __Primary instructor__, _Paleontology_, Universidade Cruzeiro do Sul, Brazil.<br/>
+`2009` __Primary instructor__, _Genetics II_, Universidade Cruzeiro do Sul, Brazil.<br/>
+`2009` __Primary instructor__, _Genetics for Nursing Practitioners_, Universidade Cruzeiro do Sul, Brazil.<br/>
 `2008-2009` __Primary instructor__, _Evolution_, Universidade Cruzeiro do Sul, Brazil.
 
 ### Graduate
-
 `2010`__Primary instructor (Web)__, _Topics in Genetics and Evolutionary Biology_, Universidade Cruzeiro do Sul, Brazil.
 
 ### Mentoring
 
-`2009-2017` __Mentorship of undergraduate students (18 total)__
-
+`2009-2017` __Mentorship of undergraduate students (18 total)__<br/>
 _Students:_ Andrew da Silva, Juliete Marcelli Zanelli, Damaris Alegreti, Leila Primilla, Vivian Negreiros, Adriana Souza, Camila Santos, Angelica Fiedler, Ana Paula Croce, Jessica Fontes Chaves, Claudia Oliveira, Bruno Vinicius Cerqueira, Heather Caulkins, Katherine Pjevach, Alejandra Guevara, Ryan Schmelter, Sivaram Yeramati, Daphne Zuniga. 
 
 
 ## Fellowships and Awards
 
 ### Fellowships 
-
-`2019–2020` 	__Fellow__, Centre for Advanced Studies, Academy of Sciences and Letters, Norway
-
-`2014–2016` __F31 Predoctoral Fellowship__, National Institutes of Health, NIH- NIDCR , US 	 
-
-`2006-2008` __Master’s Research Fellowship__, FAPESP, Sao Paulo, Brazil
-
+`2019–2020` 	__Fellow__, Centre for Advanced Studies, Academy of Sciences and Letters, Norway<br/>
+`2014–2016` __F31 Predoctoral Fellowship__, National Institutes of Health, NIH- NIDCR , US <br/>
+`2006-2008` __Master’s Research Fellowship__, FAPESP, Sao Paulo, Brazil<br/>
 `2004-2005`	__Undergraduate Fellowship__, FAPESP, Sao Paulo, Brazil 
 
 ### Awards 
-
-`2018`	__Best talk by Early Career Researcher__, Larwood Meeting, Wales, UK
-
-`2015` __Initiative to Maximize Student Development (IMSD) Program Award__, US
-
-`2015`	__Finalist - Best student paper__ of the Journal of Evolutionary Biology, ESEB.
-
+`2018`	__Best talk by Early Career Researcher__, Larwood Meeting, Wales, UK <br/>
+`2015` __Initiative to Maximize Student Development (IMSD) Program Award__, US <br/>
+`2015`	__Finalist - Best student paper__ of the Journal of Evolutionary Biology, ESEB. <br/>
 `2014` __Under-represented minority award__, International Mammalian Genomics Society, US
 
 ## Expert Reviewer Service
-
 `Various`_Methods in Ecology and Evolution, Proceedings of the Royal Society B, 	Evolution, Journal of Biogeography, Ecology and Evolution, Journal of Morphology, Journal of Zoology, 	Current Zoology, Revista Argentina de 	Antropología Biológica, Journal of Zoological Systematics and Evolutionary Research, Zoological letters_.
 
 ## Educational Outreach
-
-`2008-2009`__Itinerant exhibition “The giant cell”__, São Paulo, Brazil.                 			    
-
+`2008-2009`__Itinerant exhibition “The giant cell”__, São Paulo, Brazil.<br/>               			    
 Exhibition toured low-income high schools in São Paulo city for two academic years 
 
 ## Institutional Responsabilities
-
-`2018` __Committee member and Organizer__, _Macroevolution Seminar Series_, University of Oslo, Norway. 
-
-`2011`	__Committee member and Organizer__, _EEPB Seminar Series_, Washington University in St Louis, US.
-
-`2009–2010` __Member of Undergraduate Thesis Committee__, Universidade Cruzeiro do Sul, Brazil.               	
-
+`2018` __Committee member and Organizer__, _Macroevolution Seminar Series_, University of Oslo, Norway. <br/>
+`2011`	__Committee member and Organizer__, _EEPB Seminar Series_, Washington University in St Louis, US.<br/>
+`2009–2010` __Member of Undergraduate Thesis Committee__, Universidade Cruzeiro do Sul, Brazil.         <br/>
 _Students:_ Andrew da Silva, Juliete Zanelli, Vivian Negreiros, Ana Paula Croce, Claudia Oliveira 
 
-## Professional Workshops 
-
-`2017` __Genetic Analyses Workshop__, GAW20, San Diego, CA, US				    
-
-`2015` __Vertebrate Digitization__, Cornell University, Ithaca, NY, US 	 	
-
-`2014` __Evolutionary Quantitative Genetics__, NimBios, Knoxville, TN, US 	
-
-`2013` __Non-model Genomics Workshop__, Cornell University, Ithaca, NY,US 	
-
+## Professional Workshops
+`2017` __Genetic Analyses Workshop__, GAW20, San Diego, CA, US	<br/>
+`2015` __Vertebrate Digitization__, Cornell University, Ithaca, NY, US <br/>
+`2014` __Evolutionary Quantitative Genetics__, NimBios, Knoxville, TN, US 	<br/>
+`2013` __Non-model Genomics Workshop__, Cornell University, Ithaca, NY,US 	<br/>
 `2004` __Evolutionary Quantitative Genetics__, University of São Paulo, Brazil
 
 ## Consortiums/ Working groups
 
-`2019`__Consortium for automated image analyses of bryozoan colonies (BryoIMDB)__,  Multinational.
-
+`2019`__Consortium for automated image analyses of bryozoan colonies (BryoIMDB)__,  Multinational.<br/>
 `2019`__Evolvability Working Group__, Centre for Advanced Studies, Norway.
 
 ## Scientific Societies
 
-`2011-2019`	Society for the Study of Evolution 
-
-`2017-2019`	European Society for Evolutionary Biology
-
-`2014-2015`	American Association for the Advancement of Science 
-
-`2014-2015` International Mammalian Genomics Society 
-
+`2011-2019`	Society for the Study of Evolution <br/>
+`2017-2019`	European Society for Evolutionary Biology <br/>
+`2014-2015`	American Association for the Advancement of Science <br/>
+`2014-2015` International Mammalian Genomics Society <br/
 `2006-2012`	Sociedade Brasileira de Mastozoologia 
 
 ## Software
 
-`2019` __ml-morph:__ A fast, general and accurate approach for automated landmarking of biological images (Author)
-
+`2019` __ml-morph:__ A fast, general and accurate approach for automated landmarking of biological images (Author)<br/>
 _https://github.com/agporto/ml-morph_
 
 
