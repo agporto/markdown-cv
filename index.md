@@ -115,9 +115,10 @@ Marroig, G., L. Shirai, __A. Porto__, F.B. de Oliveira, V. De Conto. 2009. The E
 
 ## Consortiums/ Working groups
 
-`2019`__Consortium for automated image analyses of bryozoan colonies__ (BryoIMDB)*,  Multinational. __*Founder__
+`2019`__Consortium for automated image analyses of bryozoan colonies (BryoIMDB)__,  Multinational.
 
 `2019`__Evolvability Working Group__, Centre for Advanced Studies, Norway.
+
 <!-- ### Footer
 
 Last updated: May 2013 -->
