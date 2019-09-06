@@ -49,6 +49,35 @@ _Advisor_: Dr. Gabriel Marroig
 
 Universidade de Sao Paulo, Brazil
 
+## Publications
+
+__Porto, A.__ (2018). Variational Approaches to Evolvability: Short-and Long-Term Perspectives. _Evolutionary Developmental Biology: A Reference Guide_, Springer, 1-14.
+
+__Porto, A.__, J. M. Peralta, N. B. Blackburn and J. Blangero (2018). Reliability of genomic predictions of complex human phenotypes. _BMC proceedings_ vol. 12(9), p. 51.
+
+Blackburn, N.B., __A. Porto__, J. M. Peralta and J. Blangero. (2018). Heritability and genetic associations of triglyceride and HDL-C levels using pedigree-based and empirical kinships. _BMC proceedings_ vol. 12(9), p. 34.
+
+Peralta,J.M., N. B. Blackburn, __A. Porto__, J. Blangero, and J. Charlesworth. (2018). Genome-wide linkage scan for loci influencing plasma triglyceride levels. _BMC proceedings_ vol. 12(9), p. 52.
+
+__Porto, A.__, R. Schmelter$, J.L. Vandeberg, G. Marroig and J.M. Cheverud. (2016). Evolution of the genotype-to-phenotype map and the cost of pleiotropy in mammals. _Genetics_ v.204(4), pp.1601-1612. __$ mentored student co-autorship__.
+
+Grabowski, M. G.* and __A. Porto__* (2016). How many more? Sample size determination in studies of morphological integration and evolvability.  _Methods in Ecology and Evolution_, v.8(5), pp.592-603. __*Co-first authors__
+
+Melo, D.*, __A. Porto__ *, J.M. Cheverud, and G. Marroig (2016). Modularity: genes, development and evolution. _Annual Review of Ecology, Evolution, and Systematics_ v.47 (1). __*Co-first authors__
+
+__Porto, A.__, H. Sebastiao, S. Pavan, J. L.VandeBerg, G. Marroig and J. M. Cheverud. 2015. Rate of evolutionary change in cranial morphology of the marsupial genus Monodelphis is constrained by the availability of additive genetic variation. _Journal of Evolutionary Biology_ v.28(4), p.973-985. __Finalist- Best Student Paper__.
+
+__Porto, A.__, F. B. de Oliveira, L. Shirai,   G. Marroig. 2013. Size variation, growth strategies and the evolution of modularity in the mammalian skull. _Evolution_ v.67, p.3305-3322. 
+
+Marcelli, J. $, __A.Porto__. 2011. Análise da percepção sobre a fauna brasileira dos estudantes do Ensino Fundamental e Médio da cidade de São Paulo. Book chapter (Portuguese).  __$ mentored student authorship__
+
+Marroig, G., D. Melo, __A. Porto__, H. Sebastiao, G.Garcia. 2011. Selection response decomposition (SRD):  a new tool for dissecting differences and similarities between matrices. _Evolutionary Biology_ v.38 (2), p.225-241.
+
+Oliveira, F.B. de, __A. Porto__, G. Marroig. 2009. Covariance structure in the skull of Old World Monkeys: a case of pattern stasis and magnitude evolution. Journal of Human Evolution v.56 (4), p.417-430.  
+
+__Porto, A.__, F. B. de Oliveira, L. Shirai, V.de Conto, G. Marroig. 2009. The evolution of modularity in the mammalian skull I: morphological integration patterns and magnitudes. _Evolutionary Biology_ v. 36. p. 118-135.  
+
+Marroig, G., L. Shirai, __A. Porto__, F.B. de Oliveira, V. De Conto. 2009. The Evolution of modularity in in the mammalian skull II: evolutionary consequences. _Evolutionary Biology_ v.36. p. 136-148. 
 
 ## Fellowships and Awards
 
@@ -72,7 +101,6 @@ Universidade de Sao Paulo, Brazil
 
 `2014` __Under-represented minority award__, International Mammalian Genomics Society, US
 
-## Publications
 
 
 
