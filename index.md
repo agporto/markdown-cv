@@ -110,7 +110,7 @@ _Students:_ Andrew da Silva, Juliete Marcelli Zanelli, Damaris Alegreti, Leila P
 
 ### Fellowships 
 
-`2019–2020` 	__Fellow__, Centre for Advanced Studies, Academy for Sciences and Letters, Norway
+`2019–2020` 	__Fellow__, Centre for Advanced Studies, Academy of Sciences and Letters, Norway
 
 `2014–2016` __F31 Predoctoral Fellowship__, National Institutes of Health, NIH- NIDCR , US 	 
 
