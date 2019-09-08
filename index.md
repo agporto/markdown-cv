@@ -80,13 +80,12 @@ Marroig, G., L. Shirai, __A. Porto__, F.B. de Oliveira, V. De Conto. 2009. The E
 `2008-2009` __Primary instructor__, _Evolution_, Universidade Cruzeiro do Sul, Brazil.
 
 ### Graduate
+`2017`__Invited instructor__, _Latin American School of Evolution_, Universidade de Sao Paulo, Brazil.
 `2010`__Primary instructor (Web)__, _Topics in Genetics and Evolutionary Biology_, Universidade Cruzeiro do Sul, Brazil.
 
 ### Mentoring
-
 `2009-2017` __Mentorship of undergraduate students (18 total)__<br/>
 _Students:_ Andrew da Silva, Juliete Marcelli Zanelli, Damaris Alegreti, Leila Primilla, Vivian Negreiros, Adriana Souza, Camila Santos, Angelica Fiedler, Ana Paula Croce, Jessica Fontes Chaves, Claudia Oliveira, Bruno Vinicius Cerqueira, Heather Caulkins, Katherine Pjevach, Alejandra Guevara, Ryan Schmelter, Sivaram Yeramati, Daphne Zuniga. 
-
 
 ## Fellowships and Awards
 
@@ -101,6 +100,11 @@ _Students:_ Andrew da Silva, Juliete Marcelli Zanelli, Damaris Alegreti, Leila P
 `2015` __Initiative to Maximize Student Development (IMSD) Program Award__, US <br/>
 `2015`	__Finalist - Best student paper__ of the Journal of Evolutionary Biology, ESEB. <br/>
 `2014` __Under-represented minority award__, International Mammalian Genomics Society, US
+
+## Selected Presentations
+`2019`__Centre for Advanced Studies__, Oslo, Norway. _ Phenomic tools for the study of evolvability_. (invited talk) <br/>
+`2019`__IBA meeting__, Liberec,Czech Republic. _Morphological evolution of a single lineage through 2 million years: a study on Steginoporella magnifica_. (contributed talk) <br/>
+`2018`__Larwood meeting__ Cardiff, Wales. _High-throughput phenotyping of Bryozoan specimens using machine learning: a Cheilostome case study_. (contributed talk) <br/>
 
 ## Expert Reviewer Service
 `Various`_Methods in Ecology and Evolution, Proceedings of the Royal Society B, 	Evolution, Journal of Biogeography, Ecology and Evolution, Journal of Morphology, Journal of Zoology, 	Current Zoology, Revista Argentina de 	Antropología Biológica, Journal of Zoological Systematics and Evolutionary Research, Zoological letters_.
