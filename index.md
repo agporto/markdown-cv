@@ -13,7 +13,7 @@ University of Oslo, Norway
 | <a href="http://agporto.github.io">agporto.github.io</a>
 </div>
 
-## Academic Appointments
+## Academic Appointments <br/>
 
 `2017-2020` __Postdoctoral Fellow in Evolutionary Biology__
  <br/>Centre for Ecological and Evolutionary Synthesis, University of Oslo, Norway.
@@ -27,7 +27,7 @@ University of Oslo, Norway
 `2008-2010` __Lecturer in Biological Sciences__
 <br/>Universidade Cruzeiro do Sul, Brazil. 
 
-## Education
+## Education <br/>
 
 `2010-2016` __PhD Evolution, Ecology and Population Biology__ 
 <br/>Department of Biology, Washington University in St Louis, US
@@ -40,7 +40,7 @@ University of Oslo, Norway
 `2002-2005` __Bachelor of Science in Biology__
 <br/>Universidade de Sao Paulo, Brazil
 
-## Publications
+## Publications <br/>
 `2018` __Porto, A.__ 2018. Variational Approaches to Evolvability: Short-and Long-Term Perspectives. _Evolutionary Developmental Biology: A Reference Guide_, Springer, 1-14.
 
 `2018` __Porto, A.__, J. M. Peralta, N. B. Blackburn and J. Blangero. 2018. Reliability of genomic predictions of complex human phenotypes. _BMC proceedings_ vol. 12(9), p. 51.
