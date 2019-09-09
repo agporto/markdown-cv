@@ -131,10 +131,11 @@ h2 {
 	font-size: 1.1em;
 	color: #a00;
 	margin-top: 1em;
+	margin-bottom: 0.5em;
 	position: relative;
 	top: 1.5em;
-	text-align: right;
-	width: 17%;
+	text-align: left;
+	width: 37%;
 }
 
 h2+p {
