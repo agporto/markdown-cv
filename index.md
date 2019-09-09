@@ -15,29 +15,29 @@ University of Oslo, Norway
 
 ## Academic Appointments
 
-`2017-2020` __Postdoctoral Fellow in Evolutionary Biology__
+`2017-20` __Postdoctoral Fellow in Evolutionary Biology__
  <br/>Centre for Ecological and Evolutionary Synthesis, University of Oslo, Norway.
  
-`2016-2017` __Assistant Research Scientist__
+`2016-17` __Assistant Research Scientist__
 <br/>South Texas Diabetes and Obesity Institute, University of Texas Rio Grande Valley, US.	
 
-`2011-2012` __Graduate Teaching Assistant__
+`2011-12` __Graduate Teaching Assistant__
 <br/>Department of Biology, Washington University in St. Louis, US.
 
-`2008-2010` __Lecturer in Biological Sciences__
+`2008-10` __Lecturer in Biological Sciences__
 <br/>Universidade Cruzeiro do Sul, Brazil. 
 
 ## Education
 
-`2010-2016` __PhD Evolution, Ecology and Population Biology__ 
+`2010-16` __PhD Evolution, Ecology and Population Biology__ 
 <br/>Department of Biology, Washington University in St Louis, US
 <br/>&ensp;_Advisor_: Dr. James M. Cheverud
 
-`2006-2009` __Master of Sciences in Genetics and Evolutionary Biology__
+`2006-09` __Master of Sciences in Genetics and Evolutionary Biology__
 <br/>Departamento de Genetica e Biologia Evolutiva, Universidade de Sao Paulo,Brazil
 <br/>&ensp;_Advisor_: Dr. Gabriel Marroig 
 
-`2002-2005` __Bachelor of Science in Biology__
+`2002-05` __Bachelor of Science in Biology__
 <br/>Universidade de Sao Paulo, Brazil
 
 ## Publications
@@ -72,28 +72,28 @@ University of Oslo, Norway
 ## Teaching Experience
 ### Undergraduate 
 `2015` 	__Primary instructor__, _General Biology Lab_, Loyola University Chicago, US.<br/>
-`2011-2012`	__Graduate Teaching Assistant__, _Evolution_, Washington University in St Louis, US.<br/>
-`2009-2010` __Primary instructor__, _Genetics I_, Universidade Cruzeiro do Sul, Brazil.<br/>
-`2009-2010` __Primary instructor__, _Paleontology_, Universidade Cruzeiro do Sul, Brazil.<br/>
+`2011-12`	__Graduate Teaching Assistant__, _Evolution_, Washington University in St Louis, US.<br/>
+`2009-10` __Primary instructor__, _Genetics I_, Universidade Cruzeiro do Sul, Brazil.<br/>
+`2009-10` __Primary instructor__, _Paleontology_, Universidade Cruzeiro do Sul, Brazil.<br/>
 `2009` __Primary instructor__, _Genetics II_, Universidade Cruzeiro do Sul, Brazil.<br/>
 `2009` __Primary instructor__, _Genetics for Nursing Practitioners_, Universidade Cruzeiro do Sul, Brazil.<br/>
-`2008-2009` __Primary instructor__, _Evolution_, Universidade Cruzeiro do Sul, Brazil.
+`2008-09` __Primary instructor__, _Evolution_, Universidade Cruzeiro do Sul, Brazil.
 
 ### Graduate
 `2017`__Invited instructor__, _Latin American School of Evolution_, Universidade de Sao Paulo, Brazil. <br/>
 `2010`__Primary instructor (Web)__, _Topics in Genetics and Evolutionary Biology_, Universidade Cruzeiro do Sul, Brazil.
 
 ### Mentoring
-`2009-2017` __Mentorship of undergraduate students (18 total)__<br/>
+`2009-17` __Mentorship of undergraduate students (18 total)__<br/>
 _Students:_ Andrew da Silva, Juliete Marcelli Zanelli, Damaris Alegreti, Leila Primilla, Vivian Negreiros, Adriana Souza, Camila Santos, Angelica Fiedler, Ana Paula Croce, Jessica Fontes Chaves, Claudia Oliveira, Bruno Vinicius Cerqueira, Heather Caulkins, Katherine Pjevach, Alejandra Guevara, Ryan Schmelter, Sivaram Yeramati, Daphne Zuniga. 
 
 ## Fellowships and Awards
 
 ### Fellowships 
-`2019–2020` 	__Fellow__, Centre for Advanced Studies, Academy of Sciences and Letters, Norway<br/>
-`2014–2016` __F31 Predoctoral Fellowship__, National Institutes of Health, NIH- NIDCR , US <br/>
-`2006-2008` __Master’s Research Fellowship__, FAPESP, Sao Paulo, Brazil<br/>
-`2004-2005`	__Undergraduate Fellowship__, FAPESP, Sao Paulo, Brazil 
+`2019–20` 	__Fellow__, Centre for Advanced Studies, Academy of Sciences and Letters, Norway<br/>
+`2014–16` __F31 Predoctoral Fellowship__, National Institutes of Health, NIH- NIDCR , US <br/>
+`2006-08` __Master’s Research Fellowship__, FAPESP, Sao Paulo, Brazil<br/>
+`2004-05`	__Undergraduate Fellowship__, FAPESP, Sao Paulo, Brazil 
 
 ### Awards 
 `2018`	__Best talk by Early Career Researcher__, Larwood Meeting, Wales, UK <br/>
@@ -117,13 +117,13 @@ _Students:_ Andrew da Silva, Juliete Marcelli Zanelli, Damaris Alegreti, Leila P
 `Various`_Methods in Ecology and Evolution, Proceedings of the Royal Society B, 	Evolution, Journal of Biogeography, Ecology and Evolution, Journal of Morphology, Journal of Zoology, 	Current Zoology, Revista Argentina de 	Antropología Biológica, Journal of Zoological Systematics and Evolutionary Research, Zoological letters_.
 
 ## Educational Outreach
-`2008-2009`__Itinerant exhibition “The giant cell”__, São Paulo, Brazil.<br/>
+`2008-09`__Itinerant exhibition “The giant cell”__, São Paulo, Brazil.<br/>
 Exhibition toured low-income high schools in São Paulo city for two academic years 
 
 ## Institutional Responsabilities
 `2018` __Committee member and Organizer__, _Macroevolution Seminar Series_, University of Oslo, Norway. <br/>
 `2011`	__Committee member and Organizer__, _EEPB Seminar Series_, Washington University in St Louis, US.<br/>
-`2009–2010` __Member of Undergraduate Thesis Committee__, Universidade Cruzeiro do Sul, Brazil.         <br/>
+`2009–10` __Member of Undergraduate Thesis Committee__, Universidade Cruzeiro do Sul, Brazil.         <br/>
 _Students:_ Andrew da Silva, Juliete Zanelli, Vivian Negreiros, Ana Paula Croce, Claudia Oliveira 
 
 ## Professional Workshops
@@ -138,11 +138,11 @@ _Students:_ Andrew da Silva, Juliete Zanelli, Vivian Negreiros, Ana Paula Croce,
 `2019`__Evolvability Working Group__, Centre for Advanced Studies, Norway.
 
 ## Scientific Societies
-`2011-2019`	_Society for the Study of Evolution_ <br/>
-`2017-2019`	_European Society for Evolutionary Biology_ <br/>
-`2014-2015`	_American Association for the Advancement of Science_ <br/>
-`2014-2015` _International Mammalian Genomics Society_ <br/>
-`2006-2012`	_Sociedade Brasileira de Mastozoologia_ 
+`2011-19`	_Society for the Study of Evolution_ <br/>
+`2017-19`	_European Society for Evolutionary Biology_ <br/>
+`2014-15`	_American Association for the Advancement of Science_ <br/>
+`2014-15` _International Mammalian Genomics Society_ <br/>
+`2006-12`	_Sociedade Brasileira de Mastozoologia_ 
 
 ## Software
 `2019` __ml-morph:__ A fast, general and accurate approach for automated landmarking of biological images (Author)<br/>
