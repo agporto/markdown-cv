@@ -63,10 +63,10 @@ body {
 
 p {
 	position: relative;
-	left: 25%;
+	left: 30%;
 	/* margin-bottom: 0.2em; */
 	margin-right: 0;
-	width: 65%;
+	width: 75%;
 }
 
 code {
@@ -84,7 +84,7 @@ p code {
 
 ul {
 	position: relative;
-	left: 25%;
+	left: 30%;
 	width: 75%;
 	margin-bottom: 1em;
 	margin-top: 2em;
