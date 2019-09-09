@@ -88,7 +88,6 @@ ul {
 	width: 65%;
 	margin-bottom: 1em;
 	margin-top: 2em;
-	margin-right: 1em;
 	columns: 3;
 	-webkit-columns: 3;
 	-moz-columns: 3;
@@ -102,6 +101,7 @@ li ul {
 	position: relative;
 	left: 0;
 	margin-top: 0.25em;
+	margin-right: 1em;
 }
 
 h1,h2,h3,h4 {
