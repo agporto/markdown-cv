@@ -80,7 +80,7 @@ University of Oslo, Norway
 `2008-2009` __Primary instructor__, _Evolution_, Universidade Cruzeiro do Sul, Brazil.
 
 ### Graduate
-`2017`__Invited instructor__, _Latin American School of Evolution_, Universidade de Sao Paulo, Brazil.
+`2017`__Invited instructor__, _Latin American School of Evolution_, Universidade de Sao Paulo, Brazil. <br/>
 `2010`__Primary instructor (Web)__, _Topics in Genetics and Evolutionary Biology_, Universidade Cruzeiro do Sul, Brazil.
 
 ### Mentoring
@@ -111,7 +111,7 @@ _Students:_ Andrew da Silva, Juliete Marcelli Zanelli, Damaris Alegreti, Leila P
 `2015`__Evolution Meeting 2015__, Guaruja, Brazil. _Pleiotropy as the genetics basis for the high craniofacial integration among marsupials._ (contributed talk) <br/>
 `2014`__28th International Mammalian Genome Conference__, Guaruja, Brazil. _The genetic basis of morphological variation in the skull of the gray short-tailed opossum, Monodelphis domestica._ (contributed talk) <br/>
 `2014`__Evolution Meeting 2014__, Raleigh, US. _A preliminary analysis of ontogenetic integration in the gray short-tailed opossum,Monodelphis domestica._ (contributed talk) <br/>
-`2013`__Evolution Meeting 2013__, Snowbird, US. _Evolutionary inference based on phenotypic covariation: testing assumptions using the marsupial genus Monodelphis._ (contributed talk) <br/>
+`2013`__Evolution Meeting 2013__, Snowbird, US. _Evolutionary inference based on phenotypic covariation: testing assumptions using the marsupial genus Monodelphis._ (contributed talk)
 
 ## Expert Reviewer Service
 `Various`_Methods in Ecology and Evolution, Proceedings of the Royal Society B, 	Evolution, Journal of Biogeography, Ecology and Evolution, Journal of Morphology, Journal of Zoology, 	Current Zoology, Revista Argentina de 	Antropología Biológica, Journal of Zoological Systematics and Evolutionary Research, Zoological letters_.
@@ -134,12 +134,10 @@ _Students:_ Andrew da Silva, Juliete Zanelli, Vivian Negreiros, Ana Paula Croce,
 `2004` __Evolutionary Quantitative Genetics__, University of São Paulo, Brazil
 
 ## Consortiums/ Working groups
-
 `2019`__Consortium for automated image analyses of bryozoan colonies (BryoIMDB)__,  Multinational.<br/>
 `2019`__Evolvability Working Group__, Centre for Advanced Studies, Norway.
 
 ## Scientific Societies
-
 `2011-2019`	_Society for the Study of Evolution_ <br/>
 `2017-2019`	_European Society for Evolutionary Biology_ <br/>
 `2014-2015`	_American Association for the Advancement of Science_ <br/>
@@ -147,10 +145,8 @@ _Students:_ Andrew da Silva, Juliete Zanelli, Vivian Negreiros, Ana Paula Croce,
 `2006-2012`	_Sociedade Brasileira de Mastozoologia_ 
 
 ## Software
-
 `2019` __ml-morph:__ A fast, general and accurate approach for automated landmarking of biological images (Author)<br/>
 _https://github.com/agporto/ml-morph_
-
 
 <!-- ### Footer
 
