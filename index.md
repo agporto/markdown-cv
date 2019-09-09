@@ -134,7 +134,7 @@ _Students:_ Andrew da Silva, Juliete Zanelli, Vivian Negreiros, Ana Paula Croce,
 `2013` __Non-model Genomics Workshop__, Cornell University, Ithaca, NY,US 	<br/>
 `2004` __Evolutionary Quantitative Genetics__, University of São Paulo, Brazil
 
-## Consortiums/ Working groups
+## Consortia/ Working groups
 `2019`__Consortium for automated image analyses of bryozoan colonies (BryoIMDB)__,  Multinational.<br/>
 `2019`__Evolvability Working Group__, Centre for Advanced Studies, Norway.
 
@@ -151,6 +151,6 @@ _https://github.com/agporto/ml-morph_
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: May 2019 -->
 
 
