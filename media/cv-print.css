@@ -134,7 +134,7 @@ h2 {
 	position: relative;
 	top: 1.5em;
 	text-align: right;
-	width: 20%;
+	width: 10%;
 }
 
 h2+p {
@@ -149,7 +149,7 @@ h3 {
 	position: relative;
 	top: 1.6em;
 	text-align: right;
-	width: 20%;
+	width: 10%;
 }
 
 a {
