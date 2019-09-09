@@ -11,6 +11,7 @@ University of Oslo, Norway
 <div id="webaddress">
 <a href="agporto@gmail.com">agporto@gmail.com</a>
 | <a href="http://agporto.github.io">agporto.github.io</a>
+| <a href="+47 459 16 589">phone</a>
 </div>
 
 ## Academic Appointments <br/>
