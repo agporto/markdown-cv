@@ -85,7 +85,7 @@ University of Oslo, Norway
 `2010`__Primary instructor (Web)__, _Topics in Genetics and Evolutionary Biology_, Universidade Cruzeiro do Sul, Brazil.
 
 ### Other 
-`2019`__Software Carpentry Instructor__, The Carpentries. https://carpentries.org
+`2019`__Software Carpentry Instructor__, The Carpentries. https://carpentries.org <br/>
 
 ### Mentoring
 `2009-2017` __Mentorship of undergraduate students (18 total)__<br/>
@@ -125,7 +125,7 @@ _Students:_ Andrew da Silva, Juliete Marcelli Zanelli, Damaris Alegreti, Leila P
 
 ## Outreach
 `2017` __21st Legislative Tour of the Rio Grande Valley__, Texas, US.
-Direct conversation with Texas Lawmakers, with the goal of increasing the contact between local communities and policymakers.
+Direct conversation with Texas Lawmakers, with the goal of increasing the contact between local communities and policymakers. <br/>
 `2008-2009`__Itinerant exhibition “The giant cell”__, São Paulo, Brazil.<br/>
 Exhibition toured low-income high schools in São Paulo city for two academic years. I was involved in the planning, organization and presentation of the exhibition.
 
