@@ -115,7 +115,10 @@ _Students:_ Andrew da Silva, Juliete Marcelli Zanelli, Damaris Alegreti, Leila P
 `2015`__Evolution Meeting 2015__, Guaruja, Brazil. _Pleiotropy as the genetics basis for the high craniofacial integration among marsupials._ (contributed talk) <br/>
 `2014`__28th International Mammalian Genome Conference__, Guaruja, Brazil. _The genetic basis of morphological variation in the skull of the gray short-tailed opossum, Monodelphis domestica._ (contributed talk) <br/>
 `2014`__Evolution Meeting 2014__, Raleigh, US. _A preliminary analysis of ontogenetic integration in the gray short-tailed opossum,Monodelphis domestica._ (contributed talk) <br/>
-`2013`__Evolution Meeting 2013__, Snowbird, US. _Evolutionary inference based on phenotypic covariation: testing assumptions using the marsupial genus Monodelphis._ (contributed talk)
+`2013`__Evolution Meeting 2013__, Snowbird, US. _Evolutionary inference based on phenotypic covariation: testing assumptions using the marsupial genus Monodelphis._ (contributed talk) <br/>
+`2013`__Washington University in St Louis__, Missouri, US. _Evolutionary inference based on phenotypic integration: testing assumptions using the marsupial genus Monodelphis_. (invited talk) <br/>
+`2011`__Washington University in St Louis__, Missouri, US. _Constraints in the evolution of body size in mammals_. (invited talk) <br/>
+`2009`__Universidade de Sao Paulo__, Sao Paulo, Brazil. _Size matters: morphological evolution of the mammalian skull_. (invited talk)
 
 ## Expert Reviewer Service
 `Various`_Methods in Ecology and Evolution, Proceedings of the Royal Society B, 	Evolution, Journal of Biogeography, Ecology and Evolution, Journal of Morphology, Journal of Zoology, 	Current Zoology, Revista Argentina de 	Antropología Biológica, Journal of Zoological Systematics and Evolutionary Research, Zoological letters_.
