@@ -120,9 +120,11 @@ _Students:_ Andrew da Silva, Juliete Marcelli Zanelli, Damaris Alegreti, Leila P
 ## Expert Reviewer Service
 `Various`_Methods in Ecology and Evolution, Proceedings of the Royal Society B, 	Evolution, Journal of Biogeography, Ecology and Evolution, Journal of Morphology, Journal of Zoology, 	Current Zoology, Revista Argentina de 	Antropología Biológica, Journal of Zoological Systematics and Evolutionary Research, Zoological letters_.
 
-## Educational Outreach
+## Outreach
+`2017` __21st Legislative Tour of the Rio Grande Valley__, Texas, US.
+Direct conversation with Texas Lawmakers, with the goal of increasing the contact between local communities and policymakers.
 `2008-2009`__Itinerant exhibition “The giant cell”__, São Paulo, Brazil.<br/>
-Exhibition toured low-income high schools in São Paulo city for two academic years 
+Exhibition toured low-income high schools in São Paulo city for two academic years. I was involved in the planning, organization and presentation of the exhibition.
 
 ## Institutional Responsability
 `2018` __Committee member and Organizer__, _Macroevolution Seminar Series_, University of Oslo, Norway. <br/>
