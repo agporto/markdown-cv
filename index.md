@@ -41,19 +41,19 @@ University of Oslo, Norway
 <br/>Universidade de Sao Paulo, Brazil
 
 ## Publications
-`2018` __Porto, A.__ (2018). Variational Approaches to Evolvability: Short-and Long-Term Perspectives. _Evolutionary Developmental Biology: A Reference Guide_, Springer, 1-14.
+`2018` __Porto, A.__ 2018. Variational Approaches to Evolvability: Short-and Long-Term Perspectives. _Evolutionary Developmental Biology: A Reference Guide_, Springer, 1-14.
 
-`2018` __Porto, A.__, J. M. Peralta, N. B. Blackburn and J. Blangero (2018). Reliability of genomic predictions of complex human phenotypes. _BMC proceedings_ vol. 12(9), p. 51.
+`2018` __Porto, A.__, J. M. Peralta, N. B. Blackburn and J. Blangero. 2018. Reliability of genomic predictions of complex human phenotypes. _BMC proceedings_ vol. 12(9), p. 51.
 
-`2018` Blackburn, N.B., __A. Porto__, J. M. Peralta and J. Blangero. (2018). Heritability and genetic associations of triglyceride and HDL-C levels using pedigree-based and empirical kinships. _BMC proceedings_ vol. 12(9), p. 34.
+`2018` Blackburn, N.B., __A. Porto__, J. M. Peralta and J. Blangero. 2018. Heritability and genetic associations of triglyceride and HDL-C levels using pedigree-based and empirical kinships. _BMC proceedings_ vol. 12(9), p. 34.
 
-`2018` Peralta,J.M., N. B. Blackburn, __A. Porto__, J. Blangero, and J. Charlesworth. (2018). Genome-wide linkage scan for loci influencing plasma triglyceride levels. _BMC proceedings_ vol. 12(9), p. 52.
+`2018` Peralta,J.M., N. B. Blackburn, __A. Porto__, J. Blangero, and J. Charlesworth. 2018. Genome-wide linkage scan for loci influencing plasma triglyceride levels. _BMC proceedings_ vol. 12(9), p. 52.
 
-`2016` __Porto, A.__, R. Schmelter$, J.L. Vandeberg, G. Marroig and J.M. Cheverud. (2016). Evolution of the genotype-to-phenotype map and the cost of pleiotropy in mammals. _Genetics_ v.204(4), pp.1601-1612. __$ mentored student co-autorship__.
+`2016` __Porto, A.__, R. Schmelter$, J.L. Vandeberg, G. Marroig and J.M. Cheverud. 2016. Evolution of the genotype-to-phenotype map and the cost of pleiotropy in mammals. _Genetics_ v.204(4), pp.1601-1612. __$ mentored student co-autorship__.
 
-`2016` Grabowski, M. G.* and __A. Porto__* (2016). How many more? Sample size determination in studies of morphological integration and evolvability.  _Methods in Ecology and Evolution_, v.8(5), pp.592-603. __*Co-first authors__
+`2016` Grabowski, M. G.* and __A. Porto__* 2016. How many more? Sample size determination in studies of morphological integration and evolvability.  _Methods in Ecology and Evolution_, v.8(5), pp.592-603. __*Co-first authors__
 
-`2016` Melo, D.*, __A. Porto__ *, J.M. Cheverud, and G. Marroig (2016). Modularity: genes, development and evolution. _Annual Review of Ecology, Evolution, and Systematics_ v.47 (1). __*Co-first authors__
+`2016` Melo, D.*, __A. Porto__ *, J.M. Cheverud, and G. Marroig. 2016. Modularity: genes, development and evolution. _Annual Review of Ecology, Evolution, and Systematics_ v.47 (1). __*Co-first authors__
 
 `2015` __Porto, A.__, H. Sebastiao, S. Pavan, J. L.VandeBerg, G. Marroig and J. M. Cheverud. 2015. Rate of evolutionary change in cranial morphology of the marsupial genus Monodelphis is constrained by the availability of additive genetic variation. _Journal of Evolutionary Biology_ v.28(4), p.973-985. __Finalist- Best Student Paper__.
 
