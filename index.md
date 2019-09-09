@@ -41,33 +41,33 @@ University of Oslo, Norway
 <br/>Universidade de Sao Paulo, Brazil
 
 ## Publications
-__Porto, A.__ (2018). Variational Approaches to Evolvability: Short-and Long-Term Perspectives. _Evolutionary Developmental Biology: A Reference Guide_, Springer, 1-14.
+`2018` __Porto, A.__ (2018). Variational Approaches to Evolvability: Short-and Long-Term Perspectives. _Evolutionary Developmental Biology: A Reference Guide_, Springer, 1-14.
 
-__Porto, A.__, J. M. Peralta, N. B. Blackburn and J. Blangero (2018). Reliability of genomic predictions of complex human phenotypes. _BMC proceedings_ vol. 12(9), p. 51.
+`2018` __Porto, A.__, J. M. Peralta, N. B. Blackburn and J. Blangero (2018). Reliability of genomic predictions of complex human phenotypes. _BMC proceedings_ vol. 12(9), p. 51.
 
-Blackburn, N.B., __A. Porto__, J. M. Peralta and J. Blangero. (2018). Heritability and genetic associations of triglyceride and HDL-C levels using pedigree-based and empirical kinships. _BMC proceedings_ vol. 12(9), p. 34.
+`2018` Blackburn, N.B., __A. Porto__, J. M. Peralta and J. Blangero. (2018). Heritability and genetic associations of triglyceride and HDL-C levels using pedigree-based and empirical kinships. _BMC proceedings_ vol. 12(9), p. 34.
 
-Peralta,J.M., N. B. Blackburn, __A. Porto__, J. Blangero, and J. Charlesworth. (2018). Genome-wide linkage scan for loci influencing plasma triglyceride levels. _BMC proceedings_ vol. 12(9), p. 52.
+`2018` Peralta,J.M., N. B. Blackburn, __A. Porto__, J. Blangero, and J. Charlesworth. (2018). Genome-wide linkage scan for loci influencing plasma triglyceride levels. _BMC proceedings_ vol. 12(9), p. 52.
 
-__Porto, A.__, R. Schmelter$, J.L. Vandeberg, G. Marroig and J.M. Cheverud. (2016). Evolution of the genotype-to-phenotype map and the cost of pleiotropy in mammals. _Genetics_ v.204(4), pp.1601-1612. __$ mentored student co-autorship__.
+`2016` __Porto, A.__, R. Schmelter$, J.L. Vandeberg, G. Marroig and J.M. Cheverud. (2016). Evolution of the genotype-to-phenotype map and the cost of pleiotropy in mammals. _Genetics_ v.204(4), pp.1601-1612. __$ mentored student co-autorship__.
 
-Grabowski, M. G.* and __A. Porto__* (2016). How many more? Sample size determination in studies of morphological integration and evolvability.  _Methods in Ecology and Evolution_, v.8(5), pp.592-603. __*Co-first authors__
+`2016` Grabowski, M. G.* and __A. Porto__* (2016). How many more? Sample size determination in studies of morphological integration and evolvability.  _Methods in Ecology and Evolution_, v.8(5), pp.592-603. __*Co-first authors__
 
-Melo, D.*, __A. Porto__ *, J.M. Cheverud, and G. Marroig (2016). Modularity: genes, development and evolution. _Annual Review of Ecology, Evolution, and Systematics_ v.47 (1). __*Co-first authors__
+`2016` Melo, D.*, __A. Porto__ *, J.M. Cheverud, and G. Marroig (2016). Modularity: genes, development and evolution. _Annual Review of Ecology, Evolution, and Systematics_ v.47 (1). __*Co-first authors__
 
-__Porto, A.__, H. Sebastiao, S. Pavan, J. L.VandeBerg, G. Marroig and J. M. Cheverud. 2015. Rate of evolutionary change in cranial morphology of the marsupial genus Monodelphis is constrained by the availability of additive genetic variation. _Journal of Evolutionary Biology_ v.28(4), p.973-985. __Finalist- Best Student Paper__.
+`2015` __Porto, A.__, H. Sebastiao, S. Pavan, J. L.VandeBerg, G. Marroig and J. M. Cheverud. 2015. Rate of evolutionary change in cranial morphology of the marsupial genus Monodelphis is constrained by the availability of additive genetic variation. _Journal of Evolutionary Biology_ v.28(4), p.973-985. __Finalist- Best Student Paper__.
 
-__Porto, A.__, F. B. de Oliveira, L. Shirai,   G. Marroig. 2013. Size variation, growth strategies and the evolution of modularity in the mammalian skull. _Evolution_ v.67, p.3305-3322. 
+`2013` __Porto, A.__, F. B. de Oliveira, L. Shirai,   G. Marroig. 2013. Size variation, growth strategies and the evolution of modularity in the mammalian skull. _Evolution_ v.67, p.3305-3322. 
 
-Marcelli, J. $, __A.Porto__. 2011. Análise da percepção sobre a fauna brasileira dos estudantes do Ensino Fundamental e Médio da cidade de São Paulo. Book chapter (Portuguese).  __$ mentored student authorship__
+`2011` Marcelli, J. $, __A.Porto__. 2011. Análise da percepção sobre a fauna brasileira dos estudantes do Ensino Fundamental e Médio da cidade de São Paulo. Book chapter (Portuguese).  __$ mentored student authorship__
 
-Marroig, G., D. Melo, __A. Porto__, H. Sebastiao, G.Garcia. 2011. Selection response decomposition (SRD):  a new tool for dissecting differences and similarities between matrices. _Evolutionary Biology_ v.38 (2), p.225-241.
+`2011` Marroig, G., D. Melo, __A. Porto__, H. Sebastiao, G.Garcia. 2011. Selection response decomposition (SRD):  a new tool for dissecting differences and similarities between matrices. _Evolutionary Biology_ v.38 (2), p.225-241.
 
-Oliveira, F.B. de, __A. Porto__, G. Marroig. 2009. Covariance structure in the skull of Old World Monkeys: a case of pattern stasis and magnitude evolution. Journal of Human Evolution v.56 (4), p.417-430.  
+`2009` Oliveira, F.B. de, __A. Porto__, G. Marroig. 2009. Covariance structure in the skull of Old World Monkeys: a case of pattern stasis and magnitude evolution. Journal of Human Evolution v.56 (4), p.417-430.  
 
-__Porto, A.__, F. B. de Oliveira, L. Shirai, V.de Conto, G. Marroig. 2009. The evolution of modularity in the mammalian skull I: morphological integration patterns and magnitudes. _Evolutionary Biology_ v. 36. p. 118-135.  
+`2009` __Porto, A.__, F. B. de Oliveira, L. Shirai, V.de Conto, G. Marroig. 2009. The evolution of modularity in the mammalian skull I: morphological integration patterns and magnitudes. _Evolutionary Biology_ v. 36. p. 118-135.  
 
-Marroig, G., L. Shirai, __A. Porto__, F.B. de Oliveira, V. De Conto. 2009. The Evolution of modularity in in the mammalian skull II: evolutionary consequences. _Evolutionary Biology_ v.36. p. 136-148. 
+`2009` Marroig, G., L. Shirai, __A. Porto__, F.B. de Oliveira, V. De Conto. 2009. The Evolution of modularity in in the mammalian skull II: evolutionary consequences. _Evolutionary Biology_ v.36. p. 136-148. 
 
 ## Teaching Experience
 ### Undergraduate 
@@ -103,8 +103,15 @@ _Students:_ Andrew da Silva, Juliete Marcelli Zanelli, Damaris Alegreti, Leila P
 
 ## Selected Presentations
 `2019`__Centre for Advanced Studies__, Oslo, Norway. _ Phenomic tools for the study of evolvability_. (invited talk) <br/>
-`2019`__IBA meeting__, Liberec,Czech Republic. _Morphological evolution of a single lineage through 2 million years: a study on Steginoporella magnifica_. (contributed talk) <br/>
-`2018`__Larwood meeting__ Cardiff, Wales. _High-throughput phenotyping of Bryozoan specimens using machine learning: a Cheilostome case study_. (contributed talk) <br/>
+`2019`__18th IBA meeting__, Liberec,Czech Republic. _Morphological evolution of a single lineage through 2 million years: a study on Steginoporella magnifica_. (contributed talk) <br/>
+`2018`__15th Larwood meeting__ Cardiff, Wales. _High-throughput phenotyping of Bryozoan specimens using machine learning: a Cheilostome case study_. (contributed talk) <br/>
+`2017`__16th ESEB meeting__, Groningen, Netherlands. _Connecting micro and macroevolution through quantitative genetics : a study on New World Marsupials_. (contributed talk) <br/>
+`2017`__University of Texas Rio Grande Valley__, Texas, US. _A QTL analysis of blood cholesterol traits in laboratory opossums._. (invited talk) <br/>
+`2015`__University of Texas Rio Grande Valley__, Texas, US. _The genetic architecture of blood cholesterol traits in the short-tailed opossum, Monodelphis domestica._ (invited talk) <br/>
+`2015`__Evolution Meeting 2015__, Guaruja, Brazil. _Pleiotropy as the genetics basis for the high craniofacial integration among marsupials._ (contributed talk) <br/>
+`2014`__28th International Mammalian Genome Conference__, Guaruja, Brazil. _The genetic basis of morphological variation in the skull of the gray short-tailed opossum, Monodelphis domestica._ (contributed talk) <br/>
+`2014`__Evolution Meeting 2014__, Raleigh, US. _A preliminary analysis of ontogenetic integration in the gray short-tailed opossum,Monodelphis domestica._ (contributed talk) <br/>
+`2013`__Evolution Meeting 2013__, Snowbird, US. _Evolutionary inference based on phenotypic covariation: testing assumptions using the marsupial genus Monodelphis._ (contributed talk) <br/>
 
 ## Expert Reviewer Service
 `Various`_Methods in Ecology and Evolution, Proceedings of the Royal Society B, 	Evolution, Journal of Biogeography, Ecology and Evolution, Journal of Morphology, Journal of Zoology, 	Current Zoology, Revista Argentina de 	Antropología Biológica, Journal of Zoological Systematics and Evolutionary Research, Zoological letters_.
