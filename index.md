@@ -64,7 +64,7 @@ University of Oslo, Norway
 
 `2011` Marroig, G., D. Melo, __A. Porto__, H. Sebastiao, G.Garcia. 2011. Selection response decomposition (SRD):  a new tool for dissecting differences and similarities between matrices. _Evolutionary Biology_ v.38 (2), p.225-241.
 
-`2009` Oliveira, F.B. de, __A. Porto__, G. Marroig. 2009. Covariance structure in the skull of Old World Monkeys: a case of pattern stasis and magnitude evolution. Journal of Human Evolution v.56 (4), p.417-430.  
+`2009` Oliveira, F.B. de, __A. Porto__, G. Marroig. 2009. Covariance structure in the skull of Old World Monkeys: a case of pattern stasis and magnitude evolution. _Journal of Human Evolution_ v.56 (4), p.417-430.  
 
 `2009` __Porto, A.__, F. B. de Oliveira, L. Shirai, V.de Conto, G. Marroig. 2009. The evolution of modularity in the mammalian skull I: morphological integration patterns and magnitudes. _Evolutionary Biology_ v. 36. p. 118-135.  
 
