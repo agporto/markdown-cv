@@ -1,7 +1,6 @@
 ---
 layout: cv
 title: Arthur Porto's CV
-author_profile: true
 ---
 # _Arthur Porto_
 
