@@ -99,9 +99,9 @@ University of Oslo, Norway
 `2009-2017` __Mentorship of undergraduate students (18 total)__<br/>
 _Students:_ Andrew da Silva, Juliete Marcelli Zanelli, Damaris Alegreti, Leila Primilla, Vivian Negreiros, Adriana Souza, Camila Santos, Angelica Fiedler, Ana Paula Croce, Jessica Fontes Chaves, Claudia Oliveira, Bruno Vinicius Cerqueira, Heather Caulkins, Katherine Pjevach, Alejandra Guevara, Ryan Schmelter, Sivaram Yeramati, Daphne Zuniga. 
 
-## Fellowships and Awards
+## Grants, Fellowships and Awards
 
-### Fellowships 
+### Grants and Fellowships 
 `2019–2020` 	__Fellow__, Centre for Advanced Studies, Academy of Sciences and Letters, Norway<br/>
 `2014–2016` __F31 Predoctoral Fellowship__, National Institutes of Health, NIH- NIDCR , US <br/>
 `2006-2008` __Master’s Research Fellowship__, FAPESP, Sao Paulo, Brazil<br/>
