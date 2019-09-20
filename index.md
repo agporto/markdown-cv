@@ -42,6 +42,14 @@ University of Oslo, Norway
 <br/>Universidade de Sao Paulo, Brazil
 
 ## Publications <br/>
+### In review
+`2019`__Porto,A.__ and K.J. Voje. 2019. ML-morph: A Fast, Accurate and General Approach for Automated Detection and Landmarking of Biological Structures in Images.bioRxiv (Submitted to _Methods in Ecology and Evolution_). 
+
+`2019`Voje, K.L., Di Martino, E. and __A. Porto__. 2019. Revisiting a landmark study-system: no evidence for punctuated equilibrium in _Metrarabdotos_. The American Naturalist (Minor revision). 
+
+`2019` Machado, F., Hubbe, A., Melo, D., __Porto, A.__ and G. Marroig. 2019. Measuring the magnitude of morphological integration: the effect of differences in morphometric representations and the inclusion of size. _Evolution_ (Minor revision).
+
+### Published 
 `2018` __Porto, A.__ 2018. Variational Approaches to Evolvability: Short-and Long-Term Perspectives. _Evolutionary Developmental Biology: A Reference Guide_, Springer, 1-14.
 
 `2018` __Porto, A.__, J. M. Peralta, N. B. Blackburn and J. Blangero. 2018. Reliability of genomic predictions of complex human phenotypes. _BMC proceedings_ vol. 12(9), p. 51.
