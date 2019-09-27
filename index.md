@@ -161,6 +161,9 @@ _Students:_ Andrew da Silva, Juliete Zanelli, Vivian Negreiros, Ana Paula Croce,
 `2014-2015` _International Mammalian Genomics Society_ <br/>
 `2006-2012`	_Sociedade Brasileira de Mastozoologia_ 
 
+## Fieldwork 
+`2010` __Tremembe formation__, _Tabate basin_ (Oligocene-Miocene), Brazil.
+
 ## Software
 `2019` __ml-morph:__ A fast, general and accurate approach for automated landmarking of biological images (Author)<br/>
 _https://github.com/agporto/ml-morph_
