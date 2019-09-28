@@ -14,6 +14,9 @@ University of Oslo, Norway
 | <a href="+47 459 16 589">+47 459 16 589</a>
 </div>
 
+## Career Breaks
+`05/2018-12/2018`- Paternity leave - Care of child
+
 ## Academic Appointments <br/>
 
 `2017-2020` __Postdoctoral Fellow in Evolutionary Biology__
