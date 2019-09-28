@@ -15,7 +15,7 @@ University of Oslo, Norway
 </div>
 
 ## Career Breaks
-`05/2018-12/2018`- Paternity leave - Care of child
+`2018` __Paternity leave__ - _Care of child (7 months)_
 
 ## Academic Appointments <br/>
 
