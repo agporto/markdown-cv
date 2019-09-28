@@ -117,7 +117,7 @@ _Students:_ Andrew da Silva, Juliete Marcelli Zanelli, Damaris Alegreti, Leila P
 `2014` __Under-represented minority award__, International Mammalian Genomics Society, US
 
 ## Selected Presentations
-`2019`__Centre for Advanced Studies__, Oslo, Norway. _Phenomic tools for the study of evolvability_. (invited talk) <br/>
+`2019`__Centre for Advanced Studies__, Oslo, Norway. _Phenomic tools for the study of evolvability_.(contributed talk) <br/>
 `2019`__18th IBA meeting__, Liberec,Czech Republic. _Morphological evolution of a single lineage through 2 million years: a study on Steginoporella magnifica_. (contributed talk) <br/>
 `2018`__15th Larwood meeting__ Cardiff, Wales. _High-throughput phenotyping of Bryozoan specimens using machine learning: a Cheilostome case study_. (contributed talk) <br/>
 `2017`__16th ESEB meeting__, Groningen, Netherlands. _Connecting micro and macroevolution through quantitative genetics : a study on New World Marsupials_. (contributed talk) <br/>
