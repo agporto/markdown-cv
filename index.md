@@ -102,8 +102,8 @@ _Students:_ Andrew da Silva, Juliete Marcelli Zanelli, Damaris Alegreti, Leila P
 
 ## Grants, Fellowships and Awards
 
-### Grants and Fellowships 
-`2019–2020` 	__Fellow__, Centre for Advanced Studies, Academy of Sciences and Letters, Norway<br/>
+### Grants/Fellowships 
+`2019–2020` 	__Research Fellow__, Centre for Advanced Studies, Academy of Sciences and Letters, Norway<br/>
 `2014–2016` __F31 Predoctoral Fellowship__, National Institutes of Health, NIH- NIDCR , US <br/>
 `2006-2008` __Master’s Research Fellowship__, FAPESP, Sao Paulo, Brazil<br/>
 `2004-2005`	__Undergraduate Fellowship__, FAPESP, Sao Paulo, Brazil 
