@@ -14,8 +14,6 @@ University of Oslo, Norway
 | <a href="+47 459 16 589">+47 459 16 589</a>
 </div>
 
-## Career Breaks
-`2018` __Paternity leave__ - _Care of child (7 months)_
 
 ## Academic Appointments <br/>
 
@@ -170,6 +168,9 @@ _Students:_ Andrew da Silva, Juliete Zanelli, Vivian Negreiros, Ana Paula Croce,
 ## Software
 `2019` __ml-morph:__ A fast, general and accurate approach for automated landmarking of biological images (Author)<br/>
 _https://github.com/agporto/ml-morph_
+
+## Career Breaks
+`2018` __Paternity leave__ - _Care of child (7 months)_
 
 <!-- ### Footer
 
