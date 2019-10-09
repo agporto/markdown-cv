@@ -44,13 +44,13 @@ University of Oslo, Norway
 
 ## Publications <br/>
 ### In review
-`2019`__Porto,A.__ and K.J. Voje. 2019. ML-morph: A Fast, Accurate and General Approach for Automated Detection and Landmarking of Biological Structures in Images.bioRxiv (Submitted to _Methods in Ecology and Evolution_). 
+`2019`__Porto,A.__ and K.J. Voje. 2019. ML-morph: A Fast, Accurate and General Approach for Automated Detection and Landmarking of Biological Structures in Images._Methods in Ecology and Evolution_ (Major revision)
 
-`2019`Voje, K.L., Di Martino, E. and __A. Porto__. 2019. Revisiting a landmark study-system: no evidence for punctuated equilibrium in _Metrarabdotos_. The American Naturalist (Minor revision). 
-
-`2019` Machado, F., Hubbe, A., Melo, D., __Porto, A.__ and G. Marroig. 2019. Measuring the magnitude of morphological integration: the effect of differences in morphometric representations and the inclusion of size. _Evolution_ (Minor revision).
+`2019`Voje, K.L., Di Martino, E. and __A. Porto__. 2019. Revisiting a landmark study-system: no evidence for punctuated equilibrium in _Metrarabdotos_. _The American Naturalist_ (Minor revision). 
 
 ### Published 
+`2019` Machado, F., Hubbe, A., Melo, D., __Porto, A.__ and G. Marroig. 2019. Measuring the magnitude of morphological integration: the effect of differences in morphometric representations and the inclusion of size. _Evolution_ (Minor revision).
+
 `2018` __Porto, A.__ 2018. Variational Approaches to Evolvability: Short-and Long-Term Perspectives. _Evolutionary Developmental Biology: A Reference Guide_, Springer, 1-14.
 
 `2018` __Porto, A.__, J. M. Peralta, N. B. Blackburn and J. Blangero. 2018. Reliability of genomic predictions of complex human phenotypes. _BMC proceedings_ vol. 12(9), p. 51.
@@ -94,7 +94,7 @@ University of Oslo, Norway
 `2010`__Primary instructor (Web)__, _Topics in Genetics and Evolutionary Biology_, Universidade Cruzeiro do Sul, Brazil.
 
 ### Other 
-`2019`__Software Carpentry Instructor__, The Carpentries. https://carpentries.org <br/>
+`2019`__Software Carpentry Instructor__, The Carpentries (completed training requirements) <br/>
 
 ### Mentoring
 `2009-2017` __Mentorship of undergraduate students (18 total)__<br/>
@@ -165,7 +165,7 @@ _Students:_ Andrew da Silva, Juliete Zanelli, Vivian Negreiros, Ana Paula Croce,
 ## Fieldwork 
 `2010` __Tremembe formation__, _Taubate basin_ (Oligocene-Miocene), Brazil.
 
-## Software
+## Software Developed
 `2019` __ml-morph:__ A fast, general and accurate approach for automated landmarking of biological images (Author)<br/>
 _https://github.com/agporto/ml-morph_
 
