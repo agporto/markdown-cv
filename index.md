@@ -103,12 +103,14 @@ _Students:_ Andrew da Silva, Juliete Marcelli Zanelli, Damaris Alegreti, Leila P
 ## Grants, Fellowships and Awards
 
 ### Grants/Fellowships 
+
 `2019–2020` 	__Research Fellow__, Centre for Advanced Studies, Academy of Sciences and Letters, Norway<br/>
 `2014–2016` __F31 Predoctoral Fellowship__, National Institutes of Health, NIH- NIDCR , US <br/>
 `2006-2008` __Master’s Research Fellowship__, FAPESP, Sao Paulo, Brazil<br/>
 `2004-2005`	__Undergraduate Fellowship__, FAPESP, Sao Paulo, Brazil 
 
 ### Awards 
+
 `2018`	__Best talk by Early Career Researcher__, Larwood Meeting, Wales, UK <br/>
 `2015` __Initiative to Maximize Student Development (IMSD) Program Award__, US <br/>
 `2015`	__Finalist - Best student paper__ of the Journal of Evolutionary Biology, ESEB. <br/>
@@ -137,6 +139,7 @@ _Students:_ Andrew da Silva, Juliete Marcelli Zanelli, Damaris Alegreti, Leila P
 Direct conversation with Texas Lawmakers, with the goal of increasing the contact between local communities and policymakers. <br/>
 `2008-2009`__Itinerant exhibition “The giant cell”__, São Paulo, Brazil.<br/>
 Exhibition toured low-income high schools in São Paulo city for two academic years. I was involved in the planning, organization and presentation of the exhibition.
+
 
 ## Institutional Responsability
 `2018` __Committee member and Organizer__, _Macroevolution Seminar Series_, University of Oslo, Norway. <br/>
