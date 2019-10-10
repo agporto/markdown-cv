@@ -93,9 +93,6 @@ University of Oslo, Norway
 `2017`__Invited instructor__, _Latin American School of Evolution_, Universidade de Sao Paulo, Brazil. <br/>
 `2010`__Primary instructor (Web)__, _Topics in Genetics and Evolutionary Biology_, Universidade Cruzeiro do Sul, Brazil.
 
-### Other 
-`2019`__Software Carpentry Instructor__, The Carpentries (completed training requirements) <br/>
-
 ### Mentoring
 `2009-2017` __Mentorship of undergraduate students (18 total)__<br/>
 _Students:_ Andrew da Silva, Juliete Marcelli Zanelli, Damaris Alegreti, Leila Primilla, Vivian Negreiros, Adriana Souza, Camila Santos, Angelica Fiedler, Ana Paula Croce, Jessica Fontes Chaves, Claudia Oliveira, Bruno Vinicius Cerqueira, Heather Caulkins, Katherine Pjevach, Alejandra Guevara, Ryan Schmelter, Sivaram Yeramati, Daphne Zuniga. 
