@@ -170,9 +170,9 @@ _Students:_ Andrew da Silva, Juliete Zanelli, Vivian Negreiros, Ana Paula Croce,
 _https://github.com/agporto/ml-morph_
 
 ## Languages
-Fluent: English and Portuguese
+__Fluent__: English and Portuguese
 
-Intermediate: Spanish
+__Intermediate__: Spanish
 
 <!-- ### Footer
 
