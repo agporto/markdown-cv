@@ -49,7 +49,7 @@ University of Oslo, Norway
 `2019`Voje, K.L., Di Martino, E. and __A. Porto__. 2019. Revisiting a landmark study-system: no evidence for punctuated equilibrium in _Metrarabdotos_. _The American Naturalist_ (Minor revision). 
 
 ### Published 
-`2019` Machado, F., Hubbe, A., Melo, D., __Porto, A.__ and G. Marroig. 2019. Measuring the magnitude of morphological integration: the effect of differences in morphometric representations and the inclusion of size. _Evolution_ (Minor revision).
+`2019` Machado, F., Hubbe, A., Melo, D., __Porto, A.__ and G. Marroig. 2019. Measuring the magnitude of morphological integration: the effect of differences in morphometric representations and the inclusion of size. _Evolution_ (Early View).
 
 `2018` __Porto, A.__ 2018. Variational Approaches to Evolvability: Short-and Long-Term Perspectives. _Evolutionary Developmental Biology: A Reference Guide_, Springer, 1-14.
 
