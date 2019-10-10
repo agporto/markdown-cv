@@ -169,6 +169,9 @@ _Students:_ Andrew da Silva, Juliete Zanelli, Vivian Negreiros, Ana Paula Croce,
 `2019` __ml-morph:__ A fast, general and accurate approach for automated landmarking of biological images (Author)<br/>
 _https://github.com/agporto/ml-morph_
 
+## Languages
+Fluent: English and Portuguese
+Intermediate: Spanish
 
 <!-- ### Footer
 
