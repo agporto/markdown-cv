@@ -44,11 +44,11 @@ University of Oslo, Norway
 
 ## Publications <br/>
 ### In review
-`2019`__Porto,A.__ and K.J. Voje. 2019. ML-morph: A Fast, Accurate and General Approach for Automated Detection and Landmarking of Biological Structures in Images._Methods in Ecology and Evolution_ (Major revision)
-
-`2019`Voje, K.L., Di Martino, E. and __A. Porto__. 2019. Revisiting a landmark study-system: no evidence for punctuated equilibrium in _Metrarabdotos_. _The American Naturalist_ (Minor revision). 
+`2019`__Porto,A.__ and K.J. Voje. 2019. ML-morph: A Fast, Accurate and General Approach for Automated Detection and Landmarking of Biological Structures in Images._Methods in Ecology and Evolution_ (Major revision) -available on bioRxiv
 
 ### Published 
+`2019`Voje, K.L., Di Martino, E. and __A. Porto__. 2019. Revisiting a landmark study-system: no evidence for punctuated equilibrium in _Metrarabdotos_. _The American Naturalist_ (Just Accepted). 
+
 `2019` Machado, F., Hubbe, A., Melo, D., __Porto, A.__ and G. Marroig. 2019. Measuring the magnitude of morphological integration: the effect of differences in morphometric representations and the inclusion of size. _Evolution_ (Early View).
 
 `2018` __Porto, A.__ 2018. Variational Approaches to Evolvability: Short-and Long-Term Perspectives. _Evolutionary Developmental Biology: A Reference Guide_, Springer, 1-14.
@@ -129,7 +129,9 @@ _Students:_ Andrew da Silva, Juliete Marcelli Zanelli, Damaris Alegreti, Leila P
 `2009`__Universidade de Sao Paulo__, Sao Paulo, Brazil. _Size matters: morphological evolution of the mammalian skull_. (invited talk)
 
 ## Expert Reviewer Service
-`Various`_Methods in Ecology and Evolution, Proceedings of the Royal Society B, 	Evolution, Journal of Biogeography, Ecology and Evolution, Journal of Morphology, Journal of Zoology, 	Current Zoology, Revista Argentina de 	Antropología Biológica, Journal of Zoological Systematics and Evolutionary Research, Zoological letters_.
+`Journals`_Methods in Ecology and Evolution, Proceedings of the Royal Society B, 	Evolution, Journal of Biogeography, Ecology and Evolution, Journal of Morphology, Journal of Zoology, 	Current Zoology, Revista Argentina de 	Antropología Biológica, Journal of Zoological Systematics and Evolutionary Research, Zoological letters_.
+
+`Grants`_National Science Foundation_.
 
 ## Outreach
 `2017` __21st Legislative Tour of the Rio Grande Valley__, Texas, US. <br/>
