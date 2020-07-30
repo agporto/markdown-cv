@@ -48,9 +48,9 @@ Seattle Children's Hospital, US.
 
 ### Published 
 
-`2020`__Porto,A.__ and K.J. Voje. 2019. ML-morph: A Fast, Accurate and General Approach for Automated Detection and Landmarking of Biological Structures in Images._Methods in Ecology and Evolution_ vol. 11(4), pp.500-512.
+`2020`__Porto,A.__ and K.J. Voje. 2020. ML-morph: A Fast, Accurate and General Approach for Automated Detection and Landmarking of Biological Structures in Images._Methods in Ecology and Evolution_ vol. 11(4), pp.500-512.
 
-`2020`Voje, K.L., Di Martino, E. and __A. Porto__. 2019. Revisiting a landmark study-system: no evidence for punctuated equilibrium in _Metrarabdotos_. _The American Naturalist_ vol. 195 (5),pp.899-917. 
+`2020`Voje, K.L., Di Martino, E. and __A. Porto__. 2020. Revisiting a landmark study-system: no evidence for punctuated equilibrium in _Metrarabdotos_. _The American Naturalist_ vol. 195 (5),pp.899-917. 
 
 `2019` Machado, F., Hubbe, A., Melo, D., __Porto, A.__ and G. Marroig. 2019. Measuring the magnitude of morphological integration: the effect of differences in morphometric representations and the inclusion of size. _Evolution_ (Early View).
 
