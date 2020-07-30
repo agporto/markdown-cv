@@ -16,7 +16,6 @@ Seattle Children's Hospital, US.
 
 
 ## Academic Appointments <br/>
-
 `Upcoming 2021` __Assistant Professor__
  <br/>Louisiana State University, Baton Rouge, US.
 
@@ -46,8 +45,6 @@ Seattle Children's Hospital, US.
 <br/>Universidade de Sao Paulo, Brazil
 
 ## Publications <br/>
-### In review
-
 
 ### Published 
 
@@ -181,6 +178,7 @@ _Students:_ Andrew da Silva, Juliete Zanelli, Vivian Negreiros, Ana Paula Croce,
 ## Software Contributions
 `2020` __SlicerMorph:__ Enables biologists to retrieve, visualize, measure and annotate high-resolution specimen data  (Author of Modules)<br/>
 _https://github.com/SlicerMorph/SlicerMorph_
+
 `2019` __ml-morph:__ A fast, general and accurate approach for automated landmarking of biological images (Main Author)<br/>
 _https://github.com/agporto/ml-morph_
 
