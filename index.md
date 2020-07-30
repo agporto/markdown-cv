@@ -4,27 +4,30 @@ title: Arthur Porto's CV
 ---
 # _Arthur Porto_
 
-Centre for Ecological and Evolutionary Synthesis
+Center for Developmental Biology and Regenerative Medicine
 
-University of Oslo, Norway
+Seattle Children's Hospital, US.
 
 <div id="webaddress">
 <a href="agporto@gmail.com">agporto@gmail.com</a>
 | <a href="http://agporto.github.io">agporto.github.io</a>
-| <a href="+47 459 16 589">+47 459 16 589</a>
+| <a href="+1 206 586 2224">+1 206 586 2224</a>
 </div>
 
 
 ## Academic Appointments <br/>
+
+`Upcoming 2021` __Assistant Professor__
+ <br/>Louisiana State University, Baton Rouge, US.
+
+`2020-2020` __Postdoctoral Fellow__
+ <br/>Seattle Children's Hospital, Seattle, US.
 
 `2017-2020` __Postdoctoral Fellow in Evolutionary Biology__
  <br/>Centre for Ecological and Evolutionary Synthesis, University of Oslo, Norway.
  
 `2016-2017` __Assistant Research Scientist__
 <br/>South Texas Diabetes and Obesity Institute, University of Texas Rio Grande Valley, US.	
-
-`2011-2012` __Graduate Teaching Assistant__
-<br/>Department of Biology, Washington University in St. Louis, US.
 
 `2008-2010` __Lecturer in Biological Sciences__
 <br/>Universidade Cruzeiro do Sul, Brazil. 
@@ -44,10 +47,13 @@ University of Oslo, Norway
 
 ## Publications <br/>
 ### In review
-`2019`__Porto,A.__ and K.J. Voje. 2019. ML-morph: A Fast, Accurate and General Approach for Automated Detection and Landmarking of Biological Structures in Images._Methods in Ecology and Evolution_ (Major revision) -available on bioRxiv
+
 
 ### Published 
-`2019`Voje, K.L., Di Martino, E. and __A. Porto__. 2019. Revisiting a landmark study-system: no evidence for punctuated equilibrium in _Metrarabdotos_. _The American Naturalist_ (Just Accepted). 
+
+`2020`__Porto,A.__ and K.J. Voje. 2019. ML-morph: A Fast, Accurate and General Approach for Automated Detection and Landmarking of Biological Structures in Images._Methods in Ecology and Evolution_ vol. 11(4), pp.500-512.
+
+`2020`Voje, K.L., Di Martino, E. and __A. Porto__. 2019. Revisiting a landmark study-system: no evidence for punctuated equilibrium in _Metrarabdotos_. _The American Naturalist_ vol. 195 (5),pp.899-917. 
 
 `2019` Machado, F., Hubbe, A., Melo, D., __Porto, A.__ and G. Marroig. 2019. Measuring the magnitude of morphological integration: the effect of differences in morphometric representations and the inclusion of size. _Evolution_ (Early View).
 
@@ -114,6 +120,8 @@ _Students:_ Andrew da Silva, Juliete Marcelli Zanelli, Damaris Alegreti, Leila P
 `2014` __Under-represented minority award__, International Mammalian Genomics Society, US
 
 ## Selected Presentations
+`2020`__Louisiana State University__, Baton Rouge, US. _Connecting micro and macroevolution in a unique marine model system_.(invited talk) <br/>
+`2020`__Louisiana State University__, Baton Rouge, US. _Computer vision approaches for paleobiology_.(invited talk) <br/>
 `2019`__Centre for Advanced Studies__, Oslo, Norway. _Phenomic tools for the study of evolvability_.(contributed talk) <br/>
 `2019`__18th IBA meeting__, Liberec,Czech Republic. _Morphological evolution of a single lineage through 2 million years: a study on Steginoporella magnifica_. (contributed talk) <br/>
 `2018`__15th Larwood meeting__ Cardiff, Wales. _High-throughput phenotyping of Bryozoan specimens using machine learning: a Cheilostome case study_. (contributed talk) <br/>
@@ -139,6 +147,9 @@ Direct conversation with Texas Lawmakers, with the goal of increasing the contac
 `2008-2009`__Itinerant exhibition “The giant cell”__, São Paulo, Brazil.<br/>
 Exhibition toured low-income high schools in São Paulo city for two academic years. I was involved in the planning, organization and presentation of the exhibition.
 
+## Press
+`2020` __Phys.org__, _The most popular textbook example of punctuated evolution debunked_. <br/>
+`2020` __NRK__, _Forskergruppe i Norge mener klassisk studie av evolusjonen er feil_. <br/>
 
 ## Institutional Responsability
 `2018` __Committee member and Organizer__, _Macroevolution Seminar Series_, University of Oslo, Norway. <br/>
@@ -167,9 +178,12 @@ _Students:_ Andrew da Silva, Juliete Zanelli, Vivian Negreiros, Ana Paula Croce,
 ## Fieldwork 
 `2010` __Tremembe formation__, _Taubate basin_ (Oligocene-Miocene), Brazil.
 
-## Software Developed
-`2019` __ml-morph:__ A fast, general and accurate approach for automated landmarking of biological images (Author)<br/>
+## Software Contributions
+`2020` __SlicerMorph:__ Enables biologists to retrieve, visualize, measure and annotate high-resolution specimen data  (Author of Modules)<br/>
+_https://github.com/SlicerMorph/SlicerMorph_
+`2019` __ml-morph:__ A fast, general and accurate approach for automated landmarking of biological images (Main Author)<br/>
 _https://github.com/agporto/ml-morph_
+
 
 ## Languages
 __Fluent__: English and Portuguese
@@ -178,6 +192,6 @@ __Intermediate__: Spanish
 
 <!-- ### Footer
 
-Last updated: May 2019 -->
+Last updated: July 2020 -->
 
 
