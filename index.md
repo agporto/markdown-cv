@@ -4,9 +4,10 @@ title: Arthur Porto's CV
 ---
 # _Arthur Porto_
 
-Center for Developmental Biology and Regenerative Medicine
+Department of Biological Sciences and Center for Computation and Technology
 
-Seattle Children's Hospital, US.
+Louisiana State University
+
 
 <div id="webaddress">
 <a href="agporto@gmail.com">agporto@gmail.com</a>
@@ -16,7 +17,7 @@ Seattle Children's Hospital, US.
 
 
 ## Academic Appointments <br/>
-`Upcoming 2021` __Assistant Professor__
+`2021-Present` __Assistant Professor__
  <br/>Louisiana State University, Baton Rouge, US.
 
 `2020-2020` __Postdoctoral Fellow__
@@ -47,6 +48,14 @@ Seattle Children's Hospital, US.
 ## Publications <br/>
 
 ### Published 
+
+`2021` Love, A.C., M. Grabowski, D. Houle, L.H. Liow, __A. Porto__, M. Tsuboi, K.J Voje and G. Hunt. 2021. Evolvability and the Fossil record. Paleobiology. _In Press_.
+
+`2021` Lürig, M.,  S. Donoughe, E.I. Svensson, __A. Porto__ and M. Tsuboi. 2021. Computer Vision, Machine Learning, and the Promise of Phenomics in Ecology and Evolutionary Biology.Frontiers in Ecology and Evolution_ vol. 9, p. 148.
+
+`2021`__Porto,A.__, S. Rolfe and A. M. Maga. 2021. ALPACA: a new and general computer vision framework for automated landmarking of 3D biological structures._Methods in Ecology and Evolution_ Early View.
+
+`2021` Rolfe, S., S. Pieper, __A. Porto__, K. Diamond, J. Winchester, S. Shan, H. Kirveslahti, D. Boyer, A. Summers and A.M. Maga. 2021. SlicerMorph: An open and extensible platform to retrieve, visualize and analyse 3D morphology._Methods in Ecology and Evolution_ vol. 12(10), pp.1816-1825.
 
 `2020`__Porto,A.__ and K.J. Voje. 2020. ML-morph: A Fast, Accurate and General Approach for Automated Detection and Landmarking of Biological Structures in Images._Methods in Ecology and Evolution_ vol. 11(4), pp.500-512.
 
@@ -83,7 +92,8 @@ Seattle Children's Hospital, US.
 `2009` Marroig, G., L. Shirai, __A. Porto__, F.B. de Oliveira, V. De Conto. 2009. The Evolution of modularity in in the mammalian skull II: evolutionary consequences. _Evolutionary Biology_ v.36. p. 136-148. 
 
 ## Teaching Experience
-### Undergraduate 
+### Undergraduate
+`2021`  __Primary instructor__, _Evolution_, Louisiana State University, US.<br/>
 `2015` 	__Primary instructor__, _General Biology Lab_, Loyola University Chicago, US.<br/>
 `2011-2012`	__Graduate Teaching Assistant__, _Evolution_, Washington University in St Louis, US.<br/>
 `2009-2010` __Primary instructor__, _Genetics I_, Universidade Cruzeiro do Sul, Brazil.<br/>
@@ -100,6 +110,9 @@ Seattle Children's Hospital, US.
 `2009-2017` __Mentorship of undergraduate students (18 total)__<br/>
 _Students:_ Andrew da Silva, Juliete Marcelli Zanelli, Damaris Alegreti, Leila Primilla, Vivian Negreiros, Adriana Souza, Camila Santos, Angelica Fiedler, Ana Paula Croce, Jessica Fontes Chaves, Claudia Oliveira, Bruno Vinicius Cerqueira, Heather Caulkins, Katherine Pjevach, Alejandra Guevara, Ryan Schmelter, Sivaram Yeramati, Daphne Zuniga. 
 
+`2021` __Mentorship of PhD student (1 total)__<br/>
+_Students:_ Nevyn Neal.
+
 ## Grants, Fellowships and Awards
 
 ### Grants/Fellowships 
@@ -110,7 +123,7 @@ _Students:_ Andrew da Silva, Juliete Marcelli Zanelli, Damaris Alegreti, Leila P
 `2004-2005`	__Undergraduate Fellowship__, FAPESP, Sao Paulo, Brazil 
 
 ### Awards 
-
+`2021` __Robert May Prize__, British Ecological Society, UK <br/>
 `2018`	__Best talk by Early Career Researcher__, Larwood Meeting, Wales, UK <br/>
 `2015` __Initiative to Maximize Student Development (IMSD) Program Award__, US <br/>
 `2015`	__Finalist - Best student paper__ of the Journal of Evolutionary Biology, ESEB. <br/>
@@ -132,6 +145,9 @@ _Students:_ Andrew da Silva, Juliete Marcelli Zanelli, Damaris Alegreti, Leila P
 `2013`__Washington University in St Louis__, Missouri, US. _Evolutionary inference based on phenotypic integration: testing assumptions using the marsupial genus Monodelphis_. (invited talk) <br/>
 `2011`__Washington University in St Louis__, Missouri, US. _Constraints in the evolution of body size in mammals_. (invited talk) <br/>
 `2009`__Universidade de Sao Paulo__, Sao Paulo, Brazil. _Size matters: morphological evolution of the mammalian skull_. (invited talk)
+
+## Editorial Service
+`2020-Present` - Associate editor at Methods in Ecology and Evolution.
 
 ## Expert Reviewer Service
 `Journals`_Methods in Ecology and Evolution, Proceedings of the Royal Society B, 	Evolution, Journal of Biogeography, Ecology and Evolution, Journal of Morphology, Journal of Zoology, 	Current Zoology, Revista Argentina de 	Antropología Biológica, Journal of Zoological Systematics and Evolutionary Research, Zoological letters_.
@@ -190,6 +206,6 @@ __Intermediate__: Spanish
 
 <!-- ### Footer
 
-Last updated: July 2020 -->
+Last updated: October 2021 -->
 
 
