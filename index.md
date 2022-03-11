@@ -113,11 +113,15 @@ Louisiana State University
 `2010`__Primary instructor (Web)__, _Topics in Genetics and Evolutionary Biology_, Universidade Cruzeiro do Sul, Brazil.
 
 ### Mentoring
-`2009-2017` __Mentorship of undergraduate students (18 total)__<br/>
+
+`2021` __PhD student (1 total)__<br/>
+_Students:_ Nevyn Neal.
+`2021` __NSF-REU (1 total)__<br/>
+_Students:_ Altan Kocatulum.
+`2009-2017` __Undergraduate students (18 total)__<br/>
 _Students:_ Andrew da Silva, Juliete Marcelli Zanelli, Damaris Alegreti, Leila Primilla, Vivian Negreiros, Adriana Souza, Camila Santos, Angelica Fiedler, Ana Paula Croce, Jessica Fontes Chaves, Claudia Oliveira, Bruno Vinicius Cerqueira, Heather Caulkins, Katherine Pjevach, Alejandra Guevara, Ryan Schmelter, Sivaram Yeramati, Daphne Zuniga. 
 
-`2021` __Mentorship of PhD student (1 total)__<br/>
-_Students:_ Nevyn Neal.
+
 
 ## Grants, Fellowships and Awards
 
@@ -175,6 +179,8 @@ Exhibition toured low-income high schools in São Paulo city for two academic ye
 `2020` __NRK__, _Forskergruppe i Norge mener klassisk studie av evolusjonen er feil_. <br/>
 
 ## Institutional Responsability
+`2021` __Organizer__ , _Codefests and Makerspaces_, Louisiana State University, US. <br/>
+`2021` __Search Committee Member__, Department of Biology, Louisiana State University, US. <br/>
 `2018` __Committee member and Organizer__, _Macroevolution Seminar Series_, University of Oslo, Norway. <br/>
 `2011`	__Committee member and Organizer__, _EEPB Seminar Series_, Washington University in St Louis, US.<br/>
 `2009–2010` __Member of Undergraduate Thesis Committee__, Universidade Cruzeiro do Sul, Brazil.         <br/>
