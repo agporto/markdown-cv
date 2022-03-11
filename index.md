@@ -115,9 +115,9 @@ Louisiana State University
 ### Mentoring
 
 `2021` __PhD student (1 total)__<br/>
-_Students:_ Nevyn Neal.
+_Students:_ Nevyn Neal.<br/>
 `2021` __NSF-REU (1 total)__<br/>
-_Students:_ Altan Kocatulum.
+_Students:_ Altan Kocatulum.<br/>
 `2009-2017` __Undergraduate students (18 total)__<br/>
 _Students:_ Andrew da Silva, Juliete Marcelli Zanelli, Damaris Alegreti, Leila Primilla, Vivian Negreiros, Adriana Souza, Camila Santos, Angelica Fiedler, Ana Paula Croce, Jessica Fontes Chaves, Claudia Oliveira, Bruno Vinicius Cerqueira, Heather Caulkins, Katherine Pjevach, Alejandra Guevara, Ryan Schmelter, Sivaram Yeramati, Daphne Zuniga. 
 
