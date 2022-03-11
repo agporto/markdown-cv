@@ -47,6 +47,12 @@ Louisiana State University
 
 ## Publications <br/>
 
+### Submitted
+
+`2022` Zhang,C., __A. Porto__, S. Rolfe, A. Kocatulum, A.M. Maga. 2022. Automated Landmarking via Multiple Templates. bioRxiv.
+
+`2021` Hubbe,A., G. Garcia, H. Sebastião, __A. Porto__, F. Machado, J.M. Cheverud, G. Marroig. 2021. Morphological integration during postnatal ontogeny: implications for evolutionary biology. bioRxiv.
+
 ### Published 
 
 `2021` Love, A.C., M. Grabowski, D. Houle, L.H. Liow, __A. Porto__, M. Tsuboi, K.J Voje and G. Hunt. 2021. Evolvability and the Fossil record. Paleobiology. _In Press_.
@@ -130,6 +136,10 @@ _Students:_ Nevyn Neal.
 `2014` __Under-represented minority award__, International Mammalian Genomics Society, US
 
 ## Selected Presentations
+`2021`__Museum of Natural Science__, Baton Rouge, US. _A new and general framework for automated landmarking of 3D biological structures_.(contributed talk) <br/>
+`2021`__WEEKS lecture__, University of Wisconsin-Madison, US. _Harnessing the power of computer vision for paleobiology_.(invited talk) <br/>
+`2021`__DXC Technologies__, New Orleans, US. _Computer vision approaches in biology_. (invited talk) <br/>
+`2021`__SICB 2021__, Online. _ALPACA: a new and general framework for automated landmarking of 3D biological structures_. (contributed talk) <br/>
 `2020`__Louisiana State University__, Baton Rouge, US. _Connecting micro and macroevolution in a unique marine model system_.(invited talk) <br/>
 `2020`__Louisiana State University__, Baton Rouge, US. _Computer vision approaches for paleobiology_.(invited talk) <br/>
 `2019`__Centre for Advanced Studies__, Oslo, Norway. _Phenomic tools for the study of evolvability_.(contributed talk) <br/>
@@ -150,7 +160,7 @@ _Students:_ Nevyn Neal.
 `2020-Present` - Associate editor at Methods in Ecology and Evolution.
 
 ## Expert Reviewer Service
-`Journals`_Methods in Ecology and Evolution, Proceedings of the Royal Society B, 	Evolution, Journal of Biogeography, Ecology and Evolution, Journal of Morphology, Journal of Zoology, 	Current Zoology, Revista Argentina de 	Antropología Biológica, Journal of Zoological Systematics and Evolutionary Research, Zoological letters_.
+`Journals`_PLOS Computational Biology, Scientific Reports, Methods in Ecology and Evolution, Proceedings of the Royal Society B, 	Evolution, Journal of Biogeography, Ecology and Evolution, Journal of Morphology, PyOpen Sci, Journal of Zoology, 	Current Zoology, Revista Argentina de 	Antropología Biológica, Journal of Zoological Systematics and Evolutionary Research, Zoological letters_.
 
 `Grants`_National Science Foundation (NSF)_, _The Austrian Science Fund (FWF)_.
 
@@ -171,6 +181,11 @@ Exhibition toured low-income high schools in São Paulo city for two academic ye
 _Students:_ Andrew da Silva, Juliete Zanelli, Vivian Negreiros, Ana Paula Croce, Claudia Oliveira 
 
 ## Professional Workshops
+### Leader/Instructor
+`2021` __FunkyMUG__, George Washington University, Washington DC, US <br/>
+`2021` __SlicerMorph__, Seattle Children's Hospital, Seattle, WA, US <br/>
+`2020` __SlicerMorph__, Seattle Children's Hospital, Seattle, WA, US <br/>
+### Attended
 `2017` __Genetic Analyses Workshop__, GAW20, San Diego, CA, US	<br/>
 `2015` __Vertebrate Digitization__, Cornell University, Ithaca, NY, US <br/>
 `2014` __Evolutionary Quantitative Genetics__, NimBios, Knoxville, TN, US 	<br/>
@@ -178,6 +193,7 @@ _Students:_ Andrew da Silva, Juliete Zanelli, Vivian Negreiros, Ana Paula Croce,
 `2004` __Evolutionary Quantitative Genetics__, University of São Paulo, Brazil
 
 ## Consortia/ Working groups
+`2021`__Imageomics 3D Working Group__, NSF-Funded, Multinational. <br/>
 `2019`__Consortium for automated image analyses of bryozoan colonies (BryoIMDB)__,  Multinational.<br/>
 `2019`__Evolvability Working Group__, Centre for Advanced Studies, Norway.
 
@@ -206,6 +222,6 @@ __Intermediate__: Spanish
 
 <!-- ### Footer
 
-Last updated: October 2021 -->
+Last updated: March 2022 -->
 
 
