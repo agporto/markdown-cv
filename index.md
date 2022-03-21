@@ -200,7 +200,7 @@ _Students:_ Andrew da Silva, Juliete Zanelli, Vivian Negreiros, Ana Paula Croce,
 
 ## Consortia/ Working groups
 `2022-Present`__Imageomics 3D Working Group__, NSF-Funded, Multinational. <br/>
-`2021-Present' __Big Questions in Paleontology__, Multinational. <br/>
+`2021-Present` __Big Questions in Paleontology__, Multinational. <br/>
 `2019-Present`__Consortium for automated image analyses of bryozoan colonies (BryoIMDB)__,  Multinational.<br/>
 `2019-2021`__Evolvability Working Group__, Centre for Advanced Studies, Norway.
 
