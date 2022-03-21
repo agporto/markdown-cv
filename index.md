@@ -55,19 +55,19 @@ Louisiana State University
 
 ### Published 
 
-`2021` Love, A.C., M. Grabowski, D. Houle, L.H. Liow, __A. Porto__, M. Tsuboi, K.J Voje and G. Hunt. 2021. Evolvability and the Fossil record. Paleobiology. _In Press_.
+`2021` Love, A.C., M. Grabowski, D. Houle, L.H. Liow, __A. Porto__, M. Tsuboi, K.J Voje and G. Hunt. 2021. Evolvability and the Fossil record. Paleobiology, _First View_, pp. 1-24.
 
-`2021` Lürig, M.,  S. Donoughe, E.I. Svensson, __A. Porto__ and M. Tsuboi. 2021. Computer Vision, Machine Learning, and the Promise of Phenomics in Ecology and Evolutionary Biology.Frontiers in Ecology and Evolution_ vol. 9, p. 148.
+`2021` Lürig, M.,  S. Donoughe, E.I. Svensson, __A. Porto__ and M. Tsuboi. 2021. Computer Vision, Machine Learning, and the Promise of Phenomics in Ecology and Evolutionary Biology. _Frontiers in Ecology and Evolution_ vol. 9, p. 148.
 
-`2021`__Porto,A.__, S. Rolfe and A. M. Maga. 2021. ALPACA: a new and general computer vision framework for automated landmarking of 3D biological structures._Methods in Ecology and Evolution_ Early View.
+`2021`__Porto, A.__, S. Rolfe and A. M. Maga. 2021. ALPACA: a new and general computer vision framework for automated landmarking of 3D biological structures. _Methods in Ecology and Evolution_ vol.12, p. 2129– 2144. 
 
-`2021` Rolfe, S., S. Pieper, __A. Porto__, K. Diamond, J. Winchester, S. Shan, H. Kirveslahti, D. Boyer, A. Summers and A.M. Maga. 2021. SlicerMorph: An open and extensible platform to retrieve, visualize and analyse 3D morphology._Methods in Ecology and Evolution_ vol. 12(10), pp.1816-1825.
+`2021` Rolfe, S., S. Pieper, __A. Porto__, K. Diamond, J. Winchester, S. Shan, H. Kirveslahti, D. Boyer, A. Summers and A.M. Maga. 2021. SlicerMorph: An open and extensible platform to retrieve, visualize and analyse 3D morphology. _Methods in Ecology and Evolution_ vol. 12(10), pp.1816-1825.
 
 `2020`__Porto,A.__ and K.J. Voje. 2020. ML-morph: A Fast, Accurate and General Approach for Automated Detection and Landmarking of Biological Structures in Images._Methods in Ecology and Evolution_ vol. 11(4), pp.500-512.
 
 `2020`Voje, K.L., Di Martino, E. and __A. Porto__. 2020. Revisiting a landmark study-system: no evidence for punctuated equilibrium in _Metrarabdotos_. _The American Naturalist_ vol. 195 (5),pp.899-917. 
 
-`2019` Machado, F., Hubbe, A., Melo, D., __Porto, A.__ and G. Marroig. 2019. Measuring the magnitude of morphological integration: the effect of differences in morphometric representations and the inclusion of size. _Evolution_ (Early View).
+`2019` Machado, F., Hubbe, A., Melo, D., __Porto, A.__ and G. Marroig. 2019. Measuring the magnitude of morphological integration: the effect of differences in morphometric representations and the inclusion of size. _Evolution_ vol. 73(12), p. 2518–2528.
 
 `2018` __Porto, A.__ 2018. Variational Approaches to Evolvability: Short-and Long-Term Perspectives. _Evolutionary Developmental Biology: A Reference Guide_, Springer, 1-14.
 
@@ -161,7 +161,7 @@ _Students:_ Andrew da Silva, Juliete Marcelli Zanelli, Damaris Alegreti, Leila P
 `2009`__Universidade de Sao Paulo__, Sao Paulo, Brazil. _Size matters: morphological evolution of the mammalian skull_. (invited talk)
 
 ## Editorial Service
-`2020-Present` - Associate editor at Methods in Ecology and Evolution.
+`2020-Present` Associate editor at Methods in Ecology and Evolution.
 
 ## Expert Reviewer Service
 `Journals`_PLOS Computational Biology, Scientific Reports, Methods in Ecology and Evolution, Proceedings of the Royal Society B, 	Evolution, Journal of Biogeography, Ecology and Evolution, Journal of Morphology, PyOpen Sci, Journal of Zoology, 	Current Zoology, Revista Argentina de 	Antropología Biológica, Journal of Zoological Systematics and Evolutionary Research, Zoological letters_.
@@ -199,9 +199,10 @@ _Students:_ Andrew da Silva, Juliete Zanelli, Vivian Negreiros, Ana Paula Croce,
 `2004` __Evolutionary Quantitative Genetics__, University of São Paulo, Brazil
 
 ## Consortia/ Working groups
-`2021`__Imageomics 3D Working Group__, NSF-Funded, Multinational. <br/>
-`2019`__Consortium for automated image analyses of bryozoan colonies (BryoIMDB)__,  Multinational.<br/>
-`2019`__Evolvability Working Group__, Centre for Advanced Studies, Norway.
+`2022 - Present`__Imageomics 3D Working Group__, NSF-Funded, Multinational. <br/>
+`2021 - Present' __Big Questions in Paleontology__, Multinational. <br/>
+`2019 - Present`__Consortium for automated image analyses of bryozoan colonies (BryoIMDB)__,  Multinational.<br/>
+`2019 - 2021`__Evolvability Working Group__, Centre for Advanced Studies, Norway.
 
 ## Scientific Societies
 `2011-2019`	_Society for the Study of Evolution_ <br/>
