@@ -216,6 +216,9 @@ _Students:_ Andrew da Silva, Juliete Zanelli, Vivian Negreiros, Ana Paula Croce,
 `2010` __Tremembe formation__, _Taubate basin_ (Oligocene-Miocene), Brazil.
 
 ## Software Contributions
+`2022` __Phenomorph__ Integration ml-morph and phenopype into a single image analysis pipeline (Main author) <br/>
+_https://github.com/phenopype/phenopype-contrib/tree/main/phenomorph_
+
 `2020` __SlicerMorph:__ Enables biologists to retrieve, visualize, measure and annotate high-resolution specimen data  (Author of Modules)<br/>
 _https://github.com/SlicerMorph/SlicerMorph_
 
