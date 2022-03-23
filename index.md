@@ -49,7 +49,7 @@ Louisiana State University
 
 ### Submitted
 
-`2022` __Porto, A.__, H. Sebastiao, A. Hubbe, J.M. Cheverud, and G. Marroig. The road less traveled: developmental innovation as a driver of morphological diversification. (draft available upon request)
+`2022` __Porto, A.__, H. Sebastiao, A. Hubbe, J.M. Cheverud, and G. Marroig. The road less traveled: developmental innovation as a driver of morphological diversification. (available upon request)
 
 `2022` Zhang,C., __A. Porto__, S. Rolfe, A. Kocatulum, A.M. Maga. 2022. Automated Landmarking via Multiple Templates. bioRxiv. doi: https://doi.org/10.1101/2022.01.04.474967
 
