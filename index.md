@@ -165,7 +165,7 @@ _Students:_ Andrew da Silva, Juliete Marcelli Zanelli, Damaris Alegreti, Leila P
 `2009`__Universidade de Sao Paulo__, Sao Paulo, Brazil. _Size matters: morphological evolution of the mammalian skull_. (invited talk)
 
 ## Editorial Service
-`2020-Present` Associate editor at Methods in Ecology and Evolution.
+`2020-Present` Associate Editor at Methods in Ecology and Evolution.
 
 ## Expert Reviewer Service
 `Journals`_PLOS Computational Biology, Scientific Reports, Methods in Ecology and Evolution, Proceedings of the Royal Society B, 	Evolution, Journal of Biogeography, Ecology and Evolution, Journal of Morphology, PyOpen Sci, Journal of Zoology, 	Current Zoology, Revista Argentina de 	Antropología Biológica, Journal of Zoological Systematics and Evolutionary Research, Zoological letters_.
