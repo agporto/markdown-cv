@@ -208,13 +208,6 @@ _Students:_ Andrew da Silva, Juliete Zanelli, Vivian Negreiros, Ana Paula Croce,
 `2019-Present`__Consortium for automated image analyses of bryozoan colonies (BryoIMDB)__,  Multinational.<br/>
 `2019-2021`__Evolvability Working Group__, Centre for Advanced Studies, Norway.
 
-## Scientific Societies
-`2011-2019`	_Society for the Study of Evolution_ <br/>
-`2017-2019`	_European Society for Evolutionary Biology_ <br/>
-`2014-2015`	_American Association for the Advancement of Science_ <br/>
-`2014-2015` _International Mammalian Genomics Society_ <br/>
-`2006-2012`	_Sociedade Brasileira de Mastozoologia_ 
-
 ## Fieldwork 
 `2010` __Tremembe formation__, _Taubate basin_ (Oligocene-Miocene), Brazil.
 
