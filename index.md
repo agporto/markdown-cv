@@ -47,16 +47,16 @@ Louisiana State University
 
 ## Publications <br/>
 
-### Submitted
+### Preprint
 
-`2022` __Porto, A.__, H. Sebastiao, A. Hubbe, J.M. Cheverud, and G. Marroig. The road less traveled: developmental innovation as a driver of morphological diversification. (available upon request)
-
-`2022` Zhang,C., __A. Porto__, S. Rolfe, A. Kocatulum, A.M. Maga. 2022. Automated Landmarking via Multiple Templates. bioRxiv. doi: https://doi.org/10.1101/2022.01.04.474967
+`2023` E. Di Martino, B. Berning, D.P. Gordon, P. Kuklinski, L.H. Liow, M.H. Ramsfjell, H.L. Ribeiro, A.M. Smith, P.D. Taylor, K.L. Voje, A. Waeschenbach, __A. Porto__. DeepBryo: a web app for AI-assisted morphometric characterization of cheilostome bryozoans. bioRxiv. doi: https://doi.org/10.1101/2022.11.17.516938.
 
 
-`2021` Hubbe,A., G. Garcia, H. Sebastião, __A. Porto__, F. Machado, J.M. Cheverud, G. Marroig. 2021. Morphological integration during postnatal ontogeny: implications for evolutionary biology. bioRxiv. doi: https://doi.org/10.1101/2021.07.13.452198
+### Published
 
-### Published 
+`2022` Zhang,C., __A. Porto__, S. Rolfe, A. Kocatulum, A.M. Maga. 2022. Automated Landmarking via Multiple Templates. _PLOS One_. _In press_.
+
+`2022` Hubbe,A., G. Garcia, H. Sebastião, __A. Porto__, F. Machado, J.M. Cheverud, G. Marroig. 2021. Morphological integration during postnatal ontogeny: implications for evolutionary biology. _Evolution_. _In press_.
 
 `2021` Love, A.C., M. Grabowski, D. Houle, L.H. Liow, __A. Porto__, M. Tsuboi, K.J Voje and G. Hunt. 2021. Evolvability and the Fossil record. Paleobiology, _First View_, pp. 1-24.
 
@@ -144,6 +144,9 @@ _Students:_ Andrew da Silva, Juliete Marcelli Zanelli, Damaris Alegreti, Leila P
 `2014` __Under-represented minority award__, International Mammalian Genomics Society, US
 
 ## Selected Presentations
+`2022` __Florida Museum of Natural History__, Gainesville, Florida. _Computer vision and the promise of phenomics in biology_. (invited talk) <br/>
+`2022` __19th IBA meeting__, Dublin, Ireland. _A web app for AI-assisted image segmentation of cheilostome bryozoans_. (contributed talk) <br/>
+`2022` __InteCol 2022__, Geneva, Switzerland. _DeepBryo: A simple and lightweight web app for AI-assisted phenomics of bryozoan colonies_. (invited talk) <br/>
 `2021`__Museum of Natural Science__, Baton Rouge, US. _A new and general framework for automated landmarking of 3D biological structures_.(contributed talk) <br/>
 `2021`__WEEKS lecture__, University of Wisconsin-Madison, US. _Harnessing the power of computer vision for paleobiology_.(invited talk) <br/>
 `2021`__DXC Technologies__, New Orleans, US. _Computer vision approaches in biology_. (invited talk) <br/>
@@ -168,7 +171,7 @@ _Students:_ Andrew da Silva, Juliete Marcelli Zanelli, Damaris Alegreti, Leila P
 `2020-Present` Associate Editor at Methods in Ecology and Evolution.
 
 ## Expert Reviewer Service
-`Journals`_PLOS Computational Biology, Scientific Reports, Methods in Ecology and Evolution, Proceedings of the Royal Society B, 	Evolution, Journal of Biogeography, Ecology and Evolution, Journal of Morphology, PyOpen Sci, Journal of Zoology, 	Current Zoology, Revista Argentina de 	Antropología Biológica, Journal of Zoological Systematics and Evolutionary Research, Zoological letters_.
+`Journals`_PLOS Computational Biology, Scientific Reports, Methods in Ecology and Evolution, Communications Biology, The American Naturalist, Proceedings of the Royal Society B, 	Evolution, Journal of Biogeography, Ecology and Evolution, Journal of Morphology, PyOpen Sci, Journal of Zoology, 	Current Zoology, Revista Argentina de 	Antropología Biológica, Journal of Zoological Systematics and Evolutionary Research, Zoological letters_.
 
 `Grants`_National Science Foundation (NSF)_, _The Austrian Science Fund (FWF)_.
 
@@ -183,6 +186,8 @@ Exhibition toured low-income high schools in São Paulo city for two academic ye
 `2020` __NRK__, _Forskergruppe i Norge mener klassisk studie av evolusjonen er feil_. <br/>
 
 ## Institutional Responsability
+`2021-2022` __Committee Member (PHD thesis)__, Various. <br/>
+_Students:_ 
 `2021` __Organizer__ , _Codefests and Makerspaces_, Louisiana State University, US. <br/>
 `2021` __Search Committee Member__, Department of Biology, Louisiana State University, US. <br/>
 `2018` __Committee member and Organizer__, _Macroevolution Seminar Series_, University of Oslo, Norway. <br/>
@@ -212,6 +217,12 @@ _Students:_ Andrew da Silva, Juliete Zanelli, Vivian Negreiros, Ana Paula Croce,
 `2010` __Tremembe formation__, _Taubate basin_ (Oligocene-Miocene), Brazil.
 
 ## Software Contributions
+`2022` __DeepBryo:__ AI-assisted segmentation of cheilostome bryozoans. (Main Author) <br/>
+_https://github.com/agporto/DeepBryo_
+
+`2022` __pycpd:__ Pure Numpy Implementation of the Coherent Point Drift Algorithm. (Core contributor) <br/>
+_https://github.com/siavashk/pycpd_
+
 `2022` __Phenomorph__ Integration ml-morph and phenopype into a single image analysis pipeline (Main author) <br/>
 _https://github.com/phenopype/phenopype-contrib/tree/main/phenomorph_
 
