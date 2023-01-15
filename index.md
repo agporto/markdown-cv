@@ -146,6 +146,7 @@ _Students:_ Andrew da Silva, Juliete Marcelli Zanelli, Damaris Alegreti, Leila P
 `2014` __Under-represented minority award__, International Mammalian Genomics Society, US
 
 ## Selected Presentations
+`2022` __Frontiers in AI__, Gainesville, Florida. _A computer vision for organismal biology__. (invited talk).<br/>
 `2022` __Florida Museum of Natural History__, Gainesville, Florida. _Computer vision and the promise of phenomics in biology_. (invited talk) <br/>
 `2022` __19th IBA meeting__, Dublin, Ireland. _A web app for AI-assisted image segmentation of cheilostome bryozoans_. (contributed talk) <br/>
 `2022` __InteCol 2022__, Geneva, Switzerland. _DeepBryo: A simple and lightweight web app for AI-assisted phenomics of bryozoan colonies_. (invited talk) <br/>
