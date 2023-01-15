@@ -54,11 +54,13 @@ Louisiana State University
 
 ### Published
 
-`2022` Zhang,C., __A. Porto__, S. Rolfe, A. Kocatulum, A.M. Maga. 2022. Automated Landmarking via Multiple Templates. _PLOS One_. _In press_.
+`2023` K.L.Voje, M. Grabowski, A. Holstad, __A. Porto__, M. Tsuboi, and G. Bolstad. 2023. Does lack of evolvability constrain adaptation? If so, on what time scales? _In: Evolvability – a new and unifying concept in evolutionary biology?_ Editors, Thomas F. Hansen and Christophe Pelabon._In Press_.
+
+`2022` Zhang,C., __A. Porto__, S. Rolfe, A. Kocatulum, A.M. Maga. 2022. Automated Landmarking via Multiple Templates. _PLoS ONE_ vol.17(12): e0278035.
 
 `2022` Hubbe,A., G. Garcia, H. Sebastião, __A. Porto__, F. Machado, J.M. Cheverud, G. Marroig. 2021. Morphological integration during postnatal ontogeny: implications for evolutionary biology. _Evolution_. _In press_.
 
-`2021` Love, A.C., M. Grabowski, D. Houle, L.H. Liow, __A. Porto__, M. Tsuboi, K.J Voje and G. Hunt. 2021. Evolvability and the Fossil record. Paleobiology, _First View_, pp. 1-24.
+`2022` Love, A.C., M. Grabowski, D. Houle, L.H. Liow, __A. Porto__, M. Tsuboi, K.J Voje and G. Hunt. 2022. Evolvability and the Fossil record. _Paleobiology_ vol.48(2), pp.186-209.
 
 `2021` Lürig, M.,  S. Donoughe, E.I. Svensson, __A. Porto__ and M. Tsuboi. 2021. Computer Vision, Machine Learning, and the Promise of Phenomics in Ecology and Evolutionary Biology. _Frontiers in Ecology and Evolution_ vol. 9, p. 148.
 
@@ -187,7 +189,7 @@ Exhibition toured low-income high schools in São Paulo city for two academic ye
 
 ## Institutional Responsability
 `2021-2022` __Committee Member (PHD thesis)__, Various. <br/>
-_Students:_ 
+_Students:_ Kathleen Mahra, Catherine Llera, César Augusto Herrera Acosta
 `2021` __Organizer__ , _Codefests and Makerspaces_, Louisiana State University, US. <br/>
 `2021` __Search Committee Member__, Department of Biology, Louisiana State University, US. <br/>
 `2018` __Committee member and Organizer__, _Macroevolution Seminar Series_, University of Oslo, Norway. <br/>
