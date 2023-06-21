@@ -47,9 +47,9 @@ Louisiana State University
 
 ## Publications <br/>
 
-### Preprint
+### Accepted
 
-`2023` E. Di Martino, B. Berning, D.P. Gordon, P. Kuklinski, L.H. Liow, M.H. Ramsfjell, H.L. Ribeiro, A.M. Smith, P.D. Taylor, K.L. Voje, A. Waeschenbach, __A. Porto__. DeepBryo: a web app for AI-assisted morphometric characterization of cheilostome bryozoans. bioRxiv. doi: https://doi.org/10.1101/2022.11.17.516938.
+`2023` E. Di Martino, B. Berning, D.P. Gordon, P. Kuklinski, L.H. Liow, M.H. Ramsfjell, H.L. Ribeiro, A.M. Smith, P.D. Taylor, K.L. Voje, A. Waeschenbach, __A. Porto__. DeepBryo: a web app for AI-assisted morphometric characterization of cheilostome bryozoans. _(Accepted at Limnology and Oceanography:Methods)_
 
 
 ### Published
@@ -88,7 +88,7 @@ Louisiana State University
 
 `2016` Melo, D.*, __A. Porto__ *, J.M. Cheverud, and G. Marroig. 2016. Modularity: genes, development and evolution. _Annual Review of Ecology, Evolution, and Systematics_ v.47 (1). __*Co-first authors__
 
-`2015` __Porto, A.__, H. Sebastiao, S. Pavan, J. L.VandeBerg, G. Marroig and J. M. Cheverud. 2015. Rate of evolutionary change in cranial morphology of the marsupial genus Monodelphis is constrained by the availability of additive genetic variation. _Journal of Evolutionary Biology_ v.28(4), p.973-985. __Finalist- Best Student Paper__.
+`2015` __Porto, A.__, H. Sebastiao, S. Pavan, J. L.VandeBerg, G. Marroig and J. M. Cheverud. 2015. Rate of evolutionary change in cranial morphology of the marsupial genus Monodelphis is constrained by the availability of additive genetic variation. _Journal of Evolutionary Biology_ v.28(4), p.973-985. __Finalist - Best Student Paper__.
 
 `2013` __Porto, A.__, F. B. de Oliveira, L. Shirai,   G. Marroig. 2013. Size variation, growth strategies and the evolution of modularity in the mammalian skull. _Evolution_ v.67, p.3305-3322. 
 
@@ -119,10 +119,10 @@ Louisiana State University
 
 ### Mentoring
 
-`2021` __PhD student (1 total)__<br/>
+`2021-2022` __PhD student (1 total)__<br/>
 _Students:_ Nevyn Neal.<br/>
-`2021` __NSF-REU (1 total)__<br/>
-_Students:_ Altan Kocatulum.<br/>
+`2021-2023` __NSF-REU (1 total)__<br/>
+_Students:_ Altan Kocatulum<br/>
 `2009-2017` __Undergraduate students (18 total)__<br/>
 _Students:_ Andrew da Silva, Juliete Marcelli Zanelli, Damaris Alegreti, Leila Primilla, Vivian Negreiros, Adriana Souza, Camila Santos, Angelica Fiedler, Ana Paula Croce, Jessica Fontes Chaves, Claudia Oliveira, Bruno Vinicius Cerqueira, Heather Caulkins, Katherine Pjevach, Alejandra Guevara, Ryan Schmelter, Sivaram Yeramati, Daphne Zuniga. 
 
@@ -131,7 +131,7 @@ _Students:_ Andrew da Silva, Juliete Marcelli Zanelli, Damaris Alegreti, Leila P
 ## Grants, Fellowships and Awards
 
 ### Grants/Fellowships 
-`2022-2022` __Academic Hardware Grant__, Nvidia Corporation, US <br/>
+<!---`2022-2022` __Academic Hardware Grant__, Nvidia Corporation, US <br/>-->
 `2021-2023` __Internal Grant  - Codefests and Makerspaces__, Louisiana State University, Baton Rouge, US <br/>
 `2019–2020` 	__Research Fellow__, Centre for Advanced Studies, Academy of Sciences and Letters, Norway <br/>
 `2014–2016` __F31 Predoctoral Fellowship__, National Institutes of Health, NIH- NIDCR , US <br/>
@@ -146,7 +146,9 @@ _Students:_ Andrew da Silva, Juliete Marcelli Zanelli, Damaris Alegreti, Leila P
 `2014` __Under-represented minority award__, International Mammalian Genomics Society, US
 
 ## Selected Presentations
-`2022` __Frontiers in AI__, Gainesville, Florida. _A computer vision for organismal biology__. (invited talk).<br/>
+`2023` __Digital Data Conference__, Tempe, Arizona. _A computer vision for organismal biology_. (invited talk).<br/>
+`2023` __Finnish Museum of Natural History__, Helsinki, Finland. _Computer vision approaches in biology: a tale of two methods_. (invited talk).<br/>
+`2022` __Frontiers in AI__, Gainesville, Florida. _A computer vision for organismal biology_. (invited talk).<br/>
 `2022` __Florida Museum of Natural History__, Gainesville, Florida. _Computer vision and the promise of phenomics in biology_. (invited talk) <br/>
 `2022` __19th IBA meeting__, Dublin, Ireland. _A web app for AI-assisted image segmentation of cheilostome bryozoans_. (contributed talk) <br/>
 `2022` __InteCol 2022__, Geneva, Switzerland. _DeepBryo: A simple and lightweight web app for AI-assisted phenomics of bryozoan colonies_. (invited talk) <br/>
@@ -189,8 +191,8 @@ Exhibition toured low-income high schools in São Paulo city for two academic ye
 `2020` __NRK__, _Forskergruppe i Norge mener klassisk studie av evolusjonen er feil_. <br/>
 
 ## Institutional Responsability
-`2021-2022` __Committee Member (PHD thesis)__, Various. <br/>
-_Students:_ Kathleen Mahra, Catherine Llera, César Augusto Herrera Acosta
+`2021-2023` __Committee Member (PHD thesis)__, Various. <br/>
+_Students:_ Kathleen Mahra, Catherine Llera Martin, César Augusto Herrera Acosta, Jacob Idec, Caleb Charpentier <br/>
 `2021` __Organizer__ , _Codefests and Makerspaces_, Louisiana State University, US. <br/>
 `2021` __Search Committee Member__, Department of Biology, Louisiana State University, US. <br/>
 `2018` __Committee member and Organizer__, _Macroevolution Seminar Series_, University of Oslo, Norway. <br/>
