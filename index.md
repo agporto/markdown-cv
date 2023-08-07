@@ -4,9 +4,9 @@ title: Arthur Porto's CV
 ---
 # _Arthur Porto_
 
-Department of Biological Sciences and Center for Computation and Technology
+Florida Museum of Natural History
 
-Louisiana State University
+University of Florida
 
 
 <div id="webaddress">
@@ -17,7 +17,11 @@ Louisiana State University
 
 
 ## Academic Appointments <br/>
-`2021-Present` __Assistant Professor__
+
+`2023-Present` __Assistant Curator of Artificial Intelligence__
+ <br/>University of Florida, Gainesville, US.
+ 
+`2021-2023` __Assistant Professor__
  <br/>Louisiana State University, Baton Rouge, US.
 
 `2020-2020` __Postdoctoral Fellow__
@@ -56,9 +60,9 @@ Louisiana State University
 
 `2023` K.L.Voje, M. Grabowski, A. Holstad, __A. Porto__, M. Tsuboi, and G. Bolstad. 2023. Does lack of evolvability constrain adaptation? If so, on what time scales? _In: Evolvability – a new and unifying concept in evolutionary biology?_ Editors, Thomas F. Hansen and Christophe Pelabon._In Press_.
 
-`2022` Zhang,C., __A. Porto__, S. Rolfe, A. Kocatulum, A.M. Maga. 2022. Automated Landmarking via Multiple Templates. _PLoS ONE_ vol.17(12): e0278035.
+`2023` Hubbe,A., G. Garcia, H. Sebastião, __A. Porto__, F. Machado, J.M. Cheverud, G. Marroig. 2021. Morphological integration during postnatal ontogeny: implications for evolutionary biology. _Evolution_ vol. 77(3), pp.763-775.
 
-`2022` Hubbe,A., G. Garcia, H. Sebastião, __A. Porto__, F. Machado, J.M. Cheverud, G. Marroig. 2021. Morphological integration during postnatal ontogeny: implications for evolutionary biology. _Evolution_. _In press_.
+`2022` Zhang,C., __A. Porto__, S. Rolfe, A. Kocatulum, A.M. Maga. 2022. Automated Landmarking via Multiple Templates. _PLoS ONE_ vol.17(12): e0278035.
 
 `2022` Love, A.C., M. Grabowski, D. Houle, L.H. Liow, __A. Porto__, M. Tsuboi, K.J Voje and G. Hunt. 2022. Evolvability and the Fossil record. _Paleobiology_ vol.48(2), pp.186-209.
 
@@ -121,8 +125,8 @@ Louisiana State University
 
 `2021-2022` __PhD student (1 total)__<br/>
 _Students:_ Nevyn Neal.<br/>
-`2021-2023` __NSF-REU (1 total)__<br/>
-_Students:_ Altan Kocatulum<br/>
+`2021-2023` __NSF-REU (2 total)__<br/>
+_Students:_ Altan Kocatulum, Maximilian McKnight<br/>
 `2009-2017` __Undergraduate students (18 total)__<br/>
 _Students:_ Andrew da Silva, Juliete Marcelli Zanelli, Damaris Alegreti, Leila Primilla, Vivian Negreiros, Adriana Souza, Camila Santos, Angelica Fiedler, Ana Paula Croce, Jessica Fontes Chaves, Claudia Oliveira, Bruno Vinicius Cerqueira, Heather Caulkins, Katherine Pjevach, Alejandra Guevara, Ryan Schmelter, Sivaram Yeramati, Daphne Zuniga. 
 
@@ -146,6 +150,7 @@ _Students:_ Andrew da Silva, Juliete Marcelli Zanelli, Damaris Alegreti, Leila P
 `2014` __Under-represented minority award__, International Mammalian Genomics Society, US
 
 ## Selected Presentations
+`2023` __Evolution Meeting__, Albuquerque, New Mexico. _Computer vision and the promise of phenomics in ecology and evolutionary biology_. (invited talk).<br/>
 `2023` __Digital Data Conference__, Tempe, Arizona. _A computer vision for organismal biology_. (invited talk).<br/>
 `2023` __Finnish Museum of Natural History__, Helsinki, Finland. _Computer vision approaches in biology: a tale of two methods_. (invited talk).<br/>
 `2022` __Frontiers in AI__, Gainesville, Florida. _A computer vision for organismal biology_. (invited talk).<br/>
@@ -176,7 +181,7 @@ _Students:_ Andrew da Silva, Juliete Marcelli Zanelli, Damaris Alegreti, Leila P
 `2020-Present` Associate Editor at Methods in Ecology and Evolution.
 
 ## Expert Reviewer Service
-`Journals`_PLOS Computational Biology, Scientific Reports, Methods in Ecology and Evolution, Communications Biology, The American Naturalist, Proceedings of the Royal Society B, 	Evolution, Journal of Biogeography, Ecology and Evolution, Journal of Morphology, PyOpen Sci, Journal of Zoology, 	Current Zoology, Revista Argentina de 	Antropología Biológica, Journal of Zoological Systematics and Evolutionary Research, Zoological letters_.
+`Journals`_PLOS Computational Biology, Scientific Reports, Nature Communications, Methods in Ecology and Evolution, Communications Biology, The American Naturalist, Proceedings of the Royal Society B, 	Evolution, Journal of Biogeography, Ecology and Evolution, Journal of Morphology, PyOpen Sci, Journal of Zoology, 	Current Zoology, Revista Argentina de 	Antropología Biológica, Journal of Zoological Systematics and Evolutionary Research, Zoological letters_.
 
 `Grants`_National Science Foundation (NSF)_, _The Austrian Science Fund (FWF)_.
 
@@ -222,7 +227,7 @@ _Students:_ Andrew da Silva, Juliete Zanelli, Vivian Negreiros, Ana Paula Croce,
 `2010` __Tremembe formation__, _Taubate basin_ (Oligocene-Miocene), Brazil.
 
 ## Software Contributions
-`2022` __DeepBryo:__ AI-assisted segmentation of cheilostome bryozoans. (Main Author) <br/>
+`2023` __DeepBryo:__ AI-assisted segmentation of cheilostome bryozoans. (Main Author) <br/>
 _https://github.com/agporto/DeepBryo_
 
 `2022` __pycpd:__ Pure Numpy Implementation of the Coherent Point Drift Algorithm. (Core contributor) <br/>
