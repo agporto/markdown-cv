@@ -11,7 +11,6 @@ University of Florida
 
 <div id="webaddress">
 <a href="arthur.porto@ufl.edu">arthur.porto@ufl.edu</a>
-<a href="+1 206 586 2224">+1 206 586 2224</a>
 </div>
 
 
@@ -51,13 +50,14 @@ University of Florida
 ## Publications <br/>
 
 ### Accepted
-
-`2023` E. Di Martino, B. Berning, D.P. Gordon, P. Kuklinski, L.H. Liow, M.H. Ramsfjell, H.L. Ribeiro, A.M. Smith, P.D. Taylor, K.L. Voje, A. Waeschenbach, __A. Porto__. DeepBryo: a web app for AI-assisted morphometric characterization of cheilostome bryozoans. _(Accepted at Limnology and Oceanography:Methods)_
-
+`2024` L.H. Liow, __A. Porto__, E.D. Martino. 2024. Trait-fitness associations via fecundity and competition in a two-million-year-long fossil record. _The American Naturalist_ (Accepted)
 
 ### Published
+`2023` Duque, J.C.G., Balk, M., Dahdul, W., Lapp, H., Mikó, I., Alhajjar, E., Wynd, B., Tarasov, S., Lawrence, C., Khakurel, B. and __Porto, A__ _et al._, 2024. Meeting Report for the Phenoscape TraitFest 2023 with Comments on Organising Interdisciplinary Meetings. _Biodiversity Information Science and Standards_ vol.8, p.e115232.
 
-`2023` K.L.Voje, M. Grabowski, A. Holstad, __A. Porto__, M. Tsuboi, and G. Bolstad. 2023. Does lack of evolvability constrain adaptation? If so, on what time scales? _In: Evolvability – a new and unifying concept in evolutionary biology?_ Editors, Thomas F. Hansen and Christophe Pelabon._In Press_.
+`2023` E. Di Martino, B. Berning, D.P. Gordon, P. Kuklinski, L.H. Liow, M.H. Ramsfjell, H.L. Ribeiro, A.M. Smith, P.D. Taylor, K.L. Voje, A. Waeschenbach, __A. Porto__. DeepBryo: a web app for AI-assisted morphometric characterization of cheilostome bryozoans. _Limnology and Oceanography:Methods vol.21(9), pp.542=-551.
+
+`2023` K.L.Voje, M. Grabowski, A. Holstad, __A. Porto__, M. Tsuboi, and G. Bolstad. 2023. Does lack of evolvability constrain adaptation? If so, on what timescales? _In: Evolvability – a new and unifying concept in evolutionary biology?_ Editors, Thomas F. Hansen and Christophe Pelabon._The MIT Press_.
 
 `2023` Hubbe,A., G. Garcia, H. Sebastião, __A. Porto__, F. Machado, J.M. Cheverud, G. Marroig. 2021. Morphological integration during postnatal ontogeny: implications for evolutionary biology. _Evolution_ vol. 77(3), pp.763-775.
 
@@ -107,6 +107,7 @@ University of Florida
 
 ## Teaching Experience
 ### Undergraduate
+`2024`__Primary instructor__, _AI in Biology_, University of Florida, US. <br/>
 `2021`  __Primary instructor__, _Evolution_, Louisiana State University, US.<br/>
 `2015` 	__Primary instructor__, _General Biology Lab_, Loyola University Chicago, US.<br/>
 `2011-2012`	__Graduate Teaching Assistant__, _Evolution_, Washington University in St Louis, US.<br/>
@@ -117,25 +118,44 @@ University of Florida
 `2008-2009` __Primary instructor__, _Evolution_, Universidade Cruzeiro do Sul, Brazil.
 
 ### Graduate
+`2024`__Primary instructor__, _AI in Biology_, University of Florida, US. <br/>
 `2017`__Invited instructor__, _Latin American School of Evolution_, Universidade de Sao Paulo, Brazil. <br/>
 `2010`__Primary instructor (Web)__, _Topics in Genetics and Evolutionary Biology_, Universidade Cruzeiro do Sul, Brazil.
 
-### Mentoring
+## Mentoring
+### Postdoctoral
+`University of Florida` - Moritz Lurig (current) <br/>
+`Louisiana State University` - Henrique Ribeiro (past) <br/>
 
-`2021-2022` __PhD student (1 total)__<br/>
-_Students:_ Nevyn Neal.<br/>
-`2021-2023` __NSF-REU (2 total)__<br/>
-_Students:_ Altan Kocatulum, Maximilian McKnight<br/>
-`2009-2017` __Undergraduate students (18 total)__<br/>
-_Students:_ Andrew da Silva, Juliete Marcelli Zanelli, Damaris Alegreti, Leila Primilla, Vivian Negreiros, Adriana Souza, Camila Santos, Angelica Fiedler, Ana Paula Croce, Jessica Fontes Chaves, Claudia Oliveira, Bruno Vinicius Cerqueira, Heather Caulkins, Katherine Pjevach, Alejandra Guevara, Ryan Schmelter, Sivaram Yeramati, Daphne Zuniga. 
+### Graduate Chair
+`Georgia Institute of Technology` - Breanna Shi (current) - Co-Advised with Dr. Patrick McGrath <br/>
+`University of Florida` - Emilio Mancero (upcoming) <br/>
+`Louisiana State University` - Nevyn Neal (past) <br/>
 
+### Graduate Committee 
+#### Current
+`University of Florida` - _Department of Biology_ -  Jacob Idec	<br/>
+`Virginia Tech` - _Department of Biology_ -  Caleb Charpentier	<br/>
+`University of Florida` - _Department of Geological Sciences_ -  Hyungjoo Jang	<br/>
+
+#### Past
+`University of Calgary` - Jay Devine <br/>
+`Johns Hopkins University` - Catherine Llera Martins <br/>
+`Universidade Federal do Sergipe` - Kathleen Castro <br/>
+`James Cook University` - César Herrera <br/>
+
+### Undergraduate
+`NSF-REU` (2 total) <br/>
+_Students:_ Altan Kocatulum, Maximilian McKnight <br/>
+`Independent projects` (25 total) <br/>
+_Students:_ Andrew da Silva, Juliete Marcelli Zanelli, Damaris Alegreti, Leila Primilla, Vivian Negreiros, Adriana Souza, Camila Santos, Angelica Fiedler, Ana Paula Croce, Jessica Fontes Chaves, Claudia Oliveira, Bruno Vinicius Cerqueira, Heather Caulkins, Katherine Pjevach, Alejandra Guevara, Ryan Schmelter, Sivaram Yeramati, Daphne Zuniga, Paraman Gallipalli, Soma Elefanti, Thomas Olinger-Jiang, Manas Adepu, Jun Tianzhong, Joseph Kim, Jordan Becci.
 
 
 ## Grants, Fellowships and Awards
 
 ### Grants/Fellowships 
 `2022-2022` __Academic Hardware Grant__, Nvidia Corporation, US <br/>
-`2021-2023` __Internal Grant  - Codefests and Makerspaces__, Louisiana State University, Baton Rouge, US <br/>
+`2021-2023` __Dean's Strategic Funding  - Codefests and Makerspaces__, Louisiana State University, Baton Rouge, US <br/>
 `2019–2020` 	__Research Fellow__, Centre for Advanced Studies, Academy of Sciences and Letters, Norway <br/>
 `2014–2016` __F31 Predoctoral Fellowship__, National Institutes of Health, NIH- NIDCR , US <br/>
 `2006-2008` __Master’s Research Fellowship__, FAPESP, Sao Paulo, Brazil<br/>
@@ -149,6 +169,9 @@ _Students:_ Andrew da Silva, Juliete Marcelli Zanelli, Damaris Alegreti, Leila P
 `2014` __Under-represented minority award__, International Mammalian Genomics Society, US
 
 ## Selected Presentations
+`2023` __7th Annual Digital Data Conference__, Tempe, Arizona. _A computer vision for organismal biology_. (plenary).<br/>
+`2023` __17th WinterLarwood Symposium	__, Vienna, Austria. _DeepBryo: a web app for AI-assisted morphometric characterization of cheilostome | bryozoan colonies_. (contributed talk).<br/>
+`2023` __Geological Society of America Meeting__, Pittsburgh, Pensylvannia. _Leveraging metric learning for robust image classification: a case study on cheilostome bryozoans_. (invited talk).<br/>
 `2023` __Evolution Meeting__, Albuquerque, New Mexico. _Computer vision and the promise of phenomics in ecology and evolutionary biology_. (invited talk).<br/>
 `2023` __Digital Data Conference__, Tempe, Arizona. _A computer vision for organismal biology_. (invited talk).<br/>
 `2023` __Finnish Museum of Natural History__, Helsinki, Finland. _Computer vision approaches in biology: a tale of two methods_. (invited talk).<br/>
@@ -176,33 +199,52 @@ _Students:_ Andrew da Silva, Juliete Marcelli Zanelli, Damaris Alegreti, Leila P
 `2011`__Washington University in St Louis__, Missouri, US. _Constraints in the evolution of body size in mammals_. (invited talk) <br/>
 `2009`__Universidade de Sao Paulo__, Sao Paulo, Brazil. _Size matters: morphological evolution of the mammalian skull_. (invited talk)
 
+## Selected Abstracts
+`2024` __SICB__, Seattle, WA. M. McKnight, A. Porto, and A. Summers et al. _A computerized method for efficient mass uCT scanning of otoliths and dense objects_.<br/>
+`2024` __SICB__, Seattle, WA. Maga et al. _3D Slicer and SlicerMorph: A new frontier for 3D digital morphology_.<br/>
+`2024` __International Association for Dental, Oral, and Craniofacial Research Conference - IADR2024__, New Orleans, LA. Chandrasekharan et al._Clinical Decision Support for Prosthodontic Diagnostic Index_.<br/>
+`2023` __PaleoDays 2023__, Lecce, Italy. E.Di Martino and A.Porto. _DeepBryo: a web app for bryozoan AI-assisted morphometric characterization_.<br/>
+`2023` __GSA Connect 2023__, Pittsburgh, PA. E.Di Martino, A.Porto and LH.Liow. _A cheilostome bryozoan story of fitness and phenotypes across two million years_.<br/>
+`2023` __IAFS 2023__, Sydney, Australia. Choi et al. _Open-Source Software for Dental 3D Surface Comparison in Routine Forensic Identification and Disaster Victim Identification Incidents_.<br/>
+
+
+
+
+
 ## Editorial Service
-`2020-Present` Associate Editor at Methods in Ecology and Evolution.
+`2020-2023` Associate Editor at Methods in Ecology and Evolution.
 
 ## Expert Reviewer Service
+`Workshops` _CV4Ecology Summer Workshop_ at MIT.
+
 `Journals`_PLOS Computational Biology, Scientific Reports, Nature Communications, Methods in Ecology and Evolution, Communications Biology, The American Naturalist, Proceedings of the Royal Society B, 	Evolution, Journal of Biogeography, Ecology and Evolution, Journal of Morphology, PyOpen Sci, Journal of Zoology, 	Current Zoology, Revista Argentina de 	Antropología Biológica, Journal of Zoological Systematics and Evolutionary Research, Zoological letters_.
 
 `Grants`_National Science Foundation (NSF)_, _The Austrian Science Fund (FWF)_.
 
 ## Outreach
+`2024` Outreach talk  __Pixels for Paleo__ for the Florida Paleontological Society Meeting <br/>
+`2023` Interview for __Quanta Magazine__ for the article __Evoluttion: Fast or Slow? Lizards help resolve a paradox__ by Carrie Arnold <br/>
+`2023` Outreach talk  __AI in Biodiversity__ for the AI Days at University of Florida <br/>
+`2023` Florida Museum stand at the __2023 Fall Undergraduate Research Expo__ at University of Florida <br/>
 `2017` __21st Legislative Tour of the Rio Grande Valley__, Texas, US. <br/>
 Direct conversation with Texas Lawmakers, with the goal of increasing the contact between local communities and policymakers. <br/>
 `2008-2009`__Itinerant exhibition “The giant cell”__, São Paulo, Brazil.<br/>
 Exhibition toured low-income high schools in São Paulo city for two academic years. I was involved in the planning, organization and presentation of the exhibition.
 
 ## Press
+`2024` __Whaganui Chronicle__, Cliffs tell time: Fossil hunters excited by window into past at unique location. <br/>
 `2020` __Phys.org__, _The most popular textbook example of punctuated evolution debunked_. <br/>
 `2020` __NRK__, _Forskergruppe i Norge mener klassisk studie av evolusjonen er feil_. <br/>
 
 ## Institutional Responsability
-`2021-2023` __Committee Member (PHD thesis)__, Various. <br/>
-_Students:_ Kathleen Mahra, Catherine Llera Martin, César Augusto Herrera Acosta, Jacob Idec, Caleb Charpentier <br/>
+`2024` __Advisory Board__, MorphoCloud, NSF, US. <br/>
+`2024` __Search Committee Member__, Department of Natural History, University of Florida, US. <br/>
+`2023` __Organizer__ , _AI Days Teaching and Research Symposium_, University of Florida, US. <br/>
 `2021` __Organizer__ , _Codefests and Makerspaces_, Louisiana State University, US. <br/>
 `2021` __Search Committee Member__, Department of Biology, Louisiana State University, US. <br/>
 `2018` __Committee member and Organizer__, _Macroevolution Seminar Series_, University of Oslo, Norway. <br/>
 `2011`	__Committee member and Organizer__, _EEPB Seminar Series_, Washington University in St Louis, US.<br/>
-`2009–2010` __Member of Undergraduate Thesis Committee__, Universidade Cruzeiro do Sul, Brazil.         <br/>
-_Students:_ Andrew da Silva, Juliete Zanelli, Vivian Negreiros, Ana Paula Croce, Claudia Oliveira 
+
 
 ## Professional Workshops
 ### Leader/Instructor
@@ -223,9 +265,20 @@ _Students:_ Andrew da Silva, Juliete Zanelli, Vivian Negreiros, Ana Paula Croce,
 `2019-2021`__Evolvability Working Group__, Centre for Advanced Studies, Norway.
 
 ## Fieldwork 
+`2024` __Wanganui basin__ (Pliocene/Pleistocene), New Zealand. <br/>
 `2010` __Tremembe formation__, _Taubate basin_ (Oligocene-Miocene), Brazil.
 
 ## Software Contributions
+
+`2024` __ModelMatch3D:__   3D Model Comparison in Forensic Identification.  (Main Author) <br/>
+_https://github.com/agporto/ModelMatch3D_
+
+`2024` __ModelColors:__  a Slicer module for 3d color segmentation.  (Main Author) <br/>
+_https://github.com/agporto/ModelColors_
+
+`2024` __BioEncoder:__ a metric learning toolkit for comparative organismal biology.  (Main Author) <br/>
+_https://github.com/agporto/BioEncoder_
+
 `2023` __DeepBryo:__ AI-assisted segmentation of cheilostome bryozoans. (Main Author) <br/>
 _https://github.com/agporto/DeepBryo_
 
