@@ -129,26 +129,25 @@ University of Florida
 
 ## Mentoring
 ### Postdoctoral
-`University of Florida` Moritz Lurig (current) <br/>
-`University of Sao Paulo` Leila Shirai (current) <br/>
-`Louisiana State University` Henrique Ribeiro (past) <br/>
+`2024-Present` University of Florida - Moritz Lurig <br/>
+`2024-Present` University of Sao Paulo - Leila Shirai <br/>
+`2021-2022` - Louisiana State University - Henrique Ribeiro <br/>
 
 ### Graduate Chair
-`Georgia Institute of Technology` - Breanna Shi (current) - Co-Advised with Dr. Patrick McGrath <br/>
-`University of Florida` - Emilio Mancero (current) <br/>
-`Louisiana State University` - Nevyn Neal (past) <br/>
+`2023-Present` - Georgia Institute of Technology - Breanna Shi - Co-Advised with Dr. Patrick McGrath <br/>
+`2024-Present` - University of Florida - Emilio Mancero <br/>
+`2021-2022` - Louisiana State University - Nevyn Neal <br/>
 
-### Graduate Committee 
-#### Current
-`University of Florida` _Department of Biology_ -  Jacob Idec	<br/>
-`Virginia Tech` _Department of Biology_ -  Caleb Charpentier	<br/>
-`University of Florida` _Department of Geological Sciences_ -  Hyungjoo Jang	<br/>
+### Graduate Committee
+`2023-Present` University of Florida - _Department of Biology_ -  Jacob Idec	<br/>
+`2023-Present` Virginia Tech - _Department of Biology_ -  Caleb Charpentier	<br/>
+`2024-Present` University of Florida - _Department of Geological Sciences_ -  Hyungjoo Jang	<br/>
 
-#### Past
-`University of Calgary` Jay Devine <br/>
-`Johns Hopkins University` Catherine Llera Martins <br/>
-`Universidade Federal do Sergipe` Kathleen Castro <br/>
-`James Cook University` César Herrera <br/>
+### External Examiner
+`2023` University of Calgary - Jay Devine <br/>
+`2023` Johns Hopkins University - Catherine Llera Martins <br/>
+`2021` Universidade Federal do Sergipe - Kathleen Castro <br/>
+`2021` James Cook University - César Herrera <br/>
 
 ### Undergraduate
 `NSF-REU` (2 total) <br/>
@@ -157,10 +156,9 @@ _Students:_ Altan Kocatulum, Maximilian McKnight <br/>
 _Students:_ Andrew da Silva, Juliete Marcelli Zanelli, Damaris Alegreti, Leila Primilla, Vivian Negreiros, Adriana Souza, Camila Santos, Angelica Fiedler, Ana Paula Croce, Jessica Fontes Chaves, Claudia Oliveira, Bruno Vinicius Cerqueira, Heather Caulkins, Katherine Pjevach, Alejandra Guevara, Ryan Schmelter, Sivaram Yeramati, Daphne Zuniga, Paraman Gallipalli, Soma Elefanti, Thomas Olinger-Jiang, Manas Adepu, Jun Tianzhong, Joseph Kim, Jordan Becci.
 
 
-## Grants, Fellowships and Awards
+## Grants
 
-### Grants
-#### Current
+### Current
 `2024-2027` __Collaborative Research: Harnessing a high-resolution fossil record and novel (AI) workflows to study the effects of climate change on mammalian functional diversity__<br/>
 _Funder_: National Science Foundation - $419,234 (UF) <br/>
 `2024-2026` __DRPD-ROSF 2024 - Unveiling hidden biodiversity: Leveraging AI to mine museum collections__ <br/>
@@ -168,25 +166,25 @@ _Funder_: University of Florida - $98,000 <br/>
 `2024-2025` __UFBI Seed 2024 - AI-Enabled Transformation: Boosting Usability of Lepidoptera Collections for Global Research__ <br/>
 _Funder_: University of Florida Biodiversity Institute - $18,000 <br/>
 
-#### Pending
+### Pending
 `2025-2029` __NOAA Restore: Tracking trophic coupling and feedbacks in eastern GoM hard-bottom habitats to support natural resource management, conservation, and restoration__<br/>
 _Funder_: National Oceanic and Atmospheric Administration <br/>
 `2025-2029` __Global Centers: Global Centers: ACREAGE Advancing Climate REsilient Agriculture to Grow the bioEconomy__<br/>
 _Funder_: National Science Foundation <br/>
 
-#### Past
+### Past
 `2022-2022` __Academic Hardware Grant__<br/>
 _Funder_: Nvidia Corporation <br/>
 `2021-2023` __Dean's Strategic Funding  - Codefests and Makerspaces__<br/>
 _Funder_: Louisiana State University - $40,000 <br/>
 
-### Fellowships 
+## Fellowships 
 `2019–2020` 	__Research Fellow__, Centre for Advanced Studies, Academy of Sciences and Letters, Norway <br/>
 `2014–2016` __F31 Predoctoral Fellowship__, National Institutes of Health, NIH- NIDCR , US <br/>
 `2006-2008` __Master’s Research Fellowship__, FAPESP, Sao Paulo, Brazil<br/>
 `2004-2005`	__Undergraduate Fellowship__, FAPESP, Sao Paulo, Brazil 
 
-### Awards 
+## Awards 
 `2021` __Robert May Prize__, British Ecological Society, UK <br/>
 `2018`	__Best talk by Early Career Researcher__, Larwood Meeting, Wales, UK <br/>
 `2015` __Initiative to Maximize Student Development (IMSD) Program Award__, US <br/>
