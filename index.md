@@ -129,25 +129,25 @@ University of Florida
 
 ## Mentoring
 ### Postdoctoral
-`2024-Present` University of Florida - Moritz Lurig <br/>
-`2024-Present` University of Sao Paulo - Leila Shirai <br/>
-`2021-2022` - Louisiana State University - Henrique Ribeiro <br/>
+`2024-Present` _University of Florida_ - Moritz Lurig <br/>
+`2024-Present` _University of Sao Paulo_ - Leila Shirai <br/>
+`2021-2022` _Louisiana State University_ - Henrique Ribeiro <br/>
 
-### Graduate Chair
-`2023-Present` - Georgia Institute of Technology - Breanna Shi - Co-Advised with Dr. Patrick McGrath <br/>
-`2024-Present` - University of Florida - Emilio Mancero <br/>
-`2021-2022` - Louisiana State University - Nevyn Neal <br/>
+### Chair
+`2023-Present` _Georgia Institute of Technology_ - Breanna Shi - Co-Advised with Dr. Patrick McGrath <br/>
+`2024-Present` _University of Florida_ - Emilio Mancero <br/>
+`2021-2022` _Louisiana State University_ - Nevyn Neal <br/>
 
-### Graduate Committee
+### Committee
 `2023-Present` University of Florida - _Department of Biology_ -  Jacob Idec	<br/>
 `2023-Present` Virginia Tech - _Department of Biology_ -  Caleb Charpentier	<br/>
 `2024-Present` University of Florida - _Department of Geological Sciences_ -  Hyungjoo Jang	<br/>
 
-### External Examiner
-`2023` University of Calgary - Jay Devine <br/>
-`2023` Johns Hopkins University - Catherine Llera Martins <br/>
-`2021` Universidade Federal do Sergipe - Kathleen Castro <br/>
-`2021` James Cook University - César Herrera <br/>
+### Examiner
+`2023` _University of Calgary_ - Jay Devine <br/>
+`2023` _Johns Hopkins University_ - Catherine Llera Martins <br/>
+`2021` _Universidade Federal do Sergipe_ - Kathleen Castro <br/>
+`2021` _James Cook University_ - César Herrera <br/>
 
 ### Undergraduate
 `NSF-REU` (2 total) <br/>
