@@ -49,13 +49,18 @@ University of Florida
 
 ## Publications <br/>
 
-### Accepted
-`2024` L.H. Liow, __A. Porto__, E.D. Martino. 2024. Trait-fitness associations via fecundity and competition in a two-million-year-long fossil record. _The American Naturalist_ (Accepted)
+### Accepted / In Press
+`2024` M. Tsuboi, De Lisle S., Grabowski M., Hopkins, __Porto A.__, Sztepanacz J., Voje K. L., Balk M., Hildesheim L., Horta-Lacueva Q., Hohmann N., Holstad A., Lürig M., Milocco L., Niléen S., Passarotto A., Pontarp M., Rossoni D., Svensson E., Villegas C.,  Winslott E., Liow L.H.., M., Hunt G., Houle D. and Love A. 2024 The Paradox of predictability provides a bridge between micro- and macroevolution. Journal of Evolutionary Biology (Accepted)
+
+`2024` L.H. Liow, __A. Porto__, E.D. Martino. 2024. Trait-fitness associations via fecundity and competition in a two-million-year-long fossil record. _The American Naturalist_ (In Press)
 
 ### Published
+
+`2024` M. D. Lurig, Di Martino E., __Porto A.__ BioEncoder: a metric learning toolkit for comparative organismal biology. _Ecology Letters_ vol.27 (8): e14495.
+
 `2023` Duque, J.C.G., Balk, M., Dahdul, W., Lapp, H., Mikó, I., Alhajjar, E., Wynd, B., Tarasov, S., Lawrence, C., Khakurel, B. and __Porto, A__ _et al._, 2024. Meeting Report for the Phenoscape TraitFest 2023 with Comments on Organising Interdisciplinary Meetings. _Biodiversity Information Science and Standards_ vol.8, p.e115232.
 
-`2023` E. Di Martino, B. Berning, D.P. Gordon, P. Kuklinski, L.H. Liow, M.H. Ramsfjell, H.L. Ribeiro, A.M. Smith, P.D. Taylor, K.L. Voje, A. Waeschenbach, __A. Porto__. DeepBryo: a web app for AI-assisted morphometric characterization of cheilostome bryozoans. _Limnology and Oceanography:Methods vol.21(9), pp.542=-551.
+`2023` E. Di Martino, B. Berning, D.P. Gordon, P. Kuklinski, L.H. Liow, M.H. Ramsfjell, H.L. Ribeiro, A.M. Smith, P.D. Taylor, K.L. Voje, A. Waeschenbach, __A. Porto__. DeepBryo: a web app for AI-assisted morphometric characterization of cheilostome bryozoans. _Limnology and Oceanography:Methods_ vol.21(9), pp.542=-551.
 
 `2023` K.L.Voje, M. Grabowski, A. Holstad, __A. Porto__, M. Tsuboi, and G. Bolstad. 2023. Does lack of evolvability constrain adaptation? If so, on what timescales? _In: Evolvability – a new and unifying concept in evolutionary biology?_ Editors, Thomas F. Hansen and Christophe Pelabon._The MIT Press_.
 
@@ -124,25 +129,26 @@ University of Florida
 
 ## Mentoring
 ### Postdoctoral
-`University of Florida` - Moritz Lurig (current) <br/>
-`Louisiana State University` - Henrique Ribeiro (past) <br/>
+`University of Florida` Moritz Lurig (current) <br/>
+`University of Sao Paulo` Leila Shirai (current) <br/>
+`Louisiana State University` Henrique Ribeiro (past) <br/>
 
 ### Graduate Chair
 `Georgia Institute of Technology` - Breanna Shi (current) - Co-Advised with Dr. Patrick McGrath <br/>
-`University of Florida` - Emilio Mancero (upcoming) <br/>
+`University of Florida` - Emilio Mancero (current) <br/>
 `Louisiana State University` - Nevyn Neal (past) <br/>
 
 ### Graduate Committee 
 #### Current
-`University of Florida` - _Department of Biology_ -  Jacob Idec	<br/>
-`Virginia Tech` - _Department of Biology_ -  Caleb Charpentier	<br/>
-`University of Florida` - _Department of Geological Sciences_ -  Hyungjoo Jang	<br/>
+`University of Florida` _Department of Biology_ -  Jacob Idec	<br/>
+`Virginia Tech` _Department of Biology_ -  Caleb Charpentier	<br/>
+`University of Florida` _Department of Geological Sciences_ -  Hyungjoo Jang	<br/>
 
 #### Past
-`University of Calgary` - Jay Devine <br/>
-`Johns Hopkins University` - Catherine Llera Martins <br/>
-`Universidade Federal do Sergipe` - Kathleen Castro <br/>
-`James Cook University` - César Herrera <br/>
+`University of Calgary` Jay Devine <br/>
+`Johns Hopkins University` Catherine Llera Martins <br/>
+`Universidade Federal do Sergipe` Kathleen Castro <br/>
+`James Cook University` César Herrera <br/>
 
 ### Undergraduate
 `NSF-REU` (2 total) <br/>
@@ -153,9 +159,28 @@ _Students:_ Andrew da Silva, Juliete Marcelli Zanelli, Damaris Alegreti, Leila P
 
 ## Grants, Fellowships and Awards
 
-### Grants/Fellowships 
-`2022-2022` __Academic Hardware Grant__, Nvidia Corporation, US <br/>
-`2021-2023` __Dean's Strategic Funding  - Codefests and Makerspaces__, Louisiana State University, Baton Rouge, US <br/>
+### Grants
+#### Current
+`2024-2027` __Collaborative Research: Harnessing a high-resolution fossil record and novel (AI) workflows to study the effects of climate change on mammalian functional diversity__<br/>
+_Funder_: National Science Foundation - $419,234 (UF) <br/>
+`2024-2026` __DRPD-ROSF 2024 - Unveiling hidden biodiversity: Leveraging AI to mine museum collections__ <br/>
+_Funder_: University of Florida - $98,000 <br/>
+`2024-2025` __UFBI Seed 2024 - AI-Enabled Transformation: Boosting Usability of Lepidoptera Collections for Global Research__ <br/>
+_Funder_: University of Florida Biodiversity Institute - $18,000 <br/>
+
+#### Pending
+`2025-2029` __NOAA Restore: Tracking trophic coupling and feedbacks in eastern GoM hard-bottom habitats to support natural resource management, conservation, and restoration__<br/>
+_Funder_: National Oceanic and Atmospheric Administration <br/>
+`2025-2029` __Global Centers: Global Centers: ACREAGE Advancing Climate REsilient Agriculture to Grow the bioEconomy__<br/>
+_Funder_: National Science Foundation <br/>
+
+#### Past
+`2022-2022` __Academic Hardware Grant__<br/>
+_Funder_: Nvidia Corporation <br/>
+`2021-2023` __Dean's Strategic Funding  - Codefests and Makerspaces__<br/>
+_Funder_: Louisiana State University - $40,000 <br/>
+
+### Fellowships 
 `2019–2020` 	__Research Fellow__, Centre for Advanced Studies, Academy of Sciences and Letters, Norway <br/>
 `2014–2016` __F31 Predoctoral Fellowship__, National Institutes of Health, NIH- NIDCR , US <br/>
 `2006-2008` __Master’s Research Fellowship__, FAPESP, Sao Paulo, Brazil<br/>
