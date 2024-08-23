@@ -152,7 +152,7 @@ University of Florida
 ### Undergraduate
 `NSF-REU` (2 total) <br/>
 _Students:_ Altan Kocatulum, Maximilian McKnight <br/>
-`Independent projects` (25 total) <br/>
+`Project` (25 total) <br/>
 _Students:_ Andrew da Silva, Juliete Marcelli Zanelli, Damaris Alegreti, Leila Primilla, Vivian Negreiros, Adriana Souza, Camila Santos, Angelica Fiedler, Ana Paula Croce, Jessica Fontes Chaves, Claudia Oliveira, Bruno Vinicius Cerqueira, Heather Caulkins, Katherine Pjevach, Alejandra Guevara, Ryan Schmelter, Sivaram Yeramati, Daphne Zuniga, Paraman Gallipalli, Soma Elefanti, Thomas Olinger-Jiang, Manas Adepu, Jun Tianzhong, Joseph Kim, Jordan Becci.
 
 
