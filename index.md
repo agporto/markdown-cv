@@ -165,6 +165,8 @@ _Funder_: National Science Foundation - $419,234 (UF) <br/>
 _Funder_: University of Florida - $98,000 <br/>
 `2024-2025` __UFBI Seed 2024 - AI-Enabled Transformation: Boosting Usability of Lepidoptera Collections for Global Research__ <br/>
 _Funder_: University of Florida Biodiversity Institute - $18,000 <br/>
+`2024-2026` __Seed AI 2024 - BioCosmos: A Foundational Multimodal AI Model for Biodiversity__ <br/>
+_Funder_: University of Florida AI 2 - $93,230 <br/>
 
 ### Pending
 `2025-2029` __NOAA Restore: Tracking trophic coupling and feedbacks in eastern GoM hard-bottom habitats to support natural resource management, conservation, and restoration__<br/>
