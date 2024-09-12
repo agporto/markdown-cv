@@ -49,16 +49,25 @@ University of Florida
 
 ## Publications <br/>
 
-### Accepted / In Press
-`2024` M. Tsuboi, De Lisle S., Grabowski M., Hopkins, __Porto A.__, Sztepanacz J., Voje K. L., Balk M., Hildesheim L., Horta-Lacueva Q., Hohmann N., Holstad A., Lürig M., Milocco L., Niléen S., Passarotto A., Pontarp M., Rossoni D., Svensson E., Villegas C.,  Winslott E., Liow L.H.., M., Hunt G., Houle D. and Love A. 2024 The Paradox of predictability provides a bridge between micro- and macroevolution. Journal of Evolutionary Biology (Accepted)
+### Submitted
 
-`2024` L.H. Liow, __A. Porto__, E.D. Martino. 2024. Trait-fitness associations via fecundity and competition in a two-million-year-long fossil record. _The American Naturalist_ (In Press)
+`2024`  B. Shi, Lancaster T., Cozart K., McGrath P., and __A. Porto__. BioBoost: Boosting Imbalanced Class Detection with Trajectory-Aided Annotation.  _IEEE/CVF Winter Conference on Applications of Computer Vision 2025_.
+
+`2024`  D. Rossoni, Murray C., __Porto A.__, and D. Houle. Appendometer: A system for simultaneous, high-throughput morphometry of Drosophila legs and wings. _Methods in Ecology and Evolution_.
+
+`2024`  C. Pélabon, Agudelo-Cantero GA, Araya Ajoy YG, Bolstad GH, Cheng C, Galis F, Guillaume F, Haaland T, Hallgrimsson B, Hansen TF, Holstad A, Houle D, Hunt G, Isaksen A, Milocco L, Mubalegh N, Nuno de la Rosa L, Orzack SH, __Porto A.__, Reid JM, Sztepanacz J, Undheim EAB, Villegas C, Voje KL, Walling C, Wright J. Key questions about evolvability. _BioScience_.
+
+`2024`  Smith JA, Dowding EM, Abdelhady AA, _et al_. Big Questions in Paleontology. _Paleobiology_.
 
 ### Published
 
+`2024` M. Tsuboi, De Lisle S., Grabowski M., Hopkins, __Porto A.__, Sztepanacz J., Voje K. L., Balk M., Hildesheim L., Horta-Lacueva Q., Hohmann N., Holstad A., Lürig M., Milocco L., Niléen S., Passarotto A., Pontarp M., Rossoni D., Svensson E., Villegas C.,  Winslott E., Liow L.H.., M., Hunt G., Houle D. and Love A. 2024 The Paradox of predictability provides a bridge between micro- and macroevolution.  _Journal of Evolutionary Biology_ p.voae103.
+
+`2024` L.H. Liow, __A. Porto__, E.D. Martino. 2024. Trait-fitness associations via fecundity and competition in a two-million-year-long fossil record. _The American Naturalist_ vol. 204(3): pp. 258-273
+
 `2024` M. D. Lurig, Di Martino E., __Porto A.__ BioEncoder: a metric learning toolkit for comparative organismal biology. _Ecology Letters_ vol.27 (8): e14495.
 
-`2023` Duque, J.C.G., Balk, M., Dahdul, W., Lapp, H., Mikó, I., Alhajjar, E., Wynd, B., Tarasov, S., Lawrence, C., Khakurel, B. and __Porto, A__ _et al._, 2024. Meeting Report for the Phenoscape TraitFest 2023 with Comments on Organising Interdisciplinary Meetings. _Biodiversity Information Science and Standards_ vol.8, p.e115232.
+`2024` Duque, J.C.G., Balk, M., Dahdul, W., Lapp, H., Mikó, I., Alhajjar, E., Wynd, B., Tarasov, S., Lawrence, C., Khakurel, B. and __Porto, A__ _et al._, 2024. Meeting Report for the Phenoscape TraitFest 2023 with Comments on Organising Interdisciplinary Meetings. _Biodiversity Information Science and Standards_ vol.8, p.e115232.
 
 `2023` E. Di Martino, B. Berning, D.P. Gordon, P. Kuklinski, L.H. Liow, M.H. Ramsfjell, H.L. Ribeiro, A.M. Smith, P.D. Taylor, K.L. Voje, A. Waeschenbach, __A. Porto__. DeepBryo: a web app for AI-assisted morphometric characterization of cheilostome bryozoans. _Limnology and Oceanography:Methods_ vol.21(9), pp.542=-551.
 
