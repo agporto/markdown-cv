@@ -151,6 +151,7 @@ University of Florida
 `2023-Present` University of Florida - _Department of Biology_ -  Jacob Idec	<br/>
 `2023-Present` Virginia Tech - _Department of Biology_ -  Caleb Charpentier	<br/>
 `2024-Present` University of Florida - _Department of Geological Sciences_ -  Hyungjoo Jang	<br/>
+`2024-Present` University of Florida - _Department of Geological Sciences_ -  Heshan Liyanagedara	<br/>
 
 ### Examiner
 `2023` _University of Calgary_ - Jay Devine <br/>
