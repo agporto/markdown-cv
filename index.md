@@ -221,8 +221,10 @@ _Funder_: Louisiana State University - $40,000 <br/>
 `2014` __Under-represented minority award__, International Mammalian Genomics Society, US
 
 ## Selected Presentations
+`2024` __2024 Advances in Digital Media - Media Generation__, Gainesville, Florida. _Color Segmentation in 3D_ (invited).<br/>
+`2024` __2024 Advances in Digital Media - AI and Digitization__, New Haven, Connecticut. _An AI Infrastructure for Biodiversity Research_ (invited).<br/>
 `2023` __7th Annual Digital Data Conference__, Tempe, Arizona. _A computer vision for organismal biology_. (plenary).<br/>
-`2023` __17th WinterLarwood Symposium	__, Vienna, Austria. _DeepBryo: a web app for AI-assisted morphometric characterization of cheilostome | bryozoan colonies_. (contributed talk).<br/>
+`2023` __17th WinterLarwood Symposium__, Vienna, Austria. _DeepBryo: a web app for AI-assisted morphometric characterization of cheilostome | bryozoan colonies_. (contributed talk).<br/>
 `2023` __Geological Society of America Meeting__, Pittsburgh, Pensylvannia. _Leveraging metric learning for robust image classification: a case study on cheilostome bryozoans_. (invited talk).<br/>
 `2023` __Evolution Meeting__, Albuquerque, New Mexico. _Computer vision and the promise of phenomics in ecology and evolutionary biology_. (invited talk).<br/>
 `2023` __Digital Data Conference__, Tempe, Arizona. _A computer vision for organismal biology_. (invited talk).<br/>
@@ -252,6 +254,8 @@ _Funder_: Louisiana State University - $40,000 <br/>
 `2009`__Universidade de Sao Paulo__, Sao Paulo, Brazil. _Size matters: morphological evolution of the mammalian skull_. (invited talk)
 
 ## Selected Abstracts
+`2024` __33rd Interpol DVI__, Lyon, France. Choi S. _et al._. _Development and Validation of Automatic 3D Model Comparison in Forensic Identification_.<br/>
+`2024` __ICE 2024__, Kyoto, Japan. __A. Porto__ and M. Lurig. _BioEncoder: a metric learning toolkit for comparative organismal biology_.<br/>
 `2024` __SICB__, Seattle, WA. M. McKnight, A. Porto, and A. Summers et al. _A computerized method for efficient mass uCT scanning of otoliths and dense objects_.<br/>
 `2024` __SICB__, Seattle, WA. Maga et al. _3D Slicer and SlicerMorph: A new frontier for 3D digital morphology_.<br/>
 `2024` __International Association for Dental, Oral, and Craniofacial Research Conference - IADR2024__, New Orleans, LA. Chandrasekharan et al._Clinical Decision Support for Prosthodontic Diagnostic Index_.<br/>
@@ -284,11 +288,14 @@ Direct conversation with Texas Lawmakers, with the goal of increasing the contac
 Exhibition toured low-income high schools in São Paulo city for two academic years. I was involved in the planning, organization and presentation of the exhibition.
 
 ## Press
+`2024` __PNAS Journal Club__, Bryozoans offer a glimpse of evolution through the ages. <br/>
 `2024` __Whaganui Chronicle__, Cliffs tell time: Fossil hunters excited by window into past at unique location. <br/>
 `2020` __Phys.org__, _The most popular textbook example of punctuated evolution debunked_. <br/>
 `2020` __NRK__, _Forskergruppe i Norge mener klassisk studie av evolusjonen er feil_. <br/>
 
 ## Institutional Responsability
+`2024` __Organizer__ , _AI Days Teaching and Research Symposium_, University of Florida, US. <br/>
+`2024` __Digitization Committee__, Department of Natural History, University of Florida, US. <br/>
 `2024` __Advisory Board__, MorphoCloud, NSF, US. <br/>
 `2024` __Search Committee Member__, Department of Natural History, University of Florida, US. <br/>
 `2023` __Organizer__ , _AI Days Teaching and Research Symposium_, University of Florida, US. <br/>
@@ -312,11 +319,12 @@ Exhibition toured low-income high schools in São Paulo city for two academic ye
 
 ## Consortia/ Working groups
 `2022-Present`__Imageomics 3D Working Group__, NSF-Funded, Multinational. <br/>
-`2021-Present` __Big Questions in Paleontology__, Multinational. <br/>
+`2021-2024` __Big Questions in Paleontology__, Multinational. <br/>
 `2019-Present`__Consortium for automated image analyses of bryozoan colonies (BryoIMDB)__,  Multinational.<br/>
 `2019-2021`__Evolvability Working Group__, Centre for Advanced Studies, Norway.
 
 ## Fieldwork 
+`2024` __Big Horn basin__ (Paleocene/Eocene), Wyoming, US. <br/>
 `2024` __Wanganui basin__ (Pliocene/Pleistocene), New Zealand. <br/>
 `2010` __Tremembe formation__, _Taubate basin_ (Oligocene-Miocene), Brazil.
 
