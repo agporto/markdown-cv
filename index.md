@@ -161,18 +161,36 @@ _Students:_ Andrew da Silva, Juliete Marcelli Zanelli, Damaris Alegreti, Leila P
 ### Current
 `2024-2027` __Collaborative Research: Harnessing a high-resolution fossil record and novel (AI) workflows to study the effects of climate change on mammalian functional diversity__<br/>
 _Funder_: National Science Foundation - $419,234 (UF) <br/>
+_Role_: Co-PI <br/>
 `2024-2026` __DRPD-ROSF 2024 - Unveiling hidden biodiversity: Leveraging AI to mine museum collections__ <br/>
 _Funder_: University of Florida - $98,000 <br/>
+_Role_: Co-PI <br/>
 `2024-2025` __UFBI Seed 2024 - AI-Enabled Transformation: Boosting Usability of Lepidoptera Collections for Global Research__ <br/>
 _Funder_: University of Florida Biodiversity Institute - $18,000 <br/>
+_Role_: PI <br/>
+`2024-2025` __UFBI Seed 2024 - Leveraging generative AI to automate the extraction of functional and demographic information for biodiversity conservation__ <br/>
+_Funder_: University of Florida Biodiversity Institute - $20,000 <br/>
+_Role_: Co-PI <br/>
 `2024-2026` __Seed AI 2024 - BioCosmos: A Foundational Multimodal AI Model for Biodiversity__ <br/>
 _Funder_: University of Florida AI 2 - $93,230 <br/>
+_Role_: PI <br/>
+
 
 ### Pending
 `2025-2029` __NOAA Restore: Tracking trophic coupling and feedbacks in eastern GoM hard-bottom habitats to support natural resource management, conservation, and restoration__<br/>
 _Funder_: National Oceanic and Atmospheric Administration <br/>
+_Role_: Co-PI <br/>
 `2025-2029` __Global Centers: Global Centers: ACREAGE Advancing Climate REsilient Agriculture to Grow the bioEconomy__<br/>
 _Funder_: National Science Foundation <br/>
+_Role_: Senior Personnel <br/>
+`2025-2029` __ReefShot: harnessing the power of genomics, informatics, AI, and open science to reveal undiscovered marine life in a threatened ecosystem__<br/>
+_Funder_: OceanShot Foundation <br/>
+_Role_: Co-PI <br/>
+`2025` __AI-Enhanced Biodiversity Monitoring Using Combined Metagenomic and Image Data__<br/>
+_Funder_: Bezos Earth Fund 2024 <br/>
+_Role_: PI <br/>
+
+
 
 ### Past
 `2022-2022` __Academic Hardware Grant__<br/>
