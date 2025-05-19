@@ -51,15 +51,21 @@ University of Florida
 
 ### Submitted
 
-`2024`  B. Shi, Lancaster T., Cozart K., McGrath P., and __A. Porto__. BioBoost: Boosting Imbalanced Class Detection with Trajectory-Aided Annotation.  _IEEE/CVF Winter Conference on Applications of Computer Vision 2025_.
+`2025` B. MacFadden, C. Barberis, M. C. Vallejo-Pareja, S. Zbinden, V. Perez, S. Killingsworth, K. Marks, D. Hall, **A. Porto**. AI and paleontology: Effects of vertebrate fossil sample size on machine learning image classification. Submitted.
 
-`2024`  D. Rossoni, Murray C., __Porto A.__, and D. Houle. Appendometer: A system for simultaneous, high-throughput morphometry of Drosophila legs and wings. _Methods in Ecology and Evolution_.
+`2025` M. Balk, **A. Porto**, P. Taylor, K. L. Voje.  Genetic constraints unaffected by selection predicts evolution within a fossil lineage. Submitted. 
 
-`2024`  C. Pélabon, Agudelo-Cantero GA, Araya Ajoy YG, Bolstad GH, Cheng C, Galis F, Guillaume F, Haaland T, Hallgrimsson B, Hansen TF, Holstad A, Houle D, Hunt G, Isaksen A, Milocco L, Mubalegh N, Nuno de la Rosa L, Orzack SH, __Porto A.__, Reid JM, Sztepanacz J, Undheim EAB, Villegas C, Voje KL, Walling C, Wright J. Key questions about evolvability. _BioScience_.
+`2025`B. Shi, Lancaster T., Cozart K., McGrath P., and **A. Porto**. BioBoost: Boosting Imbalanced Class Detection with Trajectory-Aided Annotation. Submitted.
 
-`2024`  Smith JA, Dowding EM, Abdelhady AA, _et al_. Big Questions in Paleontology. _Paleobiology_.
+`2025`D. Rossoni, Murray C., **Porto A.**, and D. Houle. Appendometer: A system for simultaneous, high-throughput morphometry of Drosophila legs and wings. _bioRxiv_: doi: https://doi.org/10.1101/2025.01.21.634122
+
+`2025`C. Pélabon, Agudelo-Cantero GA, Araya Ajoy YG, Bolstad GH, Cheng C, Galis F, Guillaume F, Haaland T, Hallgrimsson B, Hansen TF, Holstad A, Houle D, Hunt G, Isaksen A, Milocco L, Mubalegh N, Nuno de la Rosa L, Orzack SH, **Porto A.**, Reid JM, Sztepanacz J, Undheim EAB, Villegas C, Voje KL, Walling C, Wright J. Key questions about evolvability. _Submitted_.
+
 
 ### Published
+`2025`  Smith JA, Dowding EM, Abdelhady AA, _et al_. Big Questions in Paleontology. _Paleobiology_(In Press).
+
+`2025` Choi J, Choi S, **A. Porto**, Perkins H, Schlebusch S, Higgins D, Peters OA, Peters CI, Forrest A. Development of automatic 3D model comparison (ModelMatch3D) for forensic identification and testing using odontology data. _Forensic Imaging_ vol. 40: pp. 200621.
 
 `2024` M. Tsuboi, De Lisle S., Grabowski M., Hopkins, __Porto A.__, Sztepanacz J., Voje K. L., Balk M., Hildesheim L., Horta-Lacueva Q., Hohmann N., Holstad A., Lürig M., Milocco L., Niléen S., Passarotto A., Pontarp M., Rossoni D., Svensson E., Villegas C.,  Winslott E., Liow L.H.., M., Hunt G., Houle D. and Love A. 2024 The Paradox of predictability provides a bridge between micro- and macroevolution.  _Journal of Evolutionary Biology_ p.voae103.
 
@@ -121,6 +127,8 @@ University of Florida
 
 ## Teaching Experience
 ### Undergraduate
+`2025`__Primary instructor__, _AI and Machine Learning for Dentistry, University of Florida, US. <br/>
+`2025`__Primary instructor__, _AI in Biology_, University of Florida, US. <br/>
 `2024`__Primary instructor__, _AI in Biology_, University of Florida, US. <br/>
 `2021`  __Primary instructor__, _Evolution_, Louisiana State University, US.<br/>
 `2015` 	__Primary instructor__, _General Biology Lab_, Loyola University Chicago, US.<br/>
@@ -132,6 +140,7 @@ University of Florida
 `2008-2009` __Primary instructor__, _Evolution_, Universidade Cruzeiro do Sul, Brazil.
 
 ### Graduate
+`2025`__Primary instructor__, _AI in Biology_, University of Florida, US. <br/>
 `2024`__Primary instructor__, _AI in Biology_, University of Florida, US. <br/>
 `2017`__Invited instructor__, _Latin American School of Evolution_, Universidade de Sao Paulo, Brazil. <br/>
 `2010`__Primary instructor (Web)__, _Topics in Genetics and Evolutionary Biology_, Universidade Cruzeiro do Sul, Brazil.
@@ -139,12 +148,13 @@ University of Florida
 ## Mentoring
 ### Postdoctoral
 `2024-Present` _University of Florida_ - Moritz Lurig <br/>
-`2024-Present` _University of Sao Paulo_ - Leila Shirai <br/>
+`2024-2025` _University of Sao Paulo_ - Leila Shirai <br/>
 `2021-2022` _Louisiana State University_ - Henrique Ribeiro <br/>
 
-### Chair
+### Chair/Co-Chair
+`2025-Present` _University of Florida (Geology)_ - Stephanie Killingsworth  - Co-Advised with Dr. Bruce MacFadden <br/>
 `2023-Present` _Georgia Institute of Technology_ - Breanna Shi - Co-Advised with Dr. Patrick McGrath <br/>
-`2024-Present` _University of Florida_ - Emilio Mancero <br/>
+`2024-2025` _University of Florida (Biology)_ - Emilio Mancero <br/>
 `2021-2022` _Louisiana State University_ - Nevyn Neal <br/>
 
 ### Committee
@@ -152,8 +162,11 @@ University of Florida
 `2023-Present` Virginia Tech - _Department of Biology_ -  Caleb Charpentier	<br/>
 `2024-Present` University of Florida - _Department of Geological Sciences_ -  Hyungjoo Jang	<br/>
 `2024-Present` University of Florida - _Department of Geological Sciences_ -  Heshan Liyanagedara	<br/>
+`2025-Present` University of Florida - _Department of Physics_ -  Leo Law	<br/>
+
 
 ### Examiner
+`2025` _Universidade do Mato Grosso_ - Marcos Severgnini <br/>
 `2023` _University of Calgary_ - Jay Devine <br/>
 `2023` _Johns Hopkins University_ - Catherine Llera Martins <br/>
 `2021` _Universidade Federal do Sergipe_ - Kathleen Castro <br/>
@@ -162,8 +175,8 @@ University of Florida
 ### Undergraduate
 `NSF-REU` (2 total) <br/>
 _Students:_ Altan Kocatulum, Maximilian McKnight <br/>
-`Project` (25 total) <br/>
-_Students:_ Andrew da Silva, Juliete Marcelli Zanelli, Damaris Alegreti, Leila Primilla, Vivian Negreiros, Adriana Souza, Camila Santos, Angelica Fiedler, Ana Paula Croce, Jessica Fontes Chaves, Claudia Oliveira, Bruno Vinicius Cerqueira, Heather Caulkins, Katherine Pjevach, Alejandra Guevara, Ryan Schmelter, Sivaram Yeramati, Daphne Zuniga, Paraman Gallipalli, Soma Elefanti, Thomas Olinger-Jiang, Manas Adepu, Jun Tianzhong, Joseph Kim, Jordan Becci.
+`Project` (28 total) <br/>
+_Students:_ Andrew da Silva, Juliete Marcelli Zanelli, Damaris Alegreti, Leila Primilla, Vivian Negreiros, Adriana Souza, Camila Santos, Angelica Fiedler, Ana Paula Croce, Jessica Fontes Chaves, Claudia Oliveira, Bruno Vinicius Cerqueira, Heather Caulkins, Katherine Pjevach, Alejandra Guevara, Ryan Schmelter, Sivaram Yeramati, Daphne Zuniga, Paraman Gallipalli, Soma Elefanti, Thomas Olinger-Jiang, Manas Adepu, Jun Tianzhong, Joseph Kim, Jordan Becci, Jake Meuse, Chloe Hwang, Waseem Ahmed.
 
 
 ## Grants
@@ -186,22 +199,6 @@ _Funder_: University of Florida AI 2 - $93,230 <br/>
 _Role_: PI <br/>
 
 
-### Pending
-`2025-2029` __NOAA Restore: Tracking trophic coupling and feedbacks in eastern GoM hard-bottom habitats to support natural resource management, conservation, and restoration__<br/>
-_Funder_: National Oceanic and Atmospheric Administration <br/>
-_Role_: Co-PI <br/>
-`2025-2029` __Global Centers: Global Centers: ACREAGE Advancing Climate REsilient Agriculture to Grow the bioEconomy__<br/>
-_Funder_: National Science Foundation <br/>
-_Role_: Senior Personnel <br/>
-`2025-2029` __ReefShot: harnessing the power of genomics, informatics, AI, and open science to reveal undiscovered marine life in a threatened ecosystem__<br/>
-_Funder_: OceanShot Foundation <br/>
-_Role_: Co-PI <br/>
-`2025` __AI-Enhanced Biodiversity Monitoring Using Combined Metagenomic and Image Data__<br/>
-_Funder_: Bezos Earth Fund 2024 <br/>
-_Role_: PI <br/>
-
-
-
 ### Past
 `2022-2022` __Academic Hardware Grant__<br/>
 _Funder_: Nvidia Corporation <br/>
@@ -222,6 +219,11 @@ _Funder_: Louisiana State University - $40,000 <br/>
 `2014` __Under-represented minority award__, International Mammalian Genomics Society, US
 
 ## Selected Presentations
+`2025` __ SICB 2025__, Atlanta, Georgia. _ An AI infrastructure for Organismal Biology_ (contributed).<br/>
+`2025` __ Anatomy Connected 2025__, Portland, Oregon. _Computer vision and the genetic analyses of complex traits_ (invited).<br/>
+`2024` __University of Minnesota Duluth__, Duluth, Minnesota. _An AI infrastructure for biology_ (invited).<br/>
+`2024` __University of Pittsburgh__, Pittsburgh, Pennsylvania. _Computer vision and the need for an AI infrastructure for biodiversity_ (invited).<br/>
+`2024` __University of Florida (Forestry)__, Gainesville, Florida. _What role does machine learning have to play in Biology?_ (invited).<br/>
 `2024` __2024 Advances in Digital Media - Media Generation__, Gainesville, Florida. _Color Segmentation in 3D_ (invited).<br/>
 `2024` __2024 Advances in Digital Media - AI and Digitization__, New Haven, Connecticut. _An AI Infrastructure for Biodiversity Research_ (invited).<br/>
 `2023` __7th Annual Digital Data Conference__, Tempe, Arizona. _A computer vision for organismal biology_. (plenary).<br/>
@@ -276,9 +278,10 @@ _Funder_: Louisiana State University - $40,000 <br/>
 
 `Journals`_PLOS Computational Biology, Scientific Reports, Nature Communications, Methods in Ecology and Evolution, Communications Biology, The American Naturalist, Proceedings of the Royal Society B, 	Evolution, Journal of Biogeography, Ecology and Evolution, Journal of Morphology, PyOpen Sci, Journal of Zoology, 	Current Zoology, Revista Argentina de 	Antropología Biológica, Journal of Zoological Systematics and Evolutionary Research, Zoological letters_.
 
-`Grants`_National Science Foundation (NSF)_, _The Austrian Science Fund (FWF)_.
+`Grants`_National Science Foundation (NSF)_, _The Austrian Science Fund (FWF)_, _Deutsch Forschungsgemeinschaft (DGT)_, _University of Florida_ (ROSF).
 
 ## Outreach
+`2025` Outreach event __AI for Wildlife__ at the Rock Hill Observatory, MN. <br/>
 `2024` Outreach talk  __Pixels for Paleo__ for the Florida Paleontological Society Meeting <br/>
 `2023` Interview for __Quanta Magazine__ for the article __Evoluttion: Fast or Slow? Lizards help resolve a paradox__ by Carrie Arnold <br/>
 `2023` Outreach talk  __AI in Biodiversity__ for the AI Days at University of Florida <br/>
@@ -295,9 +298,12 @@ Exhibition toured low-income high schools in São Paulo city for two academic ye
 `2020` __NRK__, _Forskergruppe i Norge mener klassisk studie av evolusjonen er feil_. <br/>
 
 ## Institutional Responsability
+`2025` __Expert Booth__, _Society for Integrative and Comparative Biology_, SICB 2025 Meeting. <br/>
+`2025` __Committee Member__ , _Digitization Committee_, University of Florida, US. <br/>
+`2025` __Organizer__ , _AI Days Teaching and Research Symposium_, University of Florida, US. <br/>
 `2024` __Organizer__ , _AI Days Teaching and Research Symposium_, University of Florida, US. <br/>
 `2024` __Digitization Committee__, Department of Natural History, University of Florida, US. <br/>
-`2024` __Advisory Board__, MorphoCloud, NSF, US. <br/>
+`2024-Present` __Advisory Board__, MorphoCloud, NSF, US. <br/>
 `2024` __Search Committee Member__, Department of Natural History, University of Florida, US. <br/>
 `2023` __Organizer__ , _AI Days Teaching and Research Symposium_, University of Florida, US. <br/>
 `2021` __Organizer__ , _Codefests and Makerspaces_, Louisiana State University, US. <br/>
@@ -308,6 +314,7 @@ Exhibition toured low-income high schools in São Paulo city for two academic ye
 
 ## Professional Workshops
 ### Leader/Instructor
+`2024` __Machine Learning in Biology__, University of Michigan, Remote. <br/>
 `2021` __FunkyMUG__, George Washington University, Washington DC, US <br/>
 `2021` __SlicerMorph__, Seattle Children's Hospital, Seattle, WA, US <br/>
 `2020` __SlicerMorph__, Seattle Children's Hospital, Seattle, WA, US <br/>
@@ -321,7 +328,7 @@ Exhibition toured low-income high schools in São Paulo city for two academic ye
 ## Consortia/ Working groups
 `2022-Present`__Imageomics 3D Working Group__, NSF-Funded, Multinational. <br/>
 `2021-2024` __Big Questions in Paleontology__, Multinational. <br/>
-`2019-Present`__Consortium for automated image analyses of bryozoan colonies (BryoIMDB)__,  Multinational.<br/>
+`2019-2025`__Consortium for automated image analyses of bryozoan colonies (BryoIMDB)__,  Multinational.<br/>
 `2019-2021`__Evolvability Working Group__, Centre for Advanced Studies, Norway.
 
 ## Fieldwork 
@@ -330,6 +337,8 @@ Exhibition toured low-income high schools in São Paulo city for two academic ye
 `2010` __Tremembe formation__, _Taubate basin_ (Oligocene-Miocene), Brazil.
 
 ## Software Contributions
+`2025` __SharkAI code__ .  (Core Contributor) <br/>
+_https://github.com/agporto/djtensor_
 
 `2024` __ModelMatch3D:__   3D Model Comparison in Forensic Identification.  (Main Author) <br/>
 _https://github.com/agporto/ModelMatch3D_
@@ -363,6 +372,6 @@ __Intermediate__: Spanish
 
 <!-- ### Footer
 
-Last updated: March 2022 -->
+Last updated: May 2025 -->
 
 
