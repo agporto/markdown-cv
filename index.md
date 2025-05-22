@@ -219,8 +219,8 @@ _Funder_: Louisiana State University - $40,000 <br/>
 `2014` __Under-represented minority award__, International Mammalian Genomics Society, US
 
 ## Selected Presentations
-`2025` __ SICB 2025__, Atlanta, Georgia. _ An AI infrastructure for Organismal Biology_ (contributed).<br/>
-`2025` __ Anatomy Connected 2025__, Portland, Oregon. _Computer vision and the genetic analyses of complex traits_ (invited).<br/>
+`2025` __SICB 2025__, Atlanta, Georgia. _ An AI infrastructure for Organismal Biology_ (contributed).<br/>
+`2025` __Anatomy Connected 2025__, Portland, Oregon. _Computer vision and the genetic analyses of complex traits_ (invited).<br/>
 `2024` __University of Minnesota Duluth__, Duluth, Minnesota. _An AI infrastructure for biology_ (invited).<br/>
 `2024` __University of Pittsburgh__, Pittsburgh, Pennsylvania. _Computer vision and the need for an AI infrastructure for biodiversity_ (invited).<br/>
 `2024` __University of Florida (Forestry)__, Gainesville, Florida. _What role does machine learning have to play in Biology?_ (invited).<br/>
