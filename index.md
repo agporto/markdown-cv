@@ -59,10 +59,10 @@ University of Florida
 
 `2025`D. Rossoni, Murray C., **Porto A.**, and D. Houle. Appendometer: A system for simultaneous, high-throughput morphometry of Drosophila legs and wings. _bioRxiv_: doi: https://doi.org/10.1101/2025.01.21.634122
 
-`2025`C. Pélabon, Agudelo-Cantero GA, Araya Ajoy YG, Bolstad GH, Cheng C, Galis F, Guillaume F, Haaland T, Hallgrimsson B, Hansen TF, Holstad A, Houle D, Hunt G, Isaksen A, Milocco L, Mubalegh N, Nuno de la Rosa L, Orzack SH, **Porto A.**, Reid JM, Sztepanacz J, Undheim EAB, Villegas C, Voje KL, Walling C, Wright J. Key questions about evolvability. _Submitted_.
-
 
 ### Published
+`2025` C. Pélabon, Agudelo-Cantero GA, Araya Ajoy YG, Bolstad GH, Cheng C, Galis F, Guillaume F, Haaland T, Hallgrimsson B, Hansen TF, Holstad A, Houle D, Hunt G, Isaksen A, Milocco L, Mubalegh N, Nuno de la Rosa L, Orzack SH, **Porto A.**, Reid JM, Sztepanacz J, Undheim EAB, Villegas C, Voje KL, Walling C, Wright J. Key questions about evolvability. _BioScience_(In Press).
+
 `2025`  Smith JA, Dowding EM, Abdelhady AA, _et al_. Big Questions in Paleontology. _Paleobiology_(In Press).
 
 `2025` Choi J, Choi S, **A. Porto**, Perkins H, Schlebusch S, Higgins D, Peters OA, Peters CI, Forrest A. Development of automatic 3D model comparison (ModelMatch3D) for forensic identification and testing using odontology data. _Forensic Imaging_ vol. 40: pp. 200621.
@@ -127,9 +127,9 @@ University of Florida
 
 ## Teaching Experience
 ### Undergraduate
-`2025`__Primary instructor__, _AI and Machine Learning for Dentistry, University of Florida, US. <br/>
-`2025`__Primary instructor__, _AI in Biology_, University of Florida, US. <br/>
-`2024`__Primary instructor__, _AI in Biology_, University of Florida, US. <br/>
+`2025` __Primary instructor__, _AI and Machine Learning for Dentistry_, University of Florida, US. <br/>
+`2025` __Primary instructor__, _AI in Biology_, University of Florida, US. <br/>
+`2024` __Primary instructor__, _AI in Biology_, University of Florida, US. <br/>
 `2021`  __Primary instructor__, _Evolution_, Louisiana State University, US.<br/>
 `2015` 	__Primary instructor__, _General Biology Lab_, Loyola University Chicago, US.<br/>
 `2011-2012`	__Graduate Teaching Assistant__, _Evolution_, Washington University in St Louis, US.<br/>
@@ -148,10 +148,14 @@ University of Florida
 ## Mentoring
 ### Postdoctoral
 `2024-Present` _University of Florida_ - Moritz Lurig <br/>
+`2025-Present` _University of Florida_ - Heru Handika <br/>
+`2025-Present` _University of Florida_ - Katherine Wolcott <br/>
+`2025-Present` _University of Florida_ - Caleb Gordon - Co-advised with Dr. Jonathan Bloch <br/>
 `2024-2025` _University of Sao Paulo_ - Leila Shirai <br/>
 `2021-2022` _Louisiana State University_ - Henrique Ribeiro <br/>
 
 ### Chair/Co-Chair
+`2025-Present` _University of Florida (Biology)_ - Lucas Teles Bezerra - Co-Advised with Dr. Vaughn Shirey <br/>
 `2025-Present` _University of Florida (Geology)_ - Stephanie Killingsworth  - Co-Advised with Dr. Bruce MacFadden <br/>
 `2023-Present` _Georgia Institute of Technology_ - Breanna Shi - Co-Advised with Dr. Patrick McGrath <br/>
 `2024-2025` _University of Florida (Biology)_ - Emilio Mancero <br/>
