@@ -49,21 +49,31 @@ University of Florida
 
 ## Publications <br/>
 
+### Preprint
+
+`2025` M.D. Lürig, Shirai, L.T., Mota, L.L., Willmott, K., Freitas, A.V. and **Porto, A.**, 2025. Aposematic color patterns are the dominant axis of phenotypic diversification in Nymphalid butterflies. _bioRxiv_, pp.2025-09.
+
+`2025` D. Rossoni, Murray C., **Porto A.**, and D. Houle. Appendometer: A system for simultaneous, high-throughput morphometry of Drosophila legs and wings. _bioRxiv_: doi: https://doi.org/10.1101/2025.01.21.634122
+
+`2025` F.A. Machado, Penna, A., Melo, D., Costa, B.A., Zahn, T.M., Pavan, A.C., **Porto, A.**, Sebastião, H., Rossoni, D.M., Marroig, G. and Hubbe, A., 2025. Invasion of new adaptive zones retains telltale signs of directional selection at macroevolutionary scales in mammals. _bioRxiv_, pp.2025-12.
+
+
 ### Submitted
 
-`2025` B. MacFadden, C. Barberis, M. C. Vallejo-Pareja, S. Zbinden, V. Perez, S. Killingsworth, K. Marks, D. Hall, **A. Porto**. AI and paleontology: Effects of vertebrate fossil sample size on machine learning image classification. Submitted.
+`2026` M. Balk, **A. Porto**, P. Taylor, K. L. Voje.  Genetic constraints unaffected by selection predicts evolution within a fossil lineage. Submitted. 
 
-`2025` M. Balk, **A. Porto**, P. Taylor, K. L. Voje.  Genetic constraints unaffected by selection predicts evolution within a fossil lineage. Submitted. 
-
-`2025`B. Shi, Lancaster T., Cozart K., McGrath P., and **A. Porto**. BioBoost: Boosting Imbalanced Class Detection with Trajectory-Aided Annotation. Submitted.
-
-`2025`D. Rossoni, Murray C., **Porto A.**, and D. Houle. Appendometer: A system for simultaneous, high-throughput morphometry of Drosophila legs and wings. _bioRxiv_: doi: https://doi.org/10.1101/2025.01.21.634122
+`2026`B. Shi, Lancaster T., Cozart K., McGrath P., and **A. Porto**. BioBoost: Boosting Imbalanced Class Detection with Trajectory-Aided Annotation. Submitted.
 
 
 ### Published
-`2025` C. Pélabon, Agudelo-Cantero GA, Araya Ajoy YG, Bolstad GH, Cheng C, Galis F, Guillaume F, Haaland T, Hallgrimsson B, Hansen TF, Holstad A, Houle D, Hunt G, Isaksen A, Milocco L, Mubalegh N, Nuno de la Rosa L, Orzack SH, **Porto A.**, Reid JM, Sztepanacz J, Undheim EAB, Villegas C, Voje KL, Walling C, Wright J. Key questions about evolvability. _BioScience_(In Press).
 
-`2025`  Smith JA, Dowding EM, Abdelhady AA, _et al_. Big Questions in Paleontology. _Paleobiology_(In Press).
+`2026` E.M. Martin, Norris RW,**Porto A**, Sherratt E. Similarities in morphological integration and evolutionary potential across four common foot forms in birds. _Evolutionary Biology_ (In Press).
+
+`2026` B. MacFadden, C. Barberis, M. C. Vallejo-Pareja, S. Zbinden, V. Perez, S. Killingsworth, K. Marks, D. Hall, **A. Porto**. AI and paleontology: Effects of vertebrate fossil sample size on machine learning image classification. _Paleobiology_(In Press).
+
+`2025` C. Pélabon, Agudelo-Cantero GA, Araya Ajoy YG, Bolstad GH, Cheng C, Galis F, Guillaume F, Haaland T, Hallgrimsson B, Hansen TF, Holstad A, Houle D, Hunt G, Isaksen A, Milocco L, Mubalegh N, Nuno de la Rosa L, Orzack SH, **Porto A.**, Reid JM, Sztepanacz J, Undheim EAB, Villegas C, Voje KL, Walling C, Wright J. Key questions about evolvability. _BioScience_ vol. 75(12): pp. 1042-1057
+
+`2025`  Smith JA, Dowding EM, Abdelhady AA, _et al_. Identifying the Big Questions in paleontology: a community-driven project. _Paleobiology_ vol. 51 (3): pp. 408-431
 
 `2025` Choi J, Choi S, **A. Porto**, Perkins H, Schlebusch S, Higgins D, Peters OA, Peters CI, Forrest A. Development of automatic 3D model comparison (ModelMatch3D) for forensic identification and testing using odontology data. _Forensic Imaging_ vol. 40: pp. 200621.
 
@@ -127,6 +137,8 @@ University of Florida
 
 ## Teaching Experience
 ### Undergraduate
+`2026` __Primary instructor__, _AI and Machine Learning for Dentistry_, University of Florida, US. <br/>
+`2026` __Primary instructor__, _AI in Biology_, University of Florida, US. <br/>
 `2025` __Primary instructor__, _AI and Machine Learning for Dentistry_, University of Florida, US. <br/>
 `2025` __Primary instructor__, _AI in Biology_, University of Florida, US. <br/>
 `2024` __Primary instructor__, _AI in Biology_, University of Florida, US. <br/>
@@ -140,6 +152,7 @@ University of Florida
 `2008-2009` __Primary instructor__, _Evolution_, Universidade Cruzeiro do Sul, Brazil.
 
 ### Graduate
+`2026` __Primary instructor__, _AI in Biology_, University of Florida, US. <br/>
 `2025`__Primary instructor__, _AI in Biology_, University of Florida, US. <br/>
 `2024`__Primary instructor__, _AI in Biology_, University of Florida, US. <br/>
 `2017`__Invited instructor__, _Latin American School of Evolution_, Universidade de Sao Paulo, Brazil. <br/>
@@ -155,13 +168,14 @@ University of Florida
 `2021-2022` _Louisiana State University_ - Henrique Ribeiro <br/>
 
 ### Chair/Co-Chair
+`2025-Present` _University of Florida (Biology)_ - Zachary Randall - Co-Advised with Dr. Larry Page <br/>
 `2025-Present` _University of Florida (Biology)_ - Lucas Teles Bezerra - Co-Advised with Dr. Vaughn Shirey <br/>
 `2025-Present` _University of Florida (Geology)_ - Stephanie Killingsworth  - Co-Advised with Dr. Bruce MacFadden <br/>
 `2023-Present` _Georgia Institute of Technology_ - Breanna Shi - Co-Advised with Dr. Patrick McGrath <br/>
 `2024-2025` _University of Florida (Biology)_ - Emilio Mancero <br/>
 `2021-2022` _Louisiana State University_ - Nevyn Neal <br/>
 
-### Committee
+### Committee Member
 `2023-Present` University of Florida - _Department of Biology_ -  Jacob Idec	<br/>
 `2023-Present` Virginia Tech - _Department of Biology_ -  Caleb Charpentier	<br/>
 `2024-Present` University of Florida - _Department of Geological Sciences_ -  Hyungjoo Jang	<br/>
@@ -179,8 +193,8 @@ University of Florida
 ### Undergraduate
 `NSF-REU` (2 total) <br/>
 _Students:_ Altan Kocatulum, Maximilian McKnight <br/>
-`Project` (28 total) <br/>
-_Students:_ Andrew da Silva, Juliete Marcelli Zanelli, Damaris Alegreti, Leila Primilla, Vivian Negreiros, Adriana Souza, Camila Santos, Angelica Fiedler, Ana Paula Croce, Jessica Fontes Chaves, Claudia Oliveira, Bruno Vinicius Cerqueira, Heather Caulkins, Katherine Pjevach, Alejandra Guevara, Ryan Schmelter, Sivaram Yeramati, Daphne Zuniga, Paraman Gallipalli, Soma Elefanti, Thomas Olinger-Jiang, Manas Adepu, Jun Tianzhong, Joseph Kim, Jordan Becci, Jake Meuse, Chloe Hwang, Waseem Ahmed.
+`Project` (30 total) <br/>
+_Students:_ Andrew da Silva, Juliete Marcelli Zanelli, Damaris Alegreti, Leila Primilla, Vivian Negreiros, Adriana Souza, Camila Santos, Angelica Fiedler, Ana Paula Croce, Jessica Fontes Chaves, Claudia Oliveira, Bruno Vinicius Cerqueira, Heather Caulkins, Katherine Pjevach, Alejandra Guevara, Ryan Schmelter, Sivaram Yeramati, Daphne Zuniga, Paraman Gallipalli, Soma Elefanti, Thomas Olinger-Jiang, Manas Adepu, Jun Tianzhong, Joseph Kim, Jordan Becci, Jake Meuse, Chloe Hwang, Waseem Ahmed, Alex Areias, Emma Villagra.
 
 
 ## Grants
@@ -216,6 +230,7 @@ _Funder_: Louisiana State University - $40,000 <br/>
 `2004-2005`	__Undergraduate Fellowship__, FAPESP, Sao Paulo, Brazil 
 
 ## Awards 
+`2025` __HiperGator Early Career Award__, University of Florida, US <br/>
 `2021` __Robert May Prize__, British Ecological Society, UK <br/>
 `2018`	__Best talk by Early Career Researcher__, Larwood Meeting, Wales, UK <br/>
 `2015` __Initiative to Maximize Student Development (IMSD) Program Award__, US <br/>
@@ -223,6 +238,7 @@ _Funder_: Louisiana State University - $40,000 <br/>
 `2014` __Under-represented minority award__, International Mammalian Genomics Society, US
 
 ## Selected Presentations
+`2026` __SICB 2026__, Portland, Oregon. _Scaling 3D Morphometrics to Macroevolutionary Research_ (contributed).<br/>
 `2025` __SICB 2025__, Atlanta, Georgia. _An AI infrastructure for Organismal Biology_ (contributed).<br/>
 `2025` __Anatomy Connected 2025__, Portland, Oregon. _Computer vision and the genetic analyses of complex traits_ (invited).<br/>
 `2024` __University of Minnesota Duluth__, Duluth, Minnesota. _An AI infrastructure for biology_ (invited).<br/>
