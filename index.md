@@ -345,6 +345,7 @@ Exhibition toured low-income high schools in São Paulo city for two academic ye
 `2020` __SlicerMorph__, Seattle Children's Hospital, Seattle, WA, US <br/>
 
 ### Attended
+`2025` __Finding your stories__, Florida Museum, US. <br/>
 `2025` __SlicerMorph/MorphoCloud__, Friday Harbor Laboratories, US. <br/>
 `2017` __Genetic Analyses Workshop__, GAW20, San Diego, CA, US	<br/>
 `2015` __Vertebrate Digitization__, Cornell University, Ithaca, NY, US <br/>
