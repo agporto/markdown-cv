@@ -303,6 +303,7 @@ _Funder_: Louisiana State University - $40,000 <br/>
 `Institutions` _Field Museum_(Mid-tenure package).
 
 ## Outreach
+`2025` Florida Museum stand at the __2025 Fall Undergraduate Research Expo__ at University of Florida <br/>
 `2025` Outreach event __AI for Wildlife__ at the Rock Hill Observatory, MN. <br/>
 `2024` Outreach talk  __Pixels for Paleo__ for the Florida Paleontological Society Meeting <br/>
 `2023` Interview for __Quanta Magazine__ for the article __Evoluttion: Fast or Slow? Lizards help resolve a paradox__ by Carrie Arnold <br/>
@@ -320,6 +321,8 @@ Exhibition toured low-income high schools in São Paulo city for two academic ye
 `2020` __NRK__, _Forskergruppe i Norge mener klassisk studie av evolusjonen er feil_. <br/>
 
 ## Institutional Responsability
+`2026` __Mentor - Applying for PhD Programs__, _Society for Integrative and Comparative Biology_, SICB 2026 Meeting. <br/>
+`2026` __Judge - Best Poster Award__, _Society for Integrative and Comparative Biology_, SICB 2026 Meeting. <br/>
 `2026` __Search Committee Member__, Whitney Marine Laboratories, University of Florida, US. <br/>
 `2025` __Expert Booth__, _Society for Integrative and Comparative Biology_, SICB 2025 Meeting. <br/>
 `2025` __Committee Member__ , _Digitization Committee_, University of Florida, US. <br/>
