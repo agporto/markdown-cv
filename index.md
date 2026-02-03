@@ -191,10 +191,12 @@ University of Florida
 `2021` _James Cook University_ - César Herrera <br/>
 
 ### Undergraduate
+`Honors thesis`  (3 total) <br/>
+_Students:_ Juliete Marcelli, Andrew da Silva, Jake Meuse <br/>
 `NSF-REU` (2 total) <br/>
 _Students:_ Altan Kocatulum, Maximilian McKnight <br/>
-`Project` (30 total) <br/>
-_Students:_ Andrew da Silva, Juliete Marcelli Zanelli, Damaris Alegreti, Leila Primilla, Vivian Negreiros, Adriana Souza, Camila Santos, Angelica Fiedler, Ana Paula Croce, Jessica Fontes Chaves, Claudia Oliveira, Bruno Vinicius Cerqueira, Heather Caulkins, Katherine Pjevach, Alejandra Guevara, Ryan Schmelter, Sivaram Yeramati, Daphne Zuniga, Paraman Gallipalli, Soma Elefanti, Thomas Olinger-Jiang, Manas Adepu, Jun Tianzhong, Joseph Kim, Jordan Becci, Jake Meuse, Chloe Hwang, Waseem Ahmed, Alex Areias, Emma Villagra.
+`Project` (31 total) <br/>
+_Students:_ Andrew da Silva, Juliete Marcelli Zanelli, Damaris Alegreti, Leila Primilla, Vivian Negreiros, Adriana Souza, Camila Santos, Angelica Fiedler, Ana Paula Croce, Jessica Fontes Chaves, Claudia Oliveira, Bruno Vinicius Cerqueira, Heather Caulkins, Katherine Pjevach, Alejandra Guevara, Ryan Schmelter, Sivaram Yeramati, Daphne Zuniga, Paraman Gallipalli, Soma Elefanti, Thomas Olinger-Jiang, Manas Adepu, Jun Tianzhong, Joseph Kim, Jordan Becci, Jake Meuse, Chloe Hwang, Waseem Ahmed, Alex Areias, Emma Villagra, Kira Luna.
 
 
 ## Grants
@@ -287,16 +289,13 @@ _Funder_: Louisiana State University - $40,000 <br/>
 `2023` __IAFS 2023__, Sydney, Australia. Choi et al. _Open-Source Software for Dental 3D Surface Comparison in Routine Forensic Identification and Disaster Victim Identification Incidents_.<br/>
 
 
-
-
-
 ## Editorial Service
 `2020-2023` Associate Editor at Methods in Ecology and Evolution.
 
 ## Expert Reviewer Service
 `Workshops` _CV4Ecology Summer Workshop_ at MIT.
 
-`Journals`_PLOS Computational Biology, Scientific Reports, Nature Communications, Methods in Ecology and Evolution, Communications Biology, The American Naturalist, Proceedings of the Royal Society B, 	Evolution, Journal of Biogeography, Ecology and Evolution, Journal of Morphology, PyOpen Sci, Journal of Zoology, 	Current Zoology, Revista Argentina de 	Antropología Biológica, Journal of Zoological Systematics and Evolutionary Research, Zoological letters_.
+`Journals`_PLOS Computational Biology, Scientific Reports, Nature Communications, Methods in Ecology and Evolution, Communications Biology, BMC Ecology and Evolution, The American Naturalist, Proceedings of the Royal Society B, 	Evolution, Journal of Biogeography, Ecology and Evolution, Journal of Morphology, PyOpen Sci, Journal of Zoology, 	Current Zoology, Revista Argentina de 	Antropología Biológica, Journal of Zoological Systematics and Evolutionary Research, Zoological letters_.
 
 `Grants`_National Science Foundation (NSF)_, _The Austrian Science Fund (FWF)_, _Deutsch Forschungsgemeinschaft (DGT)_, _University of Florida_ (ROSF).
 
@@ -340,11 +339,13 @@ Exhibition toured low-income high schools in São Paulo city for two academic ye
 
 ## Professional Workshops
 ### Leader/Instructor
-`2024` __Machine Learning in Biology__, University of Michigan, Remote. <br/>
+`2025` __Machine Learning in Biology__, University of Michigan, Remote. <br/>
 `2021` __FunkyMUG__, George Washington University, Washington DC, US <br/>
 `2021` __SlicerMorph__, Seattle Children's Hospital, Seattle, WA, US <br/>
 `2020` __SlicerMorph__, Seattle Children's Hospital, Seattle, WA, US <br/>
+
 ### Attended
+`2025` __SlicerMorph/MorphoCloud__, Friday Harbor Laboratories, US. <br/>
 `2017` __Genetic Analyses Workshop__, GAW20, San Diego, CA, US	<br/>
 `2015` __Vertebrate Digitization__, Cornell University, Ithaca, NY, US <br/>
 `2014` __Evolutionary Quantitative Genetics__, NimBios, Knoxville, TN, US 	<br/>
