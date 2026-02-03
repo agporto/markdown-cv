@@ -67,7 +67,7 @@ University of Florida
 
 ### Published
 
-`2026` E.M. Martin, Norris RW,**Porto A**, Sherratt E. Similarities in morphological integration and evolutionary potential across four common foot forms in birds. _Evolutionary Biology_ (In Press).
+`2026` E.M. Martin, Norris RW,**Porto A**, Sherratt E. Similarities in Morphological Integration and Evolutionary Potential Across Four Common Foot Forms in Birds. _Evolutionary Biology_: pp.1-18
 
 `2026` B. MacFadden, C. Barberis, M. C. Vallejo-Pareja, S. Zbinden, V. Perez, S. Killingsworth, K. Marks, D. Hall, **A. Porto**. AI and paleontology: Effects of vertebrate fossil sample size on machine learning image classification. _Paleobiology_(In Press).
 
@@ -180,7 +180,7 @@ University of Florida
 `2023-Present` Virginia Tech - _Department of Biology_ -  Caleb Charpentier	<br/>
 `2024-Present` University of Florida - _Department of Geological Sciences_ -  Hyungjoo Jang	<br/>
 `2024-Present` University of Florida - _Department of Geological Sciences_ -  Heshan Liyanagedara	<br/>
-`2025-Present` University of Florida - _Department of Physics_ -  Leo Law	<br/>
+`2024-2025` University of Florida - _Department of Physics_ -  Leo Law	<br/>
 
 
 ### Examiner
@@ -300,6 +300,8 @@ _Funder_: Louisiana State University - $40,000 <br/>
 
 `Grants`_National Science Foundation (NSF)_, _The Austrian Science Fund (FWF)_, _Deutsch Forschungsgemeinschaft (DGT)_, _University of Florida_ (ROSF).
 
+`Institutions` _Field Museum_(Mid-tenure package).
+
 ## Outreach
 `2025` Outreach event __AI for Wildlife__ at the Rock Hill Observatory, MN. <br/>
 `2024` Outreach talk  __Pixels for Paleo__ for the Florida Paleontological Society Meeting <br/>
@@ -318,6 +320,7 @@ Exhibition toured low-income high schools in São Paulo city for two academic ye
 `2020` __NRK__, _Forskergruppe i Norge mener klassisk studie av evolusjonen er feil_. <br/>
 
 ## Institutional Responsability
+`2026` __Search Committee Member__, Whitney Marine Laboratories, University of Florida, US. <br/>
 `2025` __Expert Booth__, _Society for Integrative and Comparative Biology_, SICB 2025 Meeting. <br/>
 `2025` __Committee Member__ , _Digitization Committee_, University of Florida, US. <br/>
 `2025` __Organizer__ , _AI Days Teaching and Research Symposium_, University of Florida, US. <br/>
