@@ -279,6 +279,9 @@ _Funder_: Louisiana State University - $40,000 <br/>
 `2009`__Universidade de Sao Paulo__, Sao Paulo, Brazil. _Size matters: morphological evolution of the mammalian skull_. (invited talk)
 
 ## Selected Abstracts
+`2026` __AABA 2026__ Denver, CO. N. Vitek and A. Porto.Tactical constraints in dense morphometric methods.<br/>
+`2025` __GSA 2025__ San Antonio, TX. N. Vitek and A. Porto. Developmental components of the molar tooth crown show stronger potential for recovering microevolutionary signal in the fossil record.<br/>
+`2025` __GSA 2025__ San Antonio, TX. P.H. Liyanagedara, R. Portell, L. Torres Jr, M. Kowalewski1, A. Porto. Cracking the Code of Fragmented Fossils: A Machine Learning Approach to Irregular Echinoid Identification.<br/>
 `2024` __33rd Interpol DVI__, Lyon, France. Choi S. _et al._. _Development and Validation of Automatic 3D Model Comparison in Forensic Identification_.<br/>
 `2024` __ICE 2024__, Kyoto, Japan. __A. Porto__ and M. Lurig. _BioEncoder: a metric learning toolkit for comparative organismal biology_.<br/>
 `2024` __SICB__, Seattle, WA. M. McKnight, A. Porto, and A. Summers et al. _A computerized method for efficient mass uCT scanning of otoliths and dense objects_.<br/>
