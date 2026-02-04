@@ -368,6 +368,9 @@ Exhibition toured low-income high schools in São Paulo city for two academic ye
 `2010` __Tremembe formation__, _Taubate basin_ (Oligocene-Miocene), Brazil.
 
 ## Software Contributions
+`2026` __ATLAS__ .  (Main Author) <br/>
+_https://github.com/agporto/ATLAS_
+
 `2025` __SharkAI code__ .  (Core Contributor) <br/>
 _https://github.com/agporto/djtensor_
 
