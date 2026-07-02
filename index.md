@@ -51,6 +51,10 @@ University of Florida
 
 ### Preprint
 
+`2026` S. Kim _et al._ (including **A. Porto**). On the limits and opportunities of AI reviewers: Reviewing the reviews of Nature-family papers with 45 expert scientists." arXiv:2605.20668.
+
+`2026` M. Quintana, Loh, L.Y., Parikh, A., Suh, J.J., Chavez, V., **Porto, A.**, Shi, B., Stroud, J.T. LizardMorph: A generalizable machine learning framework for automated anatomical landmark detection in digital images. _bioRxiv_ , pp. 2026-06.
+
 `2025` M.D. Lürig, Shirai, L.T., Mota, L.L., Willmott, K., Freitas, A.V. and **Porto, A.**, 2025. Aposematic color patterns are the dominant axis of phenotypic diversification in Nymphalid butterflies. _bioRxiv_, pp.2025-09.
 
 `2025` D. Rossoni, Murray C., **Porto A.**, and D. Houle. Appendometer: A system for simultaneous, high-throughput morphometry of Drosophila legs and wings. _bioRxiv_: doi: https://doi.org/10.1101/2025.01.21.634122
@@ -160,10 +164,10 @@ University of Florida
 
 ## Mentoring
 ### Postdoctoral
-`2024-Present` _University of Florida_ - Moritz Lurig <br/>
 `2025-Present` _University of Florida_ - Heru Handika <br/>
 `2025-Present` _University of Florida_ - Katherine Wolcott <br/>
 `2025-Present` _University of Florida_ - Caleb Gordon - Co-advised with Dr. Jonathan Bloch <br/>
+`2024-2026` _University of Florida_ - Moritz Lurig <br/>
 `2024-2025` _University of Sao Paulo_ - Leila Shirai <br/>
 `2021-2022` _Louisiana State University_ - Henrique Ribeiro <br/>
 
@@ -171,7 +175,7 @@ University of Florida
 `2025-Present` _University of Florida (Biology)_ - Zachary Randall - Co-Advised with Dr. Larry Page <br/>
 `2025-Present` _University of Florida (Biology)_ - Lucas Teles Bezerra - Co-Advised with Dr. Vaughn Shirey <br/>
 `2025-Present` _University of Florida (Geology)_ - Stephanie Killingsworth  - Co-Advised with Dr. Bruce MacFadden <br/>
-`2023-Present` _Georgia Institute of Technology_ - Breanna Shi - Co-Advised with Dr. Patrick McGrath <br/>
+`2023-2026` _Georgia Institute of Technology_ - Breanna Shi - Co-Advised with Dr. Patrick McGrath <br/>
 `2024-2025` _University of Florida (Biology)_ - Emilio Mancero <br/>
 `2021-2022` _Louisiana State University_ - Nevyn Neal <br/>
 
@@ -205,6 +209,12 @@ _Students:_ Andrew da Silva, Juliete Marcelli Zanelli, Damaris Alegreti, Leila P
 `2024-2027` __Collaborative Research: Harnessing a high-resolution fossil record and novel (AI) workflows to study the effects of climate change on mammalian functional diversity__<br/>
 _Funder_: National Science Foundation - $419,234 (UF) <br/>
 _Role_: Co-PI <br/>
+`2026-2027` __AIIRI2026 - __Knowledge-Guided AI Benchmarks: Introducing Natural Hierarchies into Image Models and Segmenting Soft Tissues in CT Volumes__ <br/>
+_Funder_: University of Florida AI Institute - $47,230 <br/>
+_Role_: PI <br/>
+
+### Past
+
 `2024-2026` __DRPD-ROSF 2024 - Unveiling hidden biodiversity: Leveraging AI to mine museum collections__ <br/>
 _Funder_: University of Florida - $98,000 <br/>
 _Role_: Co-PI <br/>
@@ -217,9 +227,6 @@ _Role_: Co-PI <br/>
 `2024-2026` __Seed AI 2024 - BioCosmos: A Foundational Multimodal AI Model for Biodiversity__ <br/>
 _Funder_: University of Florida AI 2 - $93,230 <br/>
 _Role_: PI <br/>
-
-
-### Past
 `2022-2022` __Academic Hardware Grant__<br/>
 _Funder_: Nvidia Corporation <br/>
 `2021-2023` __Dean's Strategic Funding  - Codefests and Makerspaces__<br/>
